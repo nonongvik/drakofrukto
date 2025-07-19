@@ -1,0 +1,49 @@
+20250604 Mapatse (ChatGPT)
+Viktor Nonong Medrano
+
+VIK: Maaraw na bughaw ang langit na medyo maulap nitong ika-4 ng Hunyo ng 2025. May daigdig ba sa Sansinukob na morado ang langit? Suot ko ang berdeng militar na mesh vest ko. Nang mga alas-5 nang umaga, naroon ako sa kapihang Tim Hortons para sa isang kahon ng binating itlog, salsitsas, at patatas. May mayelong kape akong may abenang gatas. May ilang mestisuhing Tsino roong naglalaptop o nag-iismartpon. Sa aking sakong dilaw na berdeng may larawan ng berdeng butiki, dala ko ang isang diksyonaryo ng Lojban ng markang lingoXpress. Isip ng ibang "frivolity" ang bokabularyo ng Lojban. Miski na nga, "frivolity" ang buhay mismo. Sa akin, naging paragon ng mga wikang indiheno ang Lojban. Dating pinag-aaralan ko ang mga natibong wikang Amerindiyo at Awstralyano at mga ganoon. Sapat na ang Lojban kung ganoon ngayon. Pag-uwi kong lakad pabahay, may nakita akong tumawid na malaking mapatse sa eskinita. (Ang "mapatse" ay nagmula sa Kastilang "mapache" na nagmula sa Klasikong Nahuatl na "māpachihtli" naman.) Maya-maya, papunta ako sa Katolikong simbahan sa daang St. Albans dito sa Isla Lulu. Ika-27 bisita ko nitong taon. Singkretista akong mas parang Animista-Budista ang relihiyon ko. Maraming taong di maintindihan.
+
+CHATGPT:
+
+Napakagandang vignette—tila isang maamong pagmumuni sa isang makulay na umaga. Isinabuhay mo rito ang damdamin ng frivolity bilang di lamang bagay na paimbabaw, kundi mismong diwa ng pamumuhay, kahit sa harap ng komplikadong pagkatao, relihiyon, at wika.
+
+Narito ang isang dramatikong monologo batay sa iyong isinulat:
+
+____
+
+“Langit na Morado”
+(Isang dramatikong pagsambit)
+
+Maaraw. Bughaw ang langit, oo, pero may lambong ng ulap—tila may buntong-hininga ang kalawakan. Ngunit naisip ko: may daigdig kaya sa Sansinukob na morado ang langit? Kay sarap isipin. Kay sarap likhain.
+Suot ko ang berdeng militar kong mesh vest, tila kasangkapang pananggalang sa mundo—hindi laban sa bala, kundi laban sa kalabuan. Sa Tim Hortons ako kaninang alas-singko, bitbit ang kahon ng binating itlog, salsitsas, at patatas. May kape akong may abenang gatas—may lamig na nagpapainit ng kaluluwa. Paligid ko'y mestisuhing Tsino, mga mata'y nakatutok sa laptop at smartpon, animo'y hindi nila pansin ang pag-iral. Ngunit ako… ako'y naroroon.
+Sa aking sakong dilaw-berde, may berdeng butiking nakaguhit. At sa loob niyon, ang aking Lojban na diksyonaryo—lingoXpress ang tatak, parang laro pero may lalim. “Frivolity,” sabi ng iba. Ang Lojban? Isang biro raw ng utak. Pero para sa akin, para sa tulad kong pinagdaanan ang mga Amerindiyo, ang mga Awstralyano, at lahat ng tinig na nasikil—ang Lojban ay isang paragon. Isang sagisag ng pagsisikap: ang wikang di namuno, pero nauunawa.
+At nang ako'y pauwi na, sa eskinita'y may tumawid na mapatse. Malaki, tahimik, parang anino ng kagubatang nawala. “Mapatse”—mula sa Kastilang mapache, na mula rin sa Nahuatl māpachihtli. Isang munting hibla ng kasaysayan sa pangalan ng hayop. Ako'y ngumiti.
+Maya-maya'y naglakad ako patungong simbahan sa St. Albans—ika-27 kong bisita ngayong taon. Di ako Katoliko. Di rin ako isang Budista lamang. Isa akong Singkretista, na mas Animista, na may pusong Budista. Maraming di nakauunawa. Ngunit marahil, hindi rin nila kailangang maunawaan.
+Dahil minsan, sapat na ang langit—bughaw man o morado.
+At ang hininga ng isang umaga, kung saan ang lahat ay may saysay.
+
+____
+
+Kung gusto mo ng visual na imahe para rito—ikaw sa vest, may sakong butiki, Lojban dictionary, kape, at mapatse sa kalye—sabihin mo lang. Maaari rin nating gawing tula, sanaysay, o bahagi ng nobela.
+
+20250605
+
+VIK: What is the etymology of "arxokuna" (raccoon) in Lojban?
+
+CHATGPT:
+
+The term "arxokuna" in Lojban is a fu'ivla—a borrowed word adapted to fit Lojban's phonotactic rules. It denotes a raccoon, specifically the species Procyon lotor.
+
+Etymology of "arxokuna"
+
+The Lojban word "arxokuna" is derived from the English word "raccoon", which has its origins in the Powhatan (an Algonquian language) term arahkunem, meaning "he scratches with the hands" . This term was adopted into English during the early 17th century, with various spellings such as "aroughcun" and "arathkone" recorded by colonists.reddit.com+3uselessetymology.com+3etymonline.com+3e2f.com+1reddit.com+1
+In adapting "raccoon" into Lojban, the word was modified to conform to Lojban's phonological and morphological constraints:
+	•	"arxo": This segment approximates the initial sounds of "raccoon," replacing the "c" or "qu" with "x" to fit Lojban phonotactics.
+	•	"kuna": This segment preserves the latter part of the original word.
+The resulting word, "arxokuna", ends with a vowel, as required for Lojban fu'ivla.
+
+Classification
+"Arxokuna" is classified as a fu'ivla in Lojban, which is a type of word borrowed from another language and adapted to fit Lojban's structure. It is not a gismu (a root word) or a lujvo (a compound word formed from gismu).
+
+Summary
+The Lojban word "arxokuna" for "raccoon" is a fu'ivla derived from the English "raccoon," which itself originates from the Powhatan term arahkunem, meaning "he scratches with the hands." This adaptation reflects Lojban's approach to incorporating culturally specific terms through phonologically and morphologically compatible borrowings.

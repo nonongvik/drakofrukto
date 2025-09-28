@@ -1,0 +1,61 @@
+20250922 Katangian ng Koreano (ChatGPT)
+Viktor Nonong Medrano
+
+VIK: Sa aking isip, ang mga lengguwaheng Esperanto at Lojban ay may katangian ng Koreano. Ayos ba ang iniisip ko?
+
+CHATGPT:
+
+Magandang tanong iyan. 🙂
+
+Kung susuriin:
+	•	Esperanto:
+	•	Katangian: regular na gramatika, halos walang irregular verbs, aglutinatibong affixes.
+	•	Katulad sa Koreano: Ang Koreano ay aglutinatibo rin (dinidikit ang mga panlapi sa ugat ng salita), kaya may kaunting parallel.
+	•	Lojban:
+	•	Katangian: napakatinik sa lohikal na istruktura, mahigpit ang syntax, modular ang salita.
+	•	Katulad sa Koreano: Ang Koreano ay head-final (madalas subject–object–verb order), at mahigpit din ang logic sa pagbuo ng pangungusap kung susundan mo ang particles (은/는, 이/가, 을/를, etc.). Medyo may resonance doon.
+	•	Pagkakaiba:
+	•	Ang Koreano ay may honorific system at speech levels na wala sa Esperanto o Lojban.
+	•	Ang Esperanto ay European-based sa bokabularyo, samantalang Lojban ay galing sa iba’t ibang wika pero sistematisadong lohika.
+👉 Kaya masasabi na ang iniisip mo ay hindi literal na tama, pero may intuitive similarity: parehong structured, aglutinative, at may malinaw na marker system tulad ng Koreano.
+
+Gusto mo ba, gawin kong mas konkretong paghahambing? Halimbawa, ihambing natin ang isang pangungusap sa Esperanto, Lojban, at Koreano para makita ang parallel?
+
+VIK: Sa Lojban, may sistemang panggalang sa paggamit ng <.io> sa respeto, <ga'i> sa hauteur, <ga'inai> sa meekness, at iba pa yata.
+
+CHATGPT:
+
+Tama ka 👍 — sa Lojban may attitudinals at evidentials, mga maliit na cmavo na nagdadagdag ng kulay, damdamin, o sosyal na antas sa pananalita.
+
+Narito ang kaugnay sa binanggit mo:
+	•	.io → nagpapahiwatig ng paggalang / respeto.
+	•	ga'i → nagpapahiwatig ng superiority / hauteur.
+	•	ga'inai → kabaligtaran, kababaang-loob / meekness.
+May iba pang nasa parehong “social” o status/attitudinal series:
+	•	coi / co'o → pagbati (“hello” / “goodbye”), na maaari mong dagdagan ng attitudinal tulad ng .io para gawing mas magalang.
+	•	je'enai → indikasyon ng kawalan ng interes o disengagement.
+	•	pei → marker na nagtatanong kung ano ang emosyonal na tono ng kausap.
+👉 Kaya, parang parallel nga ito sa Koreano honorifics at speech levels. Ang pagkakaiba lang:
+	•	Sa Koreano, nakabaon sa verb endings at vocabulary (hal. 합니다 vs 해요 vs 해).
+	•	Sa Lojban, nakahiwalay na maliit na cmavo na puwedeng isingit kahit saan sa pangungusap, parang “social particles.”
+Gusto mo ba, ilatag ko ang isang halimbawang dayalog na may parehong linya sa Lojban (gamit ang .io, ga’i, ga’inai, etc.) at sa Koreano (gamit ang honorific endings) para makita mo ang kapareho at kaibahan?
+
+VIK: Oo, "intuitive similarity" ang ibig sabihin ko.
+
+CHATGPT:
+
+Ah, gets ko na. 🌱
+
+Kapag sinabi mong may “intuitive similarity” ang Esperanto at Lojban sa Koreano, oo, may tama kang pakiramdam:
+	•	Esperanto ↔ Koreano
+	•	parehong aglutinatibo → malinaw na idinadagdag ang affixes/particles para sa gramatikal na tungkulin.
+	•	walang gaanong irregularidad → sistematiko.
+	•	Lojban ↔ Koreano
+	•	parehong may mahigpit na pagkakasunod (Koreano: SOV, Lojban: posisyon ng cmavo at bridi/selbri).
+	•	parehong gumagamit ng markers para tukuyin ang relasyon ng salita (Koreano: 은/는, 이/가, Lojban: fa, fe, fi, fo, fu, atbp.).
+	•	parehong may “social nuance” particles/endings (Koreano: -요, -ㅂ니다, Lojban: .io, ga’i, ga’inai, etc.).
+Pero siyempre, hindi literal na magkatulad — iba ang pinagmulan at estilo. Ang Koreano ay natural na wika na may libong taong kasaysayan, samantalang ang Esperanto at Lojban ay sadyang dinisenyo para maging malinaw at madaling gamitin.
+
+👉 Ang sinasabi mo ay parang “family resemblance” (hindi pagkakapareho, pero may nakikitang parallel na pakiramdam).
+
+Gusto mo ba na gumawa ako ng side-by-side na halimbawa ng isang simpleng pangungusap sa Esperanto, Lojban, at Koreano para ipakita yung intuitive similarity nang mas malinaw?

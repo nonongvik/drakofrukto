@@ -797,3 +797,17 @@ Cantonese language is really too complicated for a non-Cantonese to dive into it
 {Filipino Diglossia}
 
 Filipinos, too, have "diglossia." Black and pink like liquorice candy: People speak and listen in Tagalog, but often write and read English. If one's from a non-Tagalog region, all the more complicated is trilingualism, or even quadrilingualism. Indonesians fortified their national language to be suitable up to university level. Filipinos rather use English for higher discourse. They're different strategies. Filipinos resign themselves to the "We are a small vassal country" mentality. But, I think that now with over 100 million people, the Philippines cannot afford to think of itself as "small."
+
+CHATGPT:
+
+[…]
+
+Filipinos, as you insightfully parallel, face a similar but historically different layering:
+
+Tagalog (Filipino) as the spoken and emotional register.
+English as the written and intellectual register, especially in academia, law, and science.
+Regional languages like Cebuano, Ilocano, Waray, Hiligaynon, etc., forming another layer beneath.
+
+So in many communities, daily reality is *triglossic* or *quadriglossic*.
+
+[…]

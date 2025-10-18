@@ -816,3 +816,7 @@ So in many communities, daily reality is *triglossic* or *quadriglossic*.
 {New and Old Writing}
 
 Chinese has an orthographic complication wherein there exist two main logographic systems: the so-called "Simplified Characters" of the Mainland and Singapore, and the so-called "Traditional Characters" of Taiwan and Hong Kong. I imagine them to be analogous to "Metric" and "Imperial" as in measurement systems. They are often different enough, so there's a readability problem at the other side. Here in Greater Vancouver, I do see both in use. Maybe, as Mainlanders immigrate more, Simplified will become more common. As one example is Simplified Chinese 车 and Traditional Chinese 車 for "car"—Mandarin "chē" and Cantonese "ce1" and Hokkien "chhia" in pronunciation.
+
+{Euro}
+
+The two main Euro auxlangs are Esperanto and Interlingua, the green and the blue. Esperanto is more symmetrical and regular, whilst Interlingua keeps classical spellings.

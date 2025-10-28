@@ -160,3 +160,31 @@ slowly, prayerfully.
 ____
 
 Would you like me to render this next in Elizabethan English, as if written by a contemplative diarist of that age?
+
+VIK: About 5 in the evening, this 27th of October of 2025, I am once again at Tim Hortons café, here on Lulu Island. I order an Oat-Milk Iced Coffee and an Habanero Chicken Wrap. My barista is Aastha, the Latina-looking Punjabi. Amongst customers, France the Filipina is there. The redhead linguist Peter is there. An elegant Mandarin-speaker is wearing a black vest, tight silver pants, and tall black stilettos. On my way home, I pick three blackberries from the thorny bushes and munch on them.
+
+CHATGPT:
+
+Here is your scene rendered in beautiful, literary Esperanto, preserving its observational calm and subtle rhythm:
+
+____
+
+Ĉirkaŭ la kvina horo posttagmeze, la 27-an de oktobro 2025, mi denove estas ĉe la kafejo Tim Hortons, ĉi tie sur Lulu-Insulo.
+
+Mi mendas malvarman avenlaktan kafon kaj piketan kokaĵan envolvaĵon kun habanero.
+
+Mia baristino estas Aastha, la panĝaba virino kun latinamerika aspekto.
+
+Inter la klientoj troviĝas France, la filipinanino,
+
+kaj Peter, la ruĝhara lingvisto.
+
+Estas ankaŭ eleganta mandaren-parolantino, vestita per nigra veŝto, brilarĝentaj pantalonoj, kaj altaj nigraj stiletŝuoj.
+
+Survoje hejmen, mi elektas tri nigrajn rubusojn el la dornaj arbustoj kaj maĉas ilin malrapide —
+
+gustante la dolĉan piketon de la vespera mondo.
+
+____
+
+Ĉu vi ŝatus, ke mi poste traduku ĉi tiun scenon reen en poezia angla formo, por kompletigi la stilan triptikon kun viaj antaŭaj tagaj momentoj?

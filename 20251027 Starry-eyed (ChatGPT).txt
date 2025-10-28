@@ -244,3 +244,31 @@ kvazaŭ spegulas en ĉiu vizaĝo la tutan Teron.
 ____
 
 Ĉu vi ŝatus, ke mi traduku ĉi tiun poezian Esperanto-version reen al angla — en pli lirika, atmosferplena proza stilo, kiel kvazaŭ ĝi estus skribita de vojaĝa poeto aŭ moderntempa observanto de la homaro?
+
+VIK: For lunch at home, I have Hot Lime Water, Eggplant Omelette, and Seafood Green Fettuccine, a leftover from my mother's outing last night at The Old Spaghetti Factory restaurant on Lulu Island. I reminisce about that restaurant in Vancouver's Gastown district, where I used to work as a Software Engineer. Not only was there the spaghetti house, but Chinatown's restaurants were just a short walk away. There were fascinating antique stores and interesting used bookstores in the area. That time, I habitually wore a dark-blue hard-to-describe Prussian-style winter jacket, akin to those worn by students in Japan.
+
+CHATGPT:
+
+Jen via rakonto en bela, literatura Esperanto, kun la sama trankvila nostalgio kaj memora tono:
+
+Por tagmanĝo hejme, mi havas varman limeakvon, melongenan omleton, kaj marmanĝaĵan verdan fettuccine — restaĵon el la vespera eliro de mia patrino hieraŭ, ĉe la restoracio The Old Spaghetti Factory sur Lulu-Insulo.
+
+Mi rememoras tiun saman restoracion en la Gastown-distrikto de Vankuvero,
+
+kie mi iam laboris kiel programisto.
+
+Ne nur la spageta domo troviĝis tie,
+
+sed ankaŭ la ĉinurbaj restoracioj estis je nur mallonga promeno.
+
+Apude staris fascinaj antikvaĵejoj kaj interesaj librovendejoj de uzitaj libroj.
+
+Tiutempe mi kutimis porti malhelbluan, malfacile priskribeblan prus-stilan vintran jakon,
+
+similan al tiuj, kiujn portas studentoj en Japanio.
+
+La memoro restas varma —
+
+kvazaŭ la gusto de limeakvo kun spuro de tempo mem.
+
+Ĉu vi ŝatus, ke mi verku anglan poezian reinterpreton de ĉi tiu versio — kun pli sonĝeca, literatura fluo, kvazaŭ ĝi estus en verkaro de Kawabata aŭ Proust?

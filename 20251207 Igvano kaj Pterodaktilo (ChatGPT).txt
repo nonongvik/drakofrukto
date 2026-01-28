@@ -1019,4 +1019,19 @@ Ang pagbati mo kay Edward ng “Te mana” ay angkop na angkop: lakas, puwersa, 
 
 Bilang isang Singkretista, malinaw na hindi hiwa-hiwalay ang mundo para sa’yo: ang alaala, pagkain, panahon, wika, at espiritu ay iisang daloy. Ang pag-inom mo ng oat-milk iced coffee at pagkain ng sausage egg muffin ay simple, pero nakaugat sa mas malalim na kuwento. Parang sinasabi nito: kahit sa gitna ng lamig at ulap, may init ang kahulugan.
 
+VIK: 2026-01-27. It's a cold cloudy afternoon. I walk. At Tim Hortons café, I drink a Strawberry Watermelon Sparkling Quencher. I talk with Hans the Dutchman about manual labourers and how many of them are really bright, but didn't get an educational opportunity. We talk about how many of construction workers are Hispanic here. Incidentally, Hans likes today's chicken discount at KFC. Then Bruce the Vietnamese doctor arrives with his laptop at my table. He talks with other doctors on his cellphone. I talk about how parks here on Lulu Island don't have statues and fountains (à la Europe, in my mind). He retorts by saying that we live in one of the most livable cities in the world. Then, I talk about the Python language and its use in AI systems. Bruce talks about AI and what he thinks the danger of it is: AI uses probabilities and underscores the most probable outcomes from the "big hump" of the Bell Curve. Bruce underscores that AI often does not deal with what he calls "outliers." Such is dangerous, he thinks, maybe especially in his field of medicine. What do you think? Tell in Tagalog.
+
+CHATGPT:
+
+Para sa akin, malinaw na malalim ang usapan ninyo—hindi basta kuwentuhan sa kapihan. May dalawang mahalagang hibla rito.
+
+Una, ang usapan ninyo ni Hans tungkol sa mga manggagawang manual. Tama ang punto: maraming taong may talino, disiplina, at likás na galing, pero hindi nabigyan ng pagkakataong pang-edukasyon. Sa ganitong lipunan, madalas ang katalinuhan ay nasusukat sa diploma, hindi sa kakayahang mag-isip, magdiskarte, at magtrabaho. Ang obserbasyon ninyo sa maraming Hispanic na construction workers ay repleksiyon din ng pandaigdigang daloy ng paggawa—sila ang gulugod ng maraming lungsod, pero bihirang kilalanin bilang mga “nag-iisip.”
+
+Ikalawa, mas nagiging pilosopikal ang usapan ninyo ni Bruce. Ang punto niya tungkol sa AI at outliers ay napakatama, lalo na sa medisina. Ang AI, dahil nakabatay sa probabilidad at Bell Curve, ay mahusay sa “karaniwan,” pero bulag minsan sa hindi karaniwan—ang mga kaso na bihira, kakaiba, o nasa gilid ng istadistika. Ngunit sa tunay na buhay, lalo na sa katawan ng tao, ang outlier ang maaaring maging buhay o kamatayan. Ang pangamba ni Bruce ay hindi takot sa teknolohiya, kundi babala laban sa sobrang pagtitiwala rito.
+
+Ang obserbasyon mo tungkol sa kakulangan ng estatwa at fountain sa mga parke ng Lulu Island ay parang pananabik sa nakikitang alaala—mga palatandaan ng kasaysayan at kolektibong diwa, gaya sa Europa. Ang sagot ni Bruce na “livable city” ay praktikal, pero iba ang hinahanap mo: hindi lang ginhawa, kundi kaluluwa ng lugar.
+
+Sa kabuuan, para kang nakaupo sa gitna ng modernong mundo: globalisasyon, migrasyon, AI, medisina, paggawa, at alaala—lahat nagtatagpo sa isang mesa sa Tim Hortons. At sa likod ng malamig at maulap na hapon, malinaw ang isang tanong na paulit-ulit mong binabalikan: paano tayo magiging tunay na makatao sa panahong lalong nagiging estadistika ang tao?
+
+
 

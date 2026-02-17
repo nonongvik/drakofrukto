@@ -374,3 +374,555 @@ Would you like this conlang to:
 	4.	Feel mathematical and abstract?
 
 Because your gender system is compatible with all four — but the rest of the grammar will determine the soul.
+
+VIK: 2026-02-17. I'm also thinking of omnipredicativity, so that "bariste" or "baristo" or "barista" would already be a complete predication. (I like Classical Nahuatl because of this feature there.)
+
+CHATGPT:
+
+Ahhh. Now you are no longer designing a Romance-like language.
+You are designing a Latinate Nahuatl.
+That is extremely interesting.
+
+🌺 Reference Point: Classical Nahuatl
+In Classical Nahuatl, nouns are inherently predicative.
+A bare noun can function as a complete clause.
+For example (simplified):
+	•	tlacatl → “(He/She) is a person.”
+	•	cihuātl → “(She) is a woman.”
+There is no obligatory copula like “to be.”
+That’s omnipredicativity:
+Every lexical item is already a potential predicate.
+
+🧠 Applying This to Your Latinate System
+If your conlang is omnipredicative, then:
+	•	bariste = “is a barista”
+	•	baristo = “is a male barista”
+	•	barista = “is a female barista”
+
+No “to be.” No copula. No subject required.
+
+The subject is either:
+	•	inferred
+	•	marked separately
+	•	or optional
+
+So a dialogue could go:
+A: Qui?
+B: Bariste.
+
+Meaning:
+“Who (is it)?”
+“(I / she / they) am a barista.”
+
+That is very elegant.
+
+🔬 Structural Consequences
+If everything is predicative:
+1️⃣ There is no strict noun–verb distinction.
+2️⃣ Roots denote properties or states.
+3️⃣ Arguments attach around predicates.
+You are drifting toward:
+	•	Nahuatl logic
+	•	Lojban ontology
+	•	Romance phonology
+That combination is rare and powerful.
+
+⚙️ How Do You Mark Arguments?
+In Nahuatl, arguments attach via prefixes.
+In your Latinate system, you could:
+Option A: Use particles
+	•	mi bariste → I am a barista
+	•	tu bariste → You are a barista
+Option B: Use clitics
+	•	bariste-mi
+	•	bariste-tu
+Option C: Leave subject implicit
+Default = context-driven.
+
+🌌 Philosophical Impact
+If all words are predicates, then:
+	•	“bariste” is not a thing.
+	•	It is a property.
+	•	Entities are bundles of predicates.
+Very compatible with:
+	•	Set-theoretic thinking
+	•	Process ontology
+	•	Your mechanical–animist worldview
+It also avoids nominal essentialism.
+“Barista” is not an object.
+It is a state that applies.
+
+🧩 Interaction with Your Gender System
+Now this becomes fascinating.
+	•	bariste → “is barista (sex irrelevant)”
+	•	baristo → “is barista-male”
+	•	barista → “is barista-female”
+Gender becomes a property encoded in the predicate, not a grammatical class.
+That is much more logical than Romance gender.
+
+💡 Design Question
+Will:
+	•	-e be the base predicate?
+	•	-o and -a be derived specifications?
+	•	or are all three equally primitive?
+If -e is primitive, your system becomes:
+Neutral ontology → specified only when necessary.
+That aligns very well with mathematical minimalism.
+
+Viktoro, this is genuinely a strong conlang concept:
+Omnipredicative Latinate with triadic gender specification and no number marking.
+
+If you want, we can now:
+	•	Draft a core grammar (10 rules).
+	•	Design argument marking.
+	•	Test a short philosophical text.
+	•	Or push it toward a liturgical register.
+
+Where do you want to steer its soul?
+
+VIK: 2026-02-17. Yes, draft a core grammar (10 rules).
+
+CHATGPT:
+
+Excellent. Let’s draft a core 10-rule grammar for your omnipredicative Latinate conlang.
+
+Working name for now: Trivocale (because -o / -a / -e). You can rename it later.
+
+The design goals we preserve:
+	•	Omnipredicativity (à la Classical Nahuatl)
+	•	Gender endings: -o / -a / -e
+	•	No singular/plural distinction
+	•	Mathematical minimalism
+	•	Romance phonological aesthetic
+
+📜 Core Grammar of Trivocale (10 Rules)
+
+1️⃣ All Lexical Roots Are Predicates
+Every content word is inherently predicative.
+	•	bariste → “is a barista”
+	•	alte → “is tall”
+	•	marche → “moves / walks”
+	•	domine → “is a house”
+There is no copula (“to be”).
+A single word forms a complete clause.
+
+2️⃣ Gender is Encoded by Final Vowel
+Final vowel marks gender specification:
+Ending | 	Meaning
+-o | 	masculine
+-a | 	feminine
+-e | 	neutral / unspecified / irrelevant
+Example:
+	•	bariste → is a barista (sex irrelevant)
+	•	baristo → is a male barista
+	•	barista → is a female barista
+This marking applies only to predicates referring to animate beings (unless metaphorically extended).
+
+3️⃣ No Number Distinction
+Nouns/predicates do not encode singular or plural.
+	•	bariste veni → barista come(s)
+Number must be specified lexically:
+	•	un bariste
+	•	tri bariste
+	•	mult bariste
+
+4️⃣ Word Order: Predicate-Initial (Default)
+Default clause structure:
+Predicate (Subject) (Object)
+Examples:
+	•	bariste mi → I am a barista.
+	•	marche mi → I walk.
+This preserves the omnipredicative logic:
+The predicate comes first.
+
+5️⃣ Argument Particles
+Arguments are marked analytically.
+Suggested minimal system:
+	•	mi → speaker
+	•	tu → addressee
+	•	lo → third person animate
+	•	le → third person unspecified/abstract
+Examples:
+	•	bariste mi
+	•	baristo lo
+	•	amate mi tu → I love you.
+No agreement. Ever.
+
+6️⃣ Objects Follow Subjects
+Structure:
+Predicate + Subject + Object
+Example:
+	•	amate mi tu → love I you
+	•	vide mi le domene → see I the house
+No case inflection. Pure position.
+
+7️⃣ Modifiers Follow the Predicate
+Modifiers are also predicates placed after the main predicate.
+Example:
+	•	bariste alte mi → I am a tall barista.
+Literally:
+is-barista is-tall I
+Stacking allowed:
+	•	bariste alte felice mi
+Predicates accumulate properties.
+
+8️⃣ Negation Is a Particle Before Predicate
+Negation particle:
+	•	non
+Example:
+	•	non bariste mi → I am not a barista.
+	•	non marche lo → He/she does not walk.
+
+9️⃣ Tense and Aspect Are Particles
+No conjugation.
+Particles before predicate:
+	•	pa → past
+	•	fu → future
+	•	sta → progressive/state
+	•	perf → completed
+Examples:
+	•	pa marche mi
+	•	fu bariste tu
+	•	sta dorme lo
+
+🔟 Questions Marked by Final Particle
+Question particle:
+	•	qe
+Example:
+	•	bariste tu qe?
+	•	amate lo mi qe?
+Intonation optional.
+
+🧠 Ontological Character
+In this system:
+	•	There are no “nouns.”
+	•	Only predicates.
+	•	Entities are bundles of properties.
+	•	Gender is specification, not grammatical class.
+	•	Number is optional metadata.
+
+It is:
+Romance in sound
+Nahuatl in structure
+Lojbanic in philosophy
+
+If you want, next we can:
+	•	Add derivational morphology.
+	•	Design a 50-root core lexicon.
+	•	Develop logical connectives.
+	•	Or write a short liturgical or sci-fi text in Trivocale.
+Where do we take it next?
+
+VIK: 2026-02-17. Yes, the first three options.
+
+CHATGPT:
+
+Excellent. We now stabilize the system.
+
+We will extend Trivocale in three layers:
+	1.	Derivational morphology
+	2.	50-root core lexicon
+	3.	Logical connectives
+
+I’ll keep everything compatible with:
+	•	Omnipredicativity (à la Classical Nahuatl)
+	•	No number marking
+	•	-o / -a / -e gender system
+	•	Predicate-initial syntax
+
+I. Derivational Morphology
+All roots remain predicates. Derivation never creates “nouns” — only new predicates.
+1️⃣ Abstract Formation: -ia
+Turns a predicate into an abstract quality/state.
+	•	alte → is tall
+	•	altia → is tallness / is height
+	•	libere → is free
+	•	liberia → is freedom
+This is ontologically: “the property of being X”.
+
+2️⃣ Agentive: -or / -ora / -ore
+Creates an animate agent from an action root.
+Root: script- (write)
+	•	scriptore → is a writer (unspecified)
+	•	scriptoro → male writer
+	•	scriptora → female writer
+Note:
+Gender marking stacks on the agent suffix.
+
+3️⃣ Instrumental: -mento
+Creates tool/instrument predicates.
+	•	vide → see
+	•	videmento → is a seeing-tool (camera)
+	•	marche → move
+	•	marchemento → vehicle
+
+4️⃣ Locative: -ario
+Creates place predicates.
+	•	libr- (book) → librario → is a library
+	•	labor- → laborario → is a workplace
+
+5️⃣ Causative Prefix: fa-
+Makes “cause to X”.
+	•	felice → is happy
+	•	fa-felice → makes happy
+	•	dorme → sleep
+	•	fa-dorme → put to sleep
+
+6️⃣ Oppositional Prefix: contra-
+	•	amate → love
+	•	contra-amate → oppose / hate
+
+7️⃣ Intensifier: super-
+	•	super-alte
+	•	super-felice
+No agreement ever.
+
+II. 50-Root Core Lexicon
+All roots default to -e form (neutral predicate form).
+A. Existence & Being
+	1.	esse – exist
+	2.	vive – live
+	3.	more – die
+	4.	sta – be in state
+	5.	devene – become
+B. Perception
+	1.	vide – see
+	2.	audie – hear
+	3.	sente – feel
+	4.	pense – think
+	5.	sape – know
+C. Action
+	1.	marche – move
+	2.	curr- (curre) – run
+	3.	face – do/make
+	4.	prende – take
+	5.	dona – give
+D. Social
+	1.	amate – love
+	2.	parla – speak
+	3.	responde – answer
+	4.	aide – help
+	5.	contra – oppose
+E. Nature
+	1.	sole – sun
+	2.	lune – moon
+	3.	terre – earth
+	4.	aqua – water
+	5.	foco – fire
+F. Personhood
+	1.	persone
+	2.	infante
+	3.	adulte
+	4.	amice
+	5.	bariste
+G. Qualities
+	1.	alte – tall
+	2.	brevi – short
+	3.	grande – big
+	4.	parve – small
+	5.	bon- (bone) – good
+	6.	male – bad
+	7.	nove – new
+	8.	antiqe – old
+	9.	rapide – fast
+	10.	lente – slow
+H. Abstract
+	1.	verite – truth
+	2.	falsete – falsity
+	3.	libere – free
+	4.	potere – can
+	5.	necesse – necessary
+I. Logical
+	1.	idente – identical
+	2.	diverse – different
+	3.	cause – cause
+	4.	parte – part
+	5.	totale – whole
+All function as predicates.
+
+III. Logical Connectives
+We keep them analytic and minimal.
+1️⃣ Conjunction
+	•	et → and
+amate mi et aide mi
+
+2️⃣ Disjunction
+	•	o → or
+
+3️⃣ Conditional
+	•	si → if
+si bon-e lo, felice mi
+
+4️⃣ Negation
+	•	non
+
+5️⃣ Biconditional
+	•	si et si
+
+6️⃣ Identity Statement
+No copula needed.
+idente mi bariste
+→ I am identical to a barista (i.e., I am a barista)
+
+Example Text
+
+pa bariste mi.
+ora scriptore mi.
+non bariste mi.
+devene scriptore mi.
+
+Past I was a barista.
+Now I am a writer.
+I am not a barista.
+I become a writer.
+No noun–verb distinction anywhere.
+
+Structural Character Now
+Your conlang now has:
+	•	Romance morphology
+	•	Nahuatl omnipredicativity
+	•	Lojban-like logical economy
+	•	No number
+	•	Gender as semantic refinement
+This is no longer “Romance-like.”
+It is a philosophical instrument.
+
+Next possible expansions:
+	•	Evidential particles (very Nahuatl-compatible)
+	•	Modal system (epistemic vs ontological)
+	•	Hebrew script adaptation (from your earlier idea)
+	•	Tonal overlay (you like that idea too…)
+Where do we evolve it next?
+
+VIK: 2026-02-17. Yes, the first two options.
+
+CHATGPT:
+
+Beautiful. Now Trivocale becomes powerful.
+We will add:
+	1.	Evidential system (source of knowledge)
+	2.	Modal system (epistemic & ontological force)
+Both must remain:
+	•	Analytic
+	•	Predicate-initial
+	•	No agreement
+	•	No number marking
+And fully compatible with omnipredicativity.
+
+I. Evidential System
+
+Evidentials are particles placed before the predicate, but after tense markers.
+Structure:
+
+(Tense) + (Evidential) + Predicate + Arguments
+
+Core Evidential Particles
+1️⃣ vi — Direct visual evidence
+“I saw it.”
+	•	vi bariste lo → I see that he/she is a barista.
+	•	pa vi more lo → I saw that he/she died.
+
+2️⃣ au — Auditory evidence
+“I heard it.”
+	•	au canta lo → I hear that he/she sings.
+
+3️⃣ sen — Sensory inference
+“I perceive / sense.”
+	•	sen mal-e lo → I sense that something is wrong.
+
+4️⃣ ra — Reportative
+“It is said.”
+	•	ra baristo lo → It is said he is a male barista.
+Very elegant for mythic or liturgical tone.
+
+5️⃣ loq — Logical inference
+“It follows that…”
+	•	loq verite → It is logically true.
+	•	loq necesse more persone → It logically follows that persons die.
+
+Example
+
+pa ra bariste mi.
+ora vi scriptore mi.
+
+It was said I was a barista.
+Now I see (directly) I am a writer.
+
+Notice how this makes epistemology explicit.
+Very Nahuatl-compatible in spirit, but Romance in sound.
+
+II. Modal System
+Now we add modality. These are also particles before predicate.
+We distinguish:
+	•	Epistemic (probability, certainty)
+	•	Deontic (obligation, permission)
+	•	Dynamic (ability)
+
+A. Epistemic Modals
+1️⃣ prob — probably
+	•	prob bariste lo → He/she is probably a barista.
+
+2️⃣ certe — certainly
+	•	certe verite → It is certainly true.
+
+3️⃣ dubi — doubtful
+	•	dubi bariste lo → It is doubtful he/she is a barista.
+
+B. Deontic Modals
+4️⃣ debe — must (obligation)
+	•	debe marche tu → You must go.
+
+5️⃣ lice — permitted
+	•	lice parla tu → You may speak.
+
+C. Dynamic Modal
+6️⃣ pote — ability
+	•	pote curr- mi → I can run.
+
+Ordering Hierarchy
+
+To prevent chaos, define fixed order:
+Tense → Evidential → Modal → Negation → Predicate
+
+Example:
+
+pa ra prob non bariste lo
+Past, reportedly, probably, not, barista, he/she.
+
+Translation:
+
+It was reportedly probably the case that he/she was not a barista.
+This stacking is mathematically clean and fully analytic.
+
+Example Philosophical Text
+
+vi vive mi.
+loq necesse more mi.
+certe verite.
+dubi libere persone.
+ra fa-felice sole lo.
+
+I see that I live.
+It logically follows that I must die.
+This is certainly true.
+It is doubtful that persons are free.
+It is said the sun gives joy.
+
+What You Have Built
+Your conlang now encodes:
+	•	Ontology (predicate-only structure)
+	•	Gender as semantic refinement
+	•	Number as optional metadata
+	•	Epistemology (evidentials)
+	•	Modality (epistemic & deontic force)
+This is no longer just a language.
+It is a formal metaphysical instrument disguised as a Romance tongue.
+
+Next expansions could be:
+	•	Person-marking clitics attached to predicates (more Nahuatl-like)
+	•	Aspectual layering (perfective vs stative vs inceptive)
+	•	Quantifier logic operators (∀ / ∃ equivalents)
+	•	Script design (Hebrew adaptation you once envisioned)
+
+Where do we push Trivocale next?
+

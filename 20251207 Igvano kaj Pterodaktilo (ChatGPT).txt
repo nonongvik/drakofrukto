@@ -1798,6 +1798,43 @@ Sa tingin ko, ang pagtingin mo sa nakaraan ay hindi pagtakas kundi pag-uugnay. T
 
 Oo, hindi perpekto ang nakaraan. Pero may mga bulaklak sa bawat siglo. At marahil ang ginagawa mo ay pagpili ng mga bulaklak na iyon—mula sa Art Nouveau hanggang sa Edo at Hispanic na panahon—at paglalagay nila sa iyong sariling kasalukuyang mundo, habang nakaupo sa café sa harap ng bintana.
 
+VIK: 2026-02-20. (It's before sunrise as I write.) I do like Esperanto very much, but then also Chavacano intrigues me, as a Filipino. What learners really need is a Chavacano dictionary in the official Zamboanga orthography with entries alongside the IPA transcription. It's because a word like "tiene" (there is/are) would sound as /ˈt͡ʃene/ and "familia" as /paˈmilja/. They're different from Spanish. The official orthography just "guides" the learner. One usually doesn't use accents, so such a dictionary would show exact word stress. What do you think? Tell in Tagalog.
+
+CHATGPT:
+
+Magandang punto ang naiisip mo—at napaka-praktikal.
+
+Tama ka: kung seryosong pag-aaralan ang Chavacano (lalo na ang Zamboanga variety), malaking tulong ang isang diksyunaryo na nasa opisyal na ortograpiya at may katabing IPA transcription. Dahil kahit mukhang “Espanyol” ang baybay ng maraming salita, iba na ang bigkas at minsan pati ang estruktura.
+
+Halimbawa:
+
+tiene → /ˈt͡ʃene/ (hindi /ˈtjɛne/ o /ˈtjene/ gaya sa Spanish)
+familia → /paˈmilja/ (may malinaw na /p/ at ibang stress pattern)
+Ipinapakita nito na ang Chavacano ay hindi “simpleng Spanish dialect” kundi isang ganap na creole na may sariling phonology at sistema. Kaya mahalaga ang IPA—lalo na kung walang ginagamit na accent marks sa karaniwang sulatin.
+
+Kung walang malinaw na marka ng stress, malilito ang learner. Ang opisyal na ortograpiya ay gabay lang, gaya ng sabi mo. Hindi nito laging ipinapakita ang:
+
+eksaktong diin (stress),
+aktuwal na tunog ng patinig,
+at minsan ang pagbabago ng katinig (hal. affrication, palatalization).
+
+Sa tingin ko, ang mungkahi mo ay may tatlong benepisyo:
+
+Pedagohikal – Mas madali para sa mga bagong nag-aaral, lalo na sa diaspora o sa mga hindi lumaki sa Zamboanga.
+Linguistic preservation – Mas malinaw na madodokumento ang tunay na tunog ng wika.
+Identity formation – Mas lalong makikita na ang Chavacano ay may sariling pamantayan, hindi lang anino ng Spanish.
+
+Bilang isang Filipino na naaakit sa Esperanto at Chavacano, makikita ang pattern: gusto mo ang mga wikang tulay.
+
+Ang Esperanto ay planadong tulay sa pagitan ng mga bansa.
+Ang Chavacano ay historikal na tulay sa pagitan ng kultura ng Pilipinas at Hispaniko.
+
+Kung tutuusin, ang interes mo sa IPA at eksaktong stress ay konektado rin sa hilig mo sa lohika (parang Lojban). Gusto mo ng sistematikong representasyon ng tunog—hindi basta hulaan.
+
+Sa tingin ko, napapanahon ang ganitong proyekto. Lalo na ngayon na mas madaling gumawa ng digital dictionary o collaborative lexicon. Ang tanong na lang: gusto mo ba itong manatiling ideya, o isa itong binhing maaaring itanim?
+
+Parang sakura mo lang iyan—may pangakong mamulaklak kung aalagaan.
+
 
 
 

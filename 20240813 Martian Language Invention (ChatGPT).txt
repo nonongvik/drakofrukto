@@ -1,0 +1,103 @@
+ChatGPT 20240813 Martian Language Invention
+Viktor Nonong Medrano
+
+Vik: Create a language for colonists on Mars. Give the orthography, phonology, morphology, syntax, philosophy, example sentences, history, and perhaps more information.
+
+Creating a language for Martian colonists is a fascinating project! Below is an outline for the language, encompassing its orthography, phonology, morphology, syntax, philosophy, example sentences, and history.
+
+### 1. **Name of the Language: Marzhet (Mars Language)**
+
+### 2. **Orthography**
+- **Alphabet:** 
+  - The alphabet consists of 24 characters: A, B, Ch, D, E, F, G, H, I, J, K, L, M, N, O, P, R, S, Sh, T, Th, U, V, Z.
+  - **Vowels:** A, E, I, O, U
+  - **Consonants:** B, Ch, D, F, G, H, J, K, L, M, N, P, R, S, Sh, T, Th, V, Z
+
+- **Diacritics:** 
+  - `á, é, í, ó, ú` for indicating stress on vowels.
+  - A `~` (tilde) over vowels indicates nasalization (e.g., ã, õ).
+  
+- **Writing System:** 
+  - Written horizontally left to right, using a hybrid of Roman and newly invented characters. 
+  - Characters have a modern, angular look to reflect the technological advancement of Martian society.
+
+### 3. **Phonology**
+- **Vowels:** 
+  - [a] /a/ as in "father"
+  - [e] /e/ as in "bet"
+  - [i] /i/ as in "machine"
+  - [o] /o/ as in "go"
+  - [u] /u/ as in "rule"
+  
+- **Consonants:**
+  - [b] /b/ as in "bat"
+  - [ch] /ʧ/ as in "chop"
+  - [d] /d/ as in "dog"
+  - [f] /f/ as in "fog"
+  - [g] /g/ as in "go"
+  - [h] /h/ as in "hat"
+  - [j] /ʤ/ as in "jam"
+  - [k] /k/ as in "cat"
+  - [l] /l/ as in "love"
+  - [m] /m/ as in "man"
+  - [n] /n/ as in "net"
+  - [p] /p/ as in "pat"
+  - [r] /ɾ/ as in "butter" (flap r)
+  - [s] /s/ as in "sun"
+  - [sh] /ʃ/ as in "shut"
+  - [t] /t/ as in "top"
+  - [th] /θ/ as in "think"
+  - [v] /v/ as in "van"
+  - [z] /z/ as in "zoo"
+  
+- **Stress:** Generally falls on the penultimate syllable unless marked by an acute accent.
+
+### 4. **Morphology**
+- **Word Formation:** 
+  - Agglutinative: Words are formed by adding affixes to roots, each affix representing a single grammatical meaning.
+  
+- **Nouns:**
+  - No gender distinction.
+  - Plurals are formed by adding `-ta` to the noun (e.g., "dom" (house) → "domta" (houses)).
+  
+- **Verbs:**
+  - Tense is indicated by prefixes:
+    - Past: `ha-` (e.g., "ha-domar" - lived)
+    - Present: `mi-` (e.g., "mi-domar" - lives)
+    - Future: `sa-` (e.g., "sa-domar" - will live)
+  
+  - Aspect is indicated by suffixes:
+    - Perfective: `-k` (e.g., "domark" - has lived)
+    - Imperfective: `-n` (e.g., "domarn" - is living)
+
+- **Adjectives:**
+  - Follow nouns and agree in number, adding `-ta` in plural form (e.g., "domna" (big house) → "domnata" (big houses)).
+  
+### 5. **Syntax**
+- **Word Order:** Subject-Object-Verb (SOV)
+- **Modifiers:** Adjectives follow nouns; adverbs follow verbs.
+- **Negation:** Negation is marked by the particle `ne` before the verb (e.g., "Ne mi-domar" - does not live).
+- **Questions:** Formed by placing the particle `ko` at the beginning of a sentence (e.g., "Ko mi-domar?" - Does (he/she) live?).
+
+### 6. **Philosophy**
+- **Environmental Connection:** The language reflects the Martian colonists' close relationship with their environment. Words for natural phenomena are extensive and nuanced, reflecting the necessity of understanding and adapting to the Martian climate.
+- **Technological Influence:** The vocabulary includes many compound words for technological concepts, reflecting the high-tech society of the Martian colonists.
+- **Cultural Identity:** Marzhet embodies the idea of unity and survival, with a focus on cooperation and resilience. Words like "yashar" (to thrive) and "domar" (to live) carry connotations of strength and community.
+
+### 7. **Example Sentences**
+- "Dom na Marzhet mi-yashar." - Life on Mars thrives.
+- "Ko sa-rantaz domta?" - Will (they) build houses?
+- "Ne mi-thomar dinata." - (She/He) does not eat food.
+
+### 8. **History**
+- **Origins:** Marzhet developed from a mix of Earth languages brought by the first wave of colonists, especially English, Russian, and Mandarin, blended with new elements created to address the unique challenges of Mars.
+- **Evolution:** The language evolved rapidly as a lingua franca among diverse colonist groups. Its agglutinative structure and regular phonology were chosen to simplify learning and communication.
+- **Cultural Impact:** Over generations, Marzhet became a symbol of Martian identity, with literature, music, and art all contributing to its richness and depth.
+
+### 9. **Additional Information**
+- **Numerals:**
+  - Based on a base-10 system, with unique words for 1-9 and a compound structure for larger numbers (e.g., "un" for one, "diz" for ten, "dizun" for eleven).
+- **Idioms:**
+  - "Zaf domash!" - Literally "Home as dust!" used to express that something is as essential as shelter.
+
+This language, Marzhet, reflects the unique environment, culture, and history of the Martian colonists, creating a deep and cohesive linguistic identity for their society.

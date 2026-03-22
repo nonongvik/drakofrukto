@@ -1,0 +1,80 @@
+2024 Selune Conlang (ChatGPT)
+Viktor Nonong Medrano
+
+VIK: Create a language for colonists on Luna, Earth's Moon. Give the orthography, phonology, morphology, syntax, philosophy, vocabulary, example sentences, history, and perhaps more information.
+
+Language Overview: "Selune"
+
+1. Orthography:
+
+Alphabet: Selune uses a syllabary system inspired by simplified lunar topography and ancient Earth scripts.
+Characters: The writing system has 20 basic symbols, each representing a syllable. The syllables are CV (consonant-vowel) structures. Symbols are designed to be simple, with curves and straight lines resembling the shapes of lunar craters and surface features.
+Example Symbols:
+Ka (𐑀), Ti (𐑂), Su (𐑅), Lo (𐑆), Ra (𐑇)
+Direction: Written left to right, top to bottom.
+
+2. Phonology:
+
+Consonants: /k/, /t/, /s/, /l/, /r/, /m/, /n/, /p/, /f/, /h/
+Vowels: /a/, /e/, /i/, /o/, /u/
+Phonotactics: The language is primarily CV (consonant-vowel) in structure. Consonant clusters are avoided, and syllables are open-ended (ending in vowels).
+Stress: Primary stress typically falls on the first syllable of the word.
+
+3. Morphology:
+
+Root Structure: Roots are generally monosyllabic (e.g., "ka," "ti," "su") and can be modified by adding syllables to create different meanings.
+Affixation: Prefixes and suffixes are used for grammatical purposes, such as tense, aspect, and mood.
+Past tense: Prefix "mu-" (e.g., "mu-ka" = "spoke").
+Future tense: Suffix "-ta" (e.g., "ka-ta" = "will speak").
+Compounding: New words are often formed by combining roots (e.g., "kasu" = "light + stone" = "crystal").
+
+4. Syntax:
+
+Word Order: Subject-Object-Verb (SOV) is the default.
+
+Modifiers: Adjectives precede nouns, and adverbs precede verbs.
+Questions: Formed by adding the particle "na" at the end of the sentence.
+Negation: Expressed by the particle "ma," placed before the verb.
+
+5. Philosophy: Selune is a language designed to reflect the colonists' deep connection to their environment and the need for efficient communication in harsh conditions. It emphasizes simplicity, clarity, and a deep respect for the Moon, which they view as both a home and a guardian.
+
+6. Vocabulary:
+
+Nouns:
+Luna: "Selu"
+Earth: "Teru"
+Home: "Loka"
+Water: "Nima"
+Light: "Ka"
+Verbs:
+To speak: "Ka"
+To see: "Ti"
+To build: "Su"
+To love: "Ra"
+To go: "Lu"
+Adjectives:
+Bright: "Kala"
+Cold: "Fona"
+Strong: "Mara"
+Soft: "Luna"
+Silent: "Huna"
+
+7. Example Sentences:
+
+"We see the bright Moon."
+Selu kala ti na.
+"They will build a strong home."
+Loka mara su-ta.
+"Do you speak the Earth language?"
+Teru ka na?
+"I do not love cold nights."
+Ma ra fona luma.
+
+8. History: Selune was developed over several generations of lunar colonists. Initially, it served as a simplified code for communication in the harsh and silent lunar environment, where clarity and brevity were essential. Over time, as the colony grew and became more self-sufficient, the language evolved to reflect the unique culture and identity of the lunar inhabitants. The Moon's influence is evident in the language's vocabulary and structure, with many words and concepts tied to lunar phenomena.
+
+9. Cultural Notes:
+
+Lunar Influence: Many words in Selune are tied to lunar cycles, surface features, and the experience of living on the Moon. The language is seen as a way to honor the Moon, and certain rituals are performed where only Selune is spoken.
+Education: Children in the lunar colony learn Selune as their first language, with Earth languages taught later primarily for historical and scientific purposes.
+Art and Poetry: Selune has a rich tradition of poetry, often reflecting the stark beauty and isolation of lunar life. The syllabary allows for artistic expression in writing, with symbols arranged in aesthetically pleasing patterns.
+Would you like to delve deeper into any specific aspect of Selune, or explore another area of the world-building?

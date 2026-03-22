@@ -1,0 +1,48 @@
+2023 Nuvolari Conlang (ChatGPT)
+Viktor Nonong Medrano
+
+VIK: Invent a new language, describing the phonology, orthography, syntax, morphology, semantics, et cetera.  Who would be the speakers or users of this language?
+
+Creating a new language is a complex task, but I can provide a brief overview of a hypothetical language:
+
+Language Name: Nuvolari
+
+Phonology:
+
+Consonant-rich with sounds like /p/, /t/, /k/, /s/, /m/, and /n/.
+Vowel system includes /a/, /e/, /i/, /o/, and /u/.
+Distinctive pitch patterns for intonation.
+
+Orthography:
+
+Alphabet with 24 letters, each representing a unique sound.
+A combination of characters and diacritics to indicate tone.
+
+Syntax:
+
+Subject-Object-Verb word order.
+Adjective-noun word order.
+Agglutinative, allowing for the creation of complex words through affixes.
+
+Morphology:
+
+Extensive use of prefixes, suffixes, and infixes to denote tense, mood, and aspect.
+Noun cases for marking possession, location, and other grammatical functions.
+
+Semantics:
+
+Rich in metaphorical expressions, particularly related to nature and the cosmos.
+Extensive use of evidentiality markers to indicate the source of information.
+
+Speakers/Users: Nuvolari is spoken by a small, isolated community living in a mountainous region. They rely on the language for its precision in describing their natural environment, including weather patterns and the behavior of local wildlife. The language is passed down through generations, and its speakers take pride in preserving their unique cultural and linguistic heritage. They also incorporate elements of Nuvolari into their art and storytelling.
+
+VIK: Give a sample of the language Nuvolari.
+
+Certainly, here's a simple Nuvolari sentence:
+
+Nuvolari Sentence: Kesu nuvola pirelu entino.
+
+Translation: "The clouds paint the sky."
+
+In this example, "Kesu" represents "clouds," "nuvola" means "paint," "pirelu" stands for "sky," and "entino" signifies "the." Nuvolari's subject-verb-object word order is followed in this sentence.
+

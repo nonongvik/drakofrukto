@@ -1,0 +1,149 @@
+20260321 Paghahambing ng Wika (ChatGPT)
+Viktor Nonong Medrano
+
+VIK: 2026-03-21. Some of us Filipino linguists have the idea that English loanwords in Filipino (Tagalog) are analogous to Kanji in Japanese, whilst Native words and Spanish loanwords are like Hiragana and Katakana. What do you think? Tell in Tagalog. By the way, is it better now to call the language "Filipino" than "Tagalog"?
+
+CHATGPT:
+
+Magandang obserbasyon iyan—at sa totoo lang, may ilang aspeto kung saan puwedeng ikumpara, pero hindi ito perpektong analogy.
+
+🔤 Tungkol sa paghahambing: English = Kanji?
+
+Sa Japanese language, ang Kanji ay mga karakter na may dalang kahulugan at kadalasang nagmumula sa Chinese language. Samantalang ang Hiragana at Katakana ay mga phonetic scripts—ibig sabihin, tunog ang pangunahing dala nila, hindi direktang kahulugan.
+
+Ngayon, sa Filipino language:
+	•	Ang English loanwords (hal. computer, file, download) ay kadalasang ginagamit para sa teknikal o modernong konsepto.
+	•	Ang katutubong salita at hispanismo (hal. bahay, pagkain, mesa, silya) ay mas pang-araw-araw.
+
+👉 Kaya ang pagkakatulad na naiisip ninyo ay ganito:
+	•	English loanwords ≈ Kanji (mas “specialized”, mas may dating na teknikal o prestihiyoso)
+	•	Native + Spanish ≈ Hiragana/Katakana (mas pang-araw-araw, mas “natural” ang daloy)
+
+🤔 Pero saan ito hindi tugma?
+
+	1.	Sistema vs. Bokabularyo Sa Japanese, magkakaibang writing systems talaga ang Kanji, Hiragana, at Katakana. Sa Filipino, iisang alpabeto lang ang gamit (Latin script). Kaya ang pinagkaiba ay nasa pinagmulan ng salita, hindi sa paraan ng pagsulat.
+	2.	Semantiko vs. Sosyolingguwistiko Ang Kanji ay intrinsikong may kahulugan. Ang English loanwords sa Filipino ay hindi dahil sa “logographic” sila, kundi dahil sa:
+	•	kolonyal na kasaysayan (United States)
+	•	globalisasyon
+	•	teknolohiya
+	3.	Register at Code-switching Mas malapit siguro ang analogy kung iisipin bilang:
+	•	English = high-register / technical layer
+	•	Native/Spanish = everyday layer Parang mas kahawig ito ng diglossia o code-switching kaysa writing system contrast.
+
+👉 Sa madaling sabi:
+✔ Magandang metaphor siya
+❌ pero hindi siya structurally equivalent
+
+🇵🇭 “Filipino” vs “Tagalog”
+
+Ito naman ay mas sensitibong usapin.
+	•	Ang Tagalog language ay isang partikular na wika na katutubo sa Katagalugan.
+	•	Ang Filipino language ay ang opisyal na pambansang wika ng Philippines.
+
+👉 Sa teorya:
+	•	Filipino = mas inklusibo, bukás sa impluwensiya ng iba pang wika sa Pilipinas (Cebuano, Ilocano, Hiligaynon, atbp.)
+	•	Tagalog = mas espesipikong base language
+
+👉 Sa praktika:
+	•	Halos pareho pa rin ang Filipino at Tagalog sa kasalukuyan
+	•	Marami ang nagsasabing “Filipino = standardized Tagalog + konting dagdag”
+
+🧭 Ano ang mas “tama” gamitin?
+
+	•	Sa pormal at akademikong konteksto: mas mainam ang “Filipino”
+	•	Sa lingguwistikong eksaktong usapan: puwedeng gamitin ang “Tagalog” kung iyon talaga ang tinutukoy
+
+👉 Kaya:
+✔ “Filipino” = politically at institutionally preferred
+✔ “Tagalog” = linguistically precise
+
+🧠 Buod
+
+	•	Ang analogy ninyo ay creative at insightful, pero mas metaphorical kaysa structural.
+	•	Mas mainam isipin ang English loanwords bilang register layer kaysa “Kanji equivalent.”
+	•	Tungkol sa pangalan: “Filipino” ang mas opisyal, pero “Tagalog” ang mas eksaktong deskripsiyon sa maraming kaso.
+
+Kung gusto mo, puwede pa nating palalimin ito—halimbawa, gumawa tayo ng tatlong-layer model ng leksikon ng Filipino (Austronesian–Spanish–English) na parang stratified grammar 👀
+
+VIK: 2026-03-21. Parang Kanji ang English dahil hindi makaponemiko. Iyon ang isang dahilan. At mas parang Intsik ang kultura ng mga Anglo-Sahon.
+
+CHATGPT:
+
+Naiintindihan ko kung saan nanggagaling ang obserbasyon mo—lalo na sa ideya na hindi ganap na ponemiko ang English, kaya parang “iba ang basa kaysa sulat,” na puwedeng ihalintulad sa pagiging komplikado ng Kanji. Pero kailangan lang nating linawin ang ilang punto para hindi maghalo ang magkaibang antas ng wika at kultura.
+
+🔤 “Hindi makaponemiko” → parang Kanji?
+
+Totoo na ang English language ay may malalim (deep) na ortograpiya:
+	•	through, though, tough → magkaiba ang bigkas kahit magkahawig ang baybay
+	•	maraming silent letters, historical spellings, atbp.
+
+Pero:
+	•	Alphabetic pa rin ito—ang mga titik ay tunog-based, kahit hindi consistent.
+	•	Samantalang sa Kanji ng Japanese language, ang bawat karakter ay direktang may kahulugan (morpheme), hindi lang tunog.
+
+👉 Kaya:
+	•	✔ May pagkakatulad sa complexity at irregularity
+	•	❌ Pero hindi pareho ang uri ng sistema:
+	•	English = alphabetic (phonographic)
+	•	Kanji = logographic / morphographic
+
+Mas malapit pa nga ang English sa ibang “deep orthographies” tulad ng French kaysa sa Kanji.
+
+🧠 Mas magandang framing
+
+Kung gusto mong ipagtanggol ang analogy mo, puwede itong i-refine:
+	•	English loanwords sa Filipino = mga salitang may “opaque” na spelling-pronunciation mapping
+	•	Native/Spanish words = mas predictable o mas naangkop na sa ponolohiya ng Filipino
+
+👉 Halimbawa:
+	•	computer → /kompyuter/ (inaangkop pa lang)
+	•	school → /iskul/ (may adaptation)
+	•	queue → halos walang intuitive na basa kung di mo alam
+
+Sa ganitong sense, “mas parang Kanji” sila dahil kailangan mong matutunan bilang unit, hindi purely by phonetic decoding.
+
+🌏 “Mas parang Intsik ang Anglo-Saxon culture”?
+
+Dito medyo kailangan nating maging maingat.
+Ang Anglo-Saxons (at ang modernong Anglo culture sa United Kingdom at United States) ay:
+	•	historikal na Germanic ang pinagmulan
+	•	malakas ang impluwensiya ng Latin at French (Norman Conquest)
+	•	highly alphabetic literacy tradition
+
+Samantalang ang China:
+	•	may logographic writing tradition (Chinese characters)
+	•	ibang-iba ang historical development ng bureaucracy, philosophy, at writing
+👉 Kung may pagkakatulad man:
+	•	maaaring sa pagpapahalaga sa tradition ng written forms
+	•	o sa prestige ng certain lexical layers (hal. Latinate words sa English, Classical Chinese sa East Asia)
+
+Pero:
+❌ Hindi sila “magkapareho” sa cultural-linguistic sense
+❌ Magkaibang civilizational trajectories sila
+
+🧭 Mas matibay na insight
+
+Ang pinaka-solid na ideya mo ay ito:
+
+👉 Sa Filipino, may layering ng bokabularyo:
+	1.	Austronesian (katutubo)
+	2.	Spanish (kolonyal, everyday objects)
+	3.	English (modern, technical, global)
+
+At ang English layer ay:
+	•	mas irregular ang spelling
+	•	mas mataas ang perceived prestige sa ilang domain
+	•	mas “chunk-based” ang pagkatuto
+✔ Ito ang puwedeng ihambing sa function ng Kanji (hindi sa form)
+
+🧠 Buod
+
+	•	Tama ka na ang English ay hindi makaponemiko, at puwedeng magmukhang “mas komplikado” tulad ng Kanji.
+	•	Pero structurally:
+	•	English ≠ Kanji (alphabet vs logographic)
+	•	Ang mas matibay na analogy ay:
+	•	English loanwords = high-register, irregular, chunk-learned layer
+	•	Tungkol sa kultura:
+	•	Hindi talaga “mas Intsik” ang Anglo-Saxon; mas ligtas sabihing may ilang parallel na katangian, pero fundamentally magkaiba.
+
+Kung gusto mo, puwede nating gawing formal linguistic model ito—parang “Filipino stratified lexicon” na may phonological adaptation rules per layer. That would actually be a very publishable idea 👀

@@ -2486,10 +2486,13 @@ Ang obserbasyon mo ay may bahagyang katotohanan, pero may kailangang linawin.
 ✔️ Tama ang intuition mo sa:
 
 Tibetan language
+
 maraming historical spellings
 maraming silent o di na binibigkas
 orthography ≠ modern pronunciation
+
 French language
+
 maraming silent letters
 historical layers sa spelling
 

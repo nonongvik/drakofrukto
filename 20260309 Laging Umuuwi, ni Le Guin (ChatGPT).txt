@@ -2501,7 +2501,9 @@ Medyo iba ang sitwasyon.
 
 Oo, may historical spelling ang Thai
 Pero hindi ito kasing “opaque” ng Tibetan o French
+
 Ang Thai script ay:
+
 may tone markers
 may systematic na consonant classes
 medyo predictable ang pronunciation kapag alam ang rules

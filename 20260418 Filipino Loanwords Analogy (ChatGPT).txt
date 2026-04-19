@@ -1,0 +1,87 @@
+20260418 Filipino Loanwords Analogy (ChatGPT)
+Viktor Nonong Medrano
+
+VIK: 2026-04-18. Some of us Filipino linguists have the idea that English loanwords in Filipino (Tagalog) are analogous to Kanji in Japanese, whilst Native words and Spanish loanwords are like Hiragana and Katakana. What do you think? Tell in Tagalog. By the way, is it better now to call the language "Filipino" than "Tagalog"?
+
+CHATGPT:
+
+Magandang obserbasyon iyan—at may ilang tama, pero kung susuriin nang mas mahigpit, medyo limitado rin ang analogy.
+
+Una: tungkol sa paghahambing (English = Kanji, Native/Spanish = Kana)
+
+May pagkakatulad sa functional level, pero hindi sa structural level.
+	•	Sa Japanese language, ang Kanji ay logographic: bawat karakter ay may kahulugang semantiko at madalas may maraming pagbasa. Samantalang ang Hiragana at Katakana ay phonetic syllabaries—tunog ang pangunahing papel nila.
+	•	Sa Filipino language, pare-pareho lang ang sistema: alpabetikong pagsulat (Latin alphabet). Walang hiwalay na script para sa iba’t ibang pinanggalingan ng salita.
+
+Kaya kung sasabihin mong:
+	•	English loanwords ≈ Kanji (madalas “high-level,” teknikal, prestihiyoso)
+	•	Native + Spanish ≈ Kana (mas “pang-araw-araw” o mas integrated)
+
+👉 Metaporikal, may saysay.
+
+👉 Pero linguistically, hindi sila tunay na magkatumbas.
+
+Mas magandang framing siguro:
+	•	Ang English loanwords sa Filipino ay parang Sino-Japanese vocabulary (kango) sa Japanese—ginagamit sa akademiko, teknikal, o modernong konsepto.
+	•	Ang native Austronesian words ay parang yamato kotoba (katutubong bokabularyo).
+	•	Ang Spanish loanwords ay parang ibang layer ng historical borrowing (medyo katulad ng mga lumang Chinese borrowings, pero hindi eksaktong pareho).
+
+Ikalawa: tungkol sa “Filipino” vs “Tagalog”
+Ito ay mas sosyolinggwistiko kaysa purong lingguwistika.
+	•	Ang Tagalog language ay ang ugat—isang partikular na wika.
+	•	Ang Filipino language ay ang standardized national language na opisyal na nakabase sa Tagalog, pero ideyal na bukas sa impluwensiya ng ibang wika sa Pilipinas.
+
+Sa praktika ngayon:
+	•	Halos magkapareho ang Tagalog at Filipino sa gramatika at core vocabulary.
+	•	“Filipino” ang ginagamit sa pormal, pambansang konteksto (edukasyon, media, gobyerno).
+	•	“Tagalog” ang mas tumpak kung tinutukoy mo ang linguistic base o rehiyonal na wika.
+
+👉 Kaya:
+	•	Kung lingguwistikong diskusyon → “Tagalog” ay mas precise.
+	•	Kung pambansa o sosyo-politikal na usapan → “Filipino” ang mas angkop.
+
+Bottom line:
+
+Maganda ang analogy mo bilang teaching tool o intuitive model, pero huwag itong ituring na istriktong katumbas. Ang Japanese writing system ay fundamentally ibang-iba sa sitwasyon ng bokabularyo sa Filipino—mas tama itong ihambing sa layers of vocabularykaysa sa types of scripts.
+Kung gusto mo, puwede nating i-refine pa ang analogy—gawing mas eksakto at usable sa pagtuturo ng linguistics.
+
+VIK: 2026-04-18. English loanwords are likened to Kanji because of opaque orthography.
+
+CHATGPT:
+
+Ah—kung “opaque orthography” ang basehan, mas nagiging matibay ang analogy mo, pero kailangan pa rin itong i-fine-tune.
+
+Bakit may saysay ang punto mo:
+	•	Sa Filipino language, karamihan ng katutubong salita at maraming hiram sa Kastila ay relatibong phonemic: kung paano bigkasin, halos ganoon din ang baybay (bata, bahay, mesa, kutsara).
+	•	Kapag pumasok ang English loanwords (queue, genre, schedule, archive), nadadala ang irregular spelling ng English language—hindi agad mahuhulaan ang bigkas mula sa baybay. Dito pumapasok ang “opaqueness.”
+	•	Sa Japanese language naman, ang Kanji ay “opaque” sa ibang paraan: hindi mo mababasa ang isang karakter kung hindi mo alam ang pagbasa at kahulugan nito; hindi siya direktang phonetic tulad ng Hiragana at Katakana.
+
+👉 Kaya sa cognitive experience ng mambabasa:
+	•	Parehong nangangailangan ng memorization at hindi simpleng “sound it out.”
+
+Pero narito ang limitasyon (mahalaga ito):
+	•	Ang “opaqueness” ng English ay phoneme–grapheme mismatch (historical spelling, etymology, etc.).
+	•	Ang “opaqueness” ng Kanji ay logographic system (meaning-bearing characters na may multiple readings).
+
+Ibig sabihin, magkaibang uri ng opacity:
+	•	English loanwords → irregular alphabetic
+	•	Kanji → non-alphabetic, morphosemantic
+
+Mas eksaktong bersyon ng analogy mo:
+
+Pwede mong sabihin:
+
+“Sa Filipino, ang English loanwords ay gumaganap na parang ‘Kanji-like layer’ dahil sa kanilang orthographic opacity at lexical prestige—pero hindi dahil pareho ang sistema ng pagsulat.”
+
+At kung gusto pang linawin:
+	•	Native + hispanisadong baybay → parang phonetic layer (kana-like)
+	•	English loans (unadapted spelling) → parang opaque layer na kailangang kabisaduhin (kanji-like in experience, hindi sa structure)
+
+Dagdag na insight:
+
+Kapag ang English loanword ay na-Filipinize ang baybay (iskedyul, dyip, tsuper), nawawala ang “Kanji effect” at bumabalik siya sa “kana-like transparency.”
+
+Bottom line:
+
+Valid ang intuition mo kung “reading difficulty at memorization” ang usapan. Pero kung “uri ng writing system,” hindi sila magkatumbas—kaya mas ligtas tawagin itong functional analogy, hindi structural.
+

@@ -1,0 +1,214 @@
+20260418 Asian Worlds
+Viktor Nonong Medrano
+
+2026-04-18. I still have the craving or fantasy to learn Hokkien, an ancestral Chinese topolect of mine, using POJ Romanization, one of at least 11 methods to write Hokkien, including sinograms. One thing that detracts from my allegiance to Chinese and other Oriental languages is the large amounts of homonyms in these languages. It seems that the words lack individuality, which adds to confusion. A strength of languages like Esperanto and Lojban is the minimalisation of homonyms. Puns, though maybe "fun" artistically, are not efficient. I was once in a Web forum about the Pali language, and I was asking in English about the accentuation in the words of Pali, a Southern Buddhist liturgical language; I used the word "stress." Some people mistakenly thought that I was alluding to "agitation" or that sort of thing. Another incident was when I was using ChatGPT AI in voiced Japanese, and I queried about a vocable "kasei" that had many meanings. I would have had to qualify the word with extra description to straighten the AI's thinking. I would have had to add context. I was aiming at the meaning "Mars" for "Kasei." The vocable "kasei" has at least 14 meanings with different sinograms, Kanji, each. A similar thing would happen if it were voiced Chinese. Orientals opine that there are mystical links to words that sound the same or similar, within the same language or across even different languages. Incidentally, I learned bits of Japanese on my own as a teenager, and I eventually took a course of Japanese in university in BC. Of Asian languages, I have learned also bits of Mandarin, as one night-school course; Cantonese, as one night-school course; Korean, on my own; Thai, on my own; and Vietnamese, on my own. For a time, I was learning Indonesian, too, on my own. But, I grew up with an Asian language, Tagalog, in the Philippines. I have not much chance of speaking to natives in the other languages, but I do not regret it. I merely have fun reading novels of science fiction and fantasy in Japanese, despite having "holes" in my knowledge of logograms, the Kanji. I know all the phonograms, the Katakana and the Hiragana. What do you think? Tell in Tagalog.
+
+CHATGPT:
+
+Maganda ang obserbasyon mo—pero kailangan ding i-ground nang kaunti ang ilang assumptions mo.
+
+Una: hindi talaga “kulang sa individuality” ang mga salita sa Hokkien, Mandarin, o Japanese. Ang nangyayari ay phonological compression—limitado ang bilang ng posibleng pantig, kaya maraming salita ang nagkakatunog. Pero hindi ibig sabihin nito na nagiging magulo ang wika sa aktwal na gamit. Sa halip, umaasa ang mga wikang ito sa:
+
+	•	konteksto (pinakamahalaga)
+	•	morphology / compounding (hal. dalawang pantig o higit pa para luminaw)
+	•	tono (lalo na sa mga Sinitic na wika)
+	•	at sa sulat, mga karakter (Kanji / Hanzi)
+
+Halimbawa, ang “kasei” sa Japanese language ay maraming kahulugan sa tunog pa lang, pero sa totoong usapan, halos laging malinaw kung alin ang ibig sabihin dahil sa konteksto. Kung hindi malinaw, natural lang na magdagdag ng qualifier—hindi iyon kahinaan, kundi normal na mekanismo ng wika. Kahit sa English, isipin mo ang “bank” (ilog o institusyon), o “light” (ilaw o magaan).
+
+Ikalawa: tama ka na ang mga constructed languages gaya ng Esperanto at Lojban ay sadyang dinisenyo para bawasan ang ambiguity. Pero may trade-off iyon:
+
+	•	Mas precise, pero minsan mas artificial ang pakiramdam
+	•	Mas kaunti ang homonyms, pero mas kailangan ng mahigpit na istruktura
+	•	Hindi sila dumaan sa natural na ebolusyon ng kultura, kaya iba ang “texture” kumpara sa natural languages
+
+Ikatlo: tungkol sa Hokkien at Pe̍h-ōe-jī (POJ), sa tingin ko hindi hadlang ang homonyms—sa katunayan, makakatulong pa nga ang romanization para linawin ang tunog at tono, lalo na kung may diacritics. Ang mas tunay na hamon ay:
+
+	•	kakulangan ng standardized exposure
+	•	iba-ibang romanization systems (POJ, Tâi-lô, atbp.)
+	•	at limitadong pagkakataon makipag-usap
+
+Pero kung ang goal mo ay intellectual at aesthetic enjoyment, swak na swak ang Hokkien sa iyo—lalo na’t interesado ka sa linguistics.
+
+Ikaapat: interesting din ang nabanggit mong “mystical links” sa magkakatunog na salita. Sa linguistics, tinatawag itong minsan na sound symbolism o folk associations. Cultural phenomenon ito, hindi objective property ng wika—pero mahalaga sa panitikan at tradisyon.
+
+Sa kabuuan, parang ganito ang masasabi ko:
+
+	•	Ang homonyms ay hindi bug, kundi feature ng maraming natural languages
+	•	Ang kalinawan ay hindi nakasalalay sa tunog lang, kundi sa buong sistema ng wika
+	•	Ang hilig mo sa Esperanto/Lojban at sabay na interes sa Hokkien/Japanese ay hindi contradiction—dalawang magkaibang paraan lang iyon ng pag-appreciate ng wika
+
+Kung gusto mo, puwede kitang tulungan gumawa ng konkretong plano kung paano mo aaralin ang Hokkien gamit ang POJ—may mga paraan para ma-minimize ang confusion at ma-enjoy mo pa rin ang proseso.
+
+VIK: 2026-04-18. Oo, sige.
+
+CHATGPT:
+
+Ayos—gagawa tayo ng praktikal at hindi nakaka-overwhelm na plano para sa Hokkien gamit ang Pe̍h-ōe-jī (POJ), habang miniminimize ang “homonym confusion” na kinaiinisan mo.
+
+⸻
+
+🌱 1. Foundation: Tunog bago kahulugan
+
+Unang 2–3 linggo, huwag ka munang magmadali sa bokabularyo.
+
+Focus:
+
+	•	tones (napakahalaga sa Hokkien)
+	•	syllable structure
+	•	POJ spelling conventions
+
+Goal:
+Kapag nakakita ka ng POJ word, kaya mong basahin nang tama kahit hindi mo alam ang ibig sabihin.
+
+👉 Tip: Tratuhin mo ang POJ parang “IPA-lite.” Precision muna bago semantics.
+
+⸻
+
+🧩 2. Controlled Vocabulary (Anti-homonym strategy)
+
+Dito ka magsisimulang umiwas sa kalituhan.
+
+Sa halip na mag-aral ng isolated words:
+
+	•	mag-aral ka ng phrases / chunks
+
+Halimbawa (illustrative lang):
+
+	•	“goá beh khì…” (gusto kong pumunta…)
+	•	“lí ē-hiáu…” (marunong ka ba…)
+
+Bakit ito epektibo?
+Kahit may homonym ang isang syllable, ang buong parirala bihirang ambiguous.
+
+⸻
+
+🧠 3. Semantic Anchoring (para hindi malito)
+
+Para sa bawat bagong salita:
+
+	•	i-link sa:
+	•	isang imahe
+	•	isang sitwasyon
+	•	isang emosyon
+
+Halimbawa:
+
+	•	isang salita = hindi lang translation
+	•	kundi: “eksena sa isip”
+
+👉 Ito ang kulang sa pure logical systems tulad ng Lojban—malinaw sila, pero minsan kulang sa lived context.
+
+⸻
+
+📚 4. Dual-track Learning (Romanization + Characters)
+
+Kahit gusto mo ng POJ, huwag mong iwasan ang characters.
+
+Gawin mo ito:
+
+	•	primary: POJ
+	•	secondary: Hanzi (exposure lang)
+
+Bakit?
+
+	•	ang characters ay parang “anti-homonym layer”
+	•	nagbibigay sila ng visual distinction
+
+Parang ginagawa mo sa Japanese language:
+
+	•	kana = tunog
+	•	kanji = kahulugan
+
+⸻
+
+🔊 5. Input Strategy (kahit walang kausap)
+
+Dahil limitado ang native interaction mo:
+
+Gawin mo:
+
+	•	makinig ng Hokkien audio (Taiwanese dramas, sermons, etc.)
+	•	sabayan ng POJ text kung kaya
+
+Technique:
+
+	•	shadowing (ulitin agad)
+	•	kahit hindi mo naiintindihan fully
+
+👉 Layunin: masanay ang utak mo sa pattern, hindi sa isolated decoding.
+
+⸻
+
+✍️ 6. Active Production (critical step)
+
+Dito nawawala ang takot sa ambiguity.
+
+Araw-araw:
+
+	•	magsulat ng 3–5 pangungusap sa POJ
+	•	kahit simple lang
+
+Halimbawa:
+
+	•	“Goá kin-á-ji̍t chin hoan-hí.” (Masaya ako ngayon)
+
+Important:
+Huwag kang matakot kung may multiple meanings ang isang syllable—ang grammar ang magliligtas sa iyo.
+
+⸻
+
+🧭 7. Weekly Theme System
+
+Para hindi kalat ang learning:
+
+Week themes:
+
+	•	Week 1: sarili / identity
+	•	Week 2: pagkain
+	•	Week 3: paglalakbay
+	•	Week 4: emosyon
+
+👉 bawat linggo:
+
+	•	20–30 words
+	•	10–15 phrases
+
+⸻
+
+⚖️ Reality Check (importante ito)
+
+Direkta kitang sasabihan:
+Hindi mawawala ang homonyms sa Hokkien.
+
+Pero:
+
+	•	mababawasan ang confusion kapag:
+	•	phrase-based ka
+	•	may context ka
+	•	may tone awareness ka
+
+At sa katunayan, habang tumatagal:
+👉 hindi mo na sila mapapansin
+
+⸻
+
+🌏 Final Insight
+
+Ang hinahanap mo (clarity, precision) ay natural sa Esperanto.
+Pero ang hinahabol mo sa Hokkien ay iba:
+
+	•	cultural depth
+	•	historical continuity
+	•	aesthetic nuance
+
+Magkaibang “game” sila—at kaya mong laruin pareho.
+
+⸻
+
+Kung gusto mo, puwede kitang bigyan ng:
+
+	•	 konkretong Week 1 lessons (may audio-style guidance)
+	•	o  curated resources para sa POJ learning
+
+Saan mo gustong mag-focus next— pronunciation drills o  starter vocabulary set?

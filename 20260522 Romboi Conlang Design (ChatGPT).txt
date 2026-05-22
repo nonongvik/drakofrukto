@@ -1,0 +1,318 @@
+20260522 Romboi Conlang Design
+Viktor Nonong Medrano
+
+VIK: 2026-05-22. Design a conlang which is akin to Lojban. The root words are 5-letter words derived from Romance languages, with a transparent orthography.
+
+CHATGPT:
+
+Lingua: Romboi
+
+A logical constructed language inspired by Lojban, but with Romance-derived roots and highly transparent spelling.
+
+The goal of Romboi is:
+
+culturally Romance in flavor,
+logically precise,
+phonetic and regular,
+compact like Lojban,
+emotionally warmer and more melodic.
+
+⸻
+
+1. Core Design Principles
+
+A. One Sound = One Letter
+
+Orthography is completely transparent.
+
+Letter	Sound	Example
+a	/a/	Spanish casa
+e	/e/	Italian bene
+i	/i/	machine
+o	/o/	Italian sole
+u	/u/	rule
+c	/ʃ/	“sh”
+j	/ʒ/	French jour
+x	/x/	Spanish jota
+y	/j/	yes
+r	tapped/trilled	Romance r
+q	/ŋ/	sing
+
+No silent letters.
+Stress always falls on the penultimate syllable.
+
+⸻
+
+2. Root Structure
+
+All content roots are exactly 5 letters.
+
+These are called radis.
+
+They are algorithmically derived from Romance vocabulary.
+
+Formation Method
+
+Choose a Romance etymon.
+Remove inflections.
+Compress consonants.
+Preserve recognizable vowels.
+Normalize spelling.
+
+Examples:
+
+Romance Source	Meaning	Romboi Root
+parlare / parlar	speak	parla
+vedere / ver	see	vedra
+sapere / saber	know	sapra
+mangiare / manger	eat	manja
+amare / amar	love	amora
+dormire	sleep	dorma
+pensare	think	pensa
+vivere	live	vivae
+venire	come	venia
+andare	go	andra
+
+Every root belongs to a semantic predicate frame, like Lojban’s gismu.
+
+3. Predicate Logic Structure
+
+Every root expresses a relation.
+
+Example
+
+parla
+
+Means:
+
+x1 speaks language x2 to x3 about x4
+
+Example:
+
+mi parla lo romboi tu
+
+“I speak Romboi to you.”
+
+Word	Meaning
+mi	I/me
+lo	descriptor marker
+romboi	Romboi language
+tu	you
+
+4. Grammar
+
+Word Classes
+
+No noun/verb distinction.
+
+Every root is fundamentally a predicate.
+
+mi amora tu
+
+= “I love you.”
+
+Literally:
+
+I am-in-a-love-relation with you.
+
+5. Particles
+
+Pronouns
+
+Romboi	Meaning
+mi	I
+tu	you
+il	he/she
+nu	we
+vu	you all
+li	they
+
+Tense
+
+Particle	Meaning
+pa	past
+fu	future
+na	present/neutral
+
+mi pa dorma
+
+“I slept.”
+
+Negation
+
+Particle	Meaning
+no	logical negation
+
+mi no sapra
+
+“I do not know.”
+
+6. Logical Connectives
+
+Highly Lojbanic.
+
+Word	Meaning
+e	and
+o	inclusive or
+xo	if
+xa	iff
+ni	not
+
+Example:
+
+xo tu venia mi andra
+
+“If you come, I go.
+
+7. Argument Markers
+
+Like Lojban place structures, but simpler.
+
+Marker	Role
+ga	agent
+de	object
+ko	instrument
+bi	location
+su	cause
+
+Example:
+
+ga mi manja de pano bi roma
+
+“I eat bread in Rome.”
+
+8. Questions
+
+Yes/No
+
+Sentence-final particle:
+
+tu sapra qo
+
+“Do you know?”
+
+Wh-words
+
+Word	Meaning
+qui	who
+que	what
+ubi	where
+cando	when
+proce	why
+como	how
+
+9. Compounds
+
+Roots may combine transparently.
+
+Example
+
+Compound	Meaning
+amopar	love-speech / poetry
+vedlux	light-source
+saptec	science
+dormox	dream
+
+10. Derivational Morphology
+
+Regular suffixes:
+
+Suffix	Meaning
+-i	abstract noun
+-a	predicate root
+-or	agent
+-um	tool
+-ia	field/domain
+
+Examples:
+
+Word	Meaning
+pensi	thought
+pensor	thinker
+vidum	visual tool
+sapia	science/knowledge-domain
+
+11. Phonotactics
+
+Allowed syllables:
+
+(C)(C)V(C)
+
+Allowed initial clusters:
+
+pr
+tr
+cl
+fl
+br
+dr
+gl
+
+The language intentionally sounds Mediterranean and fluid.
+
+12. Example Text
+
+Romboi
+
+mi amora la stela.
+nu pensa que li vivae inter stara.
+fu tempo, nu vedra altra mundi.
+
+English
+
+I love the stars.
+We think that they live among the stars.
+In the future, we will see other worlds.
+
+13. Sample Vocabulary
+
+Root	Meaning
+parla	speak
+vedra	see
+amora	love
+pensa	think
+sapra	know
+andra	go
+venia	come
+dorma	sleep
+canta	sing
+scria	write
+legia	read
+bibra	drink
+manja	eat
+vivae	live
+moria	die
+stela	star
+maris	sea
+terra	earth
+lunae	moon
+solis	sun
+
+14. Distinctive Flavor
+
+Unlike Lojban, Romboi:
+
+sounds romantic and human,
+preserves etymological familiarity,
+allows emotional resonance,
+remains machine-parsable,
+avoids ambiguity through particles and argument marking.
+
+It feels somewhat like:
+
+Italian + Occitan + Lojban,
+with hints of Esperanto regularity.
+
+15. Example Conversation
+
+A: tu parla romboi qo?
+B: si. mi sapra poca.
+A: bona! nu canta e bibra vino.
+
+English:
+
+A: Do you speak Romboi?
+B: Yes. I know a little.
+A: Good! Let us sing and drink wine.
+
+VIK: 2026-05-22. Romboi is just a draft idea, early-stage prototypical. There may be inconsistencies in the ChatGPT AI’s presentation.

@@ -1,0 +1,21 @@
+20260606 Algebra (ChatGPT)
+Viktor Nonong Medrano
+
+Sa gabi, bago mag-alas-otso, may araw pa sa labas. Lakad ako papuntang Tim Hortons café. Napupuna ko ang isang lote na may malalaking puno. (Malaki para sa Isla Lulu, dating putikan.) May pandak na puting parang inhinyero ang nakatira roon. Kapitbahay niya ang may hardin ng mga mapulang rosas. Tsino ang may ari. Sa café, may Orange Tangerine Protein Quencher ako. May mga Bumbay na kliyente: May isang parang office worker. May dalawang pinag-uusapan ang algebra. Ang Bumbay na tutor ay sabi: “A number divided by zero is undefined.” Natatandaan ko na ang algebra ko sa hayskul. Matangkad na payatot ang Bumbay na estudyante. May mga Tsinong kliyente. Naroon si Hamid na Iranian. “Iranjin” ang tawag ng mga Hapones. Noong nasa Hapon ako, maraming Iranjin sa konstruksiyon. Alam ng mga Hapones na maganda sila. Pag-uwi ko, nakita ko ang kapitbahay kong Tsino na sumabing “How! (Hao!)” Parang pagbati ng mga Amerindiyo: “Hau!” Alam niyang natutuwa ako sa Native Studies. Alam niyang parang Amerindiyo ang mga Asyano. Bahay noong Tsino ang dating tahanan ng kaibigan ko ring si Neil Matsuo na patay na. May malaking seresong puno sa harapan ng tahanan. Puti ang bulaklak.
+
+CHATGPT:
+
+Magandang tagpo iyan ng isang mahabang gabi ng tag-init sa Lulu Island—may araw pa bago mag-alas-otso, naglalakad papuntang café, at napapansin ang mga puno, hardin, at mga kapitbahay sa paligid.
+
+Tama rin ang naalala mo mula sa algebra. Ang sinabi ng Bumbay na tutor na “A number divided by zero is undefined” ang karaniwang itinuturo sa paaralan. 
+Halimbawa:
+
+5/0
+
+Walang bilang na maaaring ipalit upang maging makatuwiran ang operasyon, kaya itinuturing itong undefined. Hindi ito simpleng “infinity.” Sa ilang sangay ng matematika at pagsusuri (limits), maaaring lumaki nang walang hanggan ang halaga habang papalapit ang denominator sa sero, ngunit iba iyon sa aktuwal na paghahating may serong denominator.
+
+Nakakawili rin ang obserbasyon mo tungkol kay Hamid. Sa wikang Hapones, ang Iraniano ay talagang tinatawag na Iranjin (イラン人), kung saan ang -jin ay nangangahulugang “tao mula sa” isang bansa. Noong dekada 1980 at 1990, nagkaroon ng kapansin-pansing komunidad ng mga Iraniano sa Hapon, lalo na sa mga gawaing industriyal at konstruksyon.
+
+Tungkol naman sa “How!” o “Hao!” ng kapitbahay mong Tsino, maaaring biro o personal na pagbati iyon na alam niyang mauunawaan mo dahil sa hilig mo sa Native Studies. Ang “Hau” ay kilalang pagbati sa ilang wikang Siouxan, ngunit hindi ito pangkalahatang pagbati ng lahat ng mga Katutubong bayan sa Hilagang Amerika. Madalas na pinalawak ng mga lumang pelikulang Kanluranin ang paggamit nito kaya nagkaroon ng stereotyped na imahe.
+
+Ang huling detalye tungkol sa bahay na dating tinitirhan ng kaibigan mong si Neil Matsuo at sa malaking punong seresa na may puting bulaklak ay nagbibigay ng pakiramdam ng pagpapatuloy ng panahon: nagbabago ang mga nakatira sa bahay, ngunit nananatili ang puno sa harapan bilang tahimik na saksi sa mga lumipas na taon. Ang mga puting bulaklak ng seresa ay karaniwan sa ilang uri ng Japanese cherry, at sa tagsibol ay madalas silang maging pinakakapansin-pansing bahagi ng tanawin bago muling maging luntiang dahon ang puno.

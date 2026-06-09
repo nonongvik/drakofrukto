@@ -1,0 +1,185 @@
+Esperanto Punctuation Rules
+Viktoro Medrano
+
+VIK: 2026-06-08. What are the recommendations in Esperanto for putting periods within or without quotations, of phrases and words, in the middle or end of sentences?
+
+CHATGPT:
+
+In Esperanto, the usual recommendation is logical punctuation (logika interpunkcio), not the traditional American-English convention. In other words, punctuation belongs where it logically belongs: either to the quoted material itself or to the surrounding sentence. This is broadly similar to British usage.  
+
+1. Quoted word or phrase in the middle of a sentence
+
+If you are merely mentioning a word or phrase, the comma or period of the surrounding sentence goes outside the quotation marks.
+
+	•	La vorto “amiko” estas tre ofta.
+	•	Mi ne ŝatas la esprimon “senprobleme”, ĉar ĝi ofte sonas tro memfide.
+
+2. Quoted word or phrase at the end of a sentence
+
+The period belongs to the sentence, not to the quoted word, so it is usually placed outside.
+
+	•	Li uzis la vorton “interlingvistiko”.
+	•	Ŝi diris nur “eble”.
+
+Many Esperantists consider this the most logical form because the period was not part of the quoted material itself.
+
+3. A complete quoted sentence
+
+If the quoted text is itself a complete sentence, its own punctuation stays inside the quotation marks.
+
+	•	Li diris: “Mi venos morgaŭ.”
+	•	Ŝi demandis: “Ĉu vi komprenas?”
+
+Here the period and question mark belong to the quoted utterance.
+
+4. A quotation embedded in a larger sentence
+
+When a complete quotation is interrupted by a reporting clause, commas usually remain part of the quotation.
+
+	•	“Mi venos morgaŭ”, li diris.
+	•	“Mi ne certas”, ŝi respondis.
+
+Some authors vary slightly in practice, but this is common Esperanto usage.
+
+5. Question marks and exclamation marks
+
+These follow logic rather than typography.
+
+If the quotation itself is a question:
+
+	•	Li demandis: “Kie vi loĝas?”
+
+If the surrounding sentence is the question:
+
+	•	Ĉu li vere diris “mi ne zorgas”?
+
+Notice that the question mark is outside because your sentence is the question, not the quoted words.
+
+Likewise:
+
+	•	Kiel vi povas nomi tion “solvo”!
+
+The exclamation mark belongs to the surrounding sentence.
+
+A concise rule
+
+Many Esperantists would summarize it this way:
+
+Punctuation goes inside quotation marks only when it belongs to the quoted material; otherwise it stays outside.
+
+Thus:
+
+	•	Li diris: “Saluton.”
+	•	Li uzis la vorton “saluton”.
+	•	Ĉu vi aŭdis la vorton “saluton”?
+	•	Li demandis: “Ĉu vi fartas bone?”
+
+That approach is generally regarded as the most consistent with Esperanto’s preference for regularity and logical structure.
+
+VIK: 2026-06-08. Can you enhance number 4 scenario?
+
+CHATGPT:
+
+Certainly. Scenario 4 is where Esperanto style becomes especially interesting because it often follows the logic of the quotation rather than imposing punctuation mechanically.
+
+4. A quotation embedded in a larger sentence
+
+When a direct quotation is followed or interrupted by a reporting clause (li diris, ŝi demandis, ili respondis, etc.), the quotation is not necessarily treated as a fully closed sentence.
+
+Common pattern
+
+	•	“Mi venos morgaŭ”, li diris.
+	•	“Mi ne certas”, ŝi respondis.
+	•	“Jes”, li konsentis.
+	•	“Ne”, ŝi kontraŭis.
+
+The comma separates the quotation from the reporting clause, much as in many European languages.
+
+⸻
+
+Longer quotations
+
+If the quoted speech continues after the reporting clause:
+
+	•	“Mi venos morgaŭ”, li diris, “kaj mi restos ĝis vendredo.”
+	•	“Mi ne scias”, ŝi respondis, “ĉu tio sukcesos.”
+
+The reporting clause acts almost like a parenthetical interruption.
+
+⸻
+
+When the quotation is a question
+
+If the quoted utterance itself is a question, the question mark belongs to it.
+
+	•	“Kie vi loĝas?” ŝi demandis.
+	•	“Ĉu vi komprenas?” li demandis.
+
+Notice that no extra comma is needed after the question mark.
+
+⸻
+
+When the quotation is an exclamation
+
+Likewise:
+
+	•	“Bonege!” ŝi kriis.
+	•	“Atentu!” li avertis.
+
+The exclamation mark already closes the quoted utterance.
+
+⸻
+
+Multi-sentence quotations
+
+If the quotation contains several sentences, the final punctuation remains inside the quotation.
+
+	•	“Mi venis hieraŭ. Mi restos ĝis lundo.” li diris.
+
+Or more commonly with a colon introducing the quotation:
+
+	•	Li diris: “Mi venis hieraŭ. Mi restos ĝis lundo.”
+
+Many stylists prefer the second form because it is visually cleaner.
+
+⸻
+
+Esperanto’s preference for the colon
+
+Compared with English, Esperanto writers often use a colon before a direct quotation:
+
+	•	Li diris: “Mi venos morgaŭ.”
+	•	Ŝi respondis: “Mi ankoraŭ ne scias.”
+	•	Li demandis: “Kial vi malfruis?”
+
+This avoids some of the comma-placement dilemmas that occur in English.
+
+⸻
+
+Mentioning vs. quoting
+
+Compare:
+
+	•	Li uzis la vorton “amiko”.
+    (The word itself is being mentioned.)
+
+with
+
+	•	“Amiko”, li diris, “estas iu, je kiu oni povas fidi.”
+    (The word is part of quoted speech.)
+
+The first is a linguistic mention; the second is a direct quotation.
+
+A practical editorial guideline
+
+If you write Esperanto prose, a useful approach is:
+
+	1.	Use a colon to introduce direct speech:
+	•	Li diris: “Mi venos.”
+	2.	If a reporting clause interrupts the speech, use commas:
+	•	“Mi venos”, li diris, “sed ne hodiaŭ.”
+	3.	Keep question marks and exclamation marks with the quoted speech when they belong to it:
+	•	“Kial?” ŝi demandis.
+	•	“Atentu!” li kriis.
+
+This tends to be the clearest and most widely accepted style among contemporary Esperanto writers.

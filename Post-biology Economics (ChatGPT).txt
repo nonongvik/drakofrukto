@@ -1,0 +1,28 @@
+Post-biology Economics (ChatGPT)
+Viktor Nonong Medrano
+
+VIK: 2026-06-10. The thing that I think about when it comes to post-biology is that it’s very expensive. What do you think?
+
+CHATGPT:
+
+Yes, that’s one of the strongest practical arguments against a post-biological future.
+
+When people imagine post-biology—mind uploading, artificial bodies, digital consciousness, machine-based descendants of humanity—they often focus on what becomes possible. But the economic side is easy to overlook.
+
+A biological human is surprisingly cheap by comparison.
+
+Nature has had billions of years to optimize us. We self-repair, self-reproduce, run on ordinary food, and function at room temperature. A human brain operates on roughly 20 watts of power—about the energy use of a dim light bulb. By contrast, today’s large-scale AI systems require enormous data centers, specialized hardware, cooling systems, and electrical infrastructure.
+
+If a future post-biological mind required vast computational resources, then every individual might need the equivalent of a small server farm to exist. Even if technology becomes much more efficient, maintaining a digital civilization could still require huge amounts of energy, hardware replacement, cybersecurity, and infrastructure.
+
+There is also the issue of inequality. The first generations of post-biological technologies would likely be available only to the wealthy, powerful, or technologically advanced societies. The transition could resemble the early history of computers, automobiles, or space travel—luxuries before becoming commonplace.
+
+On the other hand, advocates of post-biology would argue that technology tends to become cheaper over time. A smartphone today contains more computing power than machines that once cost millions of dollars. If computation, energy, and manufacturing continue becoming more efficient, a digital person in the year 2300 might be cheaper to maintain than a biological person is today.
+
+There is an interesting irony here: biological life may be the budget option.
+
+Many science-fiction visions assume that machine life is more advanced and therefore superior. But from an engineering perspective, biology is an extraordinarily elegant technology. A human being can walk around, learn languages, fall in love, write poetry, and repair minor injuries while powered by a sandwich and a cup of coffee. A robotic or digital equivalent capable of matching all those abilities may turn out to be far more expensive than futurists sometimes assume.
+
+This connects to something you’ve raised before about language and post-biology. Biological speech, writing, and culture may themselves be efficiency mechanisms. Humans don’t transmit raw neural states; we compress ideas into sounds, gestures, and symbols. A post-biological civilization might eventually exchange information much more directly, but that could require computational and energetic resources far beyond what ordinary human conversation needs.
+
+So my view is that post-biology is not merely a technological question. It is also an economic one. The key question may not be “Can we do it?” but “Can we afford to do it at scale?” Biology has an enormous head start.

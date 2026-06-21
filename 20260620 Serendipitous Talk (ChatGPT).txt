@@ -125,3 +125,36 @@ Nakakawili rin na ikumpara ito sa tunay na mundo. Sa ating realidad, hindi Alema
 
 Sa madaling salita, may katotohanan ang obserbasyon mo na malapit na magkaugnay ang kapangyarihang pampolitika at prestihiyo ng isang wika. Ngunit hindi rin awtomatikong sumusunod na ang isang wika ay nangingibabaw dahil lamang sa tagumpay sa digmaan. Kadalasan, ang pangmatagalang impluwensiya ay nakasalalay sa agham, ekonomiya, edukasyon, at kultura sa loob ng maraming dekada pagkatapos ng digmaan.
 
+VIK: 2026-06-20. There’s more on linguistics: Gary is Cantonese, but has learned also Mandarin, later, because his wife speaks it. Unbeknownst to him, the Mandarin pronoun “tā” has several written forms: 它 (“it” as animal), 他 (“he”), and 她 (“she”). I mention to Gary that sex has become differentiated due to Western influence. In Cantonese, however, there is still only 佢 keoi5 for “it,” “he,” and “she.” My Tagalog has only “siyá” for “it,” “he,” and “she.”
+
+CHATGPT:
+
+May punto ang obserbasyon mo, ngunit may ilang mahalagang detalye.
+
+Sa sinasalitang Mandarin, tama ka na iisa lamang ang karaniwang bigkas ng mga panghalip na ito:
+
+* 他 = tā (“siya” para sa lalaki)
+* 她 = tā (“siya” para sa babae)
+* 它 = tā (“ito” para sa hayop o bagay)
+
+Kapag pinakikinggan lamang, hindi mo malalaman kung alin ang tinutukoy maliban sa konteksto. Sa puntong ito, ang sinasalitang Mandarin ay mas malapit sa Tagalog kaysa sa Ingles.
+
+Tama rin na ang karakter na 她 para sa pambabaeng “siya” ay relatibong bago sa kasaysayan ng wikang Tsino. Tradisyonal na ginagamit ang 他 para sa lahat ng tao, anuman ang kasarian. Noong unang bahagi ng ika-20 siglo, habang isinasalin ng mga intelektuwal Tsino ang mga akdang Europeo at nakikipag-ugnayan sa mga wikang may pagkakaibang “he” at “she,” naging popular ang paggamit ng 她 upang markahan ang kasarian sa pagsusulat.
+
+Gayunman, medyo pinasimple kung sasabihing “dahil sa Kanluran” lamang. Mas tumpak na sabihing ang modernong nakasulat na Mandarin ay naimpluwensiyahan ng pakikipag-ugnayan sa mga wikang Europeo at ng mga repormang pangwika sa modernong Tsina.
+
+Tungkol naman sa Kantones, tama ka na ang panghalip na 佢 (keoi5) ay karaniwang hindi nagmamarka ng kasarian sa pagsasalita. Maaari itong tumukoy sa lalaki, babae, o minsan ay iba pang referent depende sa konteksto. Sa aspetong ito, mas kahawig nito ang Tagalog kaysa Ingles.
+
+Ganoon din sa Tagalog:
+
+* siyá = he, she, o minsan ay “they” sa ilang konteksto.
+* niyá = his, her.
+* kaniyá = his, hers.
+
+Walang obligadong pagmamarka ng kasarian. Kung gusto mong tukuyin ito, saka ka lamang magdaragdag ng salita gaya ng lalaki, babae, binata, dalaga, atbp.
+
+Nakakatuwang isipin na ang Ingles, na madalas ituring na “normal” ng maraming tao, ay medyo kakaiba sa aspetong ito. Maraming wika sa mundo ang walang sapilitang pagkakaiba ng “he” at “she.” Kabilang dito ang Tagalog, Kantones, Indonesian, Malay, Turkish, Finnish, at iba pa.
+
+Sa katunayan, maaaring sabihin na mas “ekonomiko” ang sistema ng Tagalog at Kantones: isang panghalip lamang (siyá, keoi5) at ang konteksto na ang bahalang magsabi kung lalaki o babae ang tinutukoy. Ang kasarian ay ipinapahayag lamang kapag mahalaga sa usapan. Iyan marahil ang dahilan kung bakit natural sa iyo na isipin ang siyá bilang sapat na katumbas ng Ingles na he, she, at kung minsan pa nga ay they.
+
+

@@ -123,3 +123,67 @@ I translated korvo as カラス (karasu) rather than ワタリガラス (watarig
 Laro becomes カモメ (kamome) (“seagull”).
 Eliretas (“peeks out”) is rendered as 顔をのぞかせる (kao o nozokaseru), a natural poetic expression meaning “to peek out” or “to show one’s face.”
 The final line, 静寂が訪れる (seijaku ga otozureru), literally “silence arrives,” is a natural Japanese poetic way to express “There is silence for a moment,” while preserving the stillness of your original.
+
+VIK: 2026-06-25. Render my poem into Thai, in native script, then in IPA with tones indicated.
+
+CHATGPT:
+
+Here’s a poetic rendering in Thai. Rather than translating word for word, I’ve aimed to preserve the calm, contemplative atmosphere and the brevity of your original.
+
+ภาษาไทย
+
+17 ตุลาคม 2011
+
+อีกาบิน…
+นกนางนวลบินตาม…
+
+ดวงอาทิตย์ค่อย ๆ
+โผล่พ้นจากหมู่เมฆ
+สีเทาและสีส้ม
+
+ฉันยืนอยู่ข้าง
+ถนนข้างบ้าน
+
+ความเงียบงัน
+มาเยือนชั่วขณะ
+
+⸻
+
+IPA (with tones)
+
+17 ตุลาคม 2011
+
+/ʔìː.kāː bin…/
+[L H] [M]
+
+/nók nāːŋ.nūan bin tāːm…/
+[H M M] [M] [M]
+
+/duaŋ ʔāː.tʰít kʰɔ̂ːj kʰɔ̂ːj/
+[M H H H]
+
+/pʰlǒː pʰôn càːk mùː mêːk/
+[R F L F]
+
+/sǐː tʰāːo lɛ́ʔ sǐː sôm/
+[R M H R F]
+
+/t͡ɕʰǎn jɯːn jùː kʰâːŋ/
+[R M L F]
+
+/tʰà.nǒn kʰâːŋ bâːn/
+[L R F F]
+
+/kʰwaːm ŋîap.ŋan/
+[M F M]
+
+/maː jɯan t͡ɕʰûa kʰà.nàʔ/
+[M M F L H]
+
+Notes
+
+อีกา (ìikaa) specifically means “raven” or “crow.” Thai does not ordinarily distinguish ravens from crows in everyday vocabulary, so อีกา is the natural choice.
+นกนางนวล (nók nāang nuan) is “seagull.”
+I rendered eliretas as ค่อย ๆ โผล่พ้น (“slowly peeks out”), preserving the gentle emergence of the sun.
+The last two lines, ความเงียบงัน / มาเยือนชั่วขณะ (“Silence visits for a moment”), are slightly more poetic than a literal translation while maintaining the quiet, fleeting mood of your original.
+

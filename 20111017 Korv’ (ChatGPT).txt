@@ -153,12 +153,12 @@ IPA (with tones)
 
 17 ตุลาคม 2011
 
-/ʔìː.kāː bin…/
-/nók nāːŋ.nūan bin tāːm…/
+/ʔìː.kaː bin…/
+/nók naːŋ.nuan bin taːm…/
 
-/duaŋ ʔāː.tʰít kʰɔ̂ːj kʰɔ̂ːj/
+/duaŋ ʔaː.tʰít kʰɔ̂ːj kʰɔ̂ːj/
 /pʰlǒː pʰôn càːk mùː mêːk/
-/sǐː tʰāːo lɛ́ʔ sǐː sôm/
+/sǐː tʰaːo lɛ́ʔ sǐː sôm/
 
 /t͡ɕʰǎn jɯːn jùː kʰâːŋ/
 /tʰà.nǒn kʰâːŋ bâːn/
@@ -169,7 +169,7 @@ IPA (with tones)
 Notes
 
 อีกา (ìikaa) specifically means “raven” or “crow.” Thai does not ordinarily distinguish ravens from crows in everyday vocabulary, so อีกา is the natural choice.
-นกนางนวล (nók nāang nuan) is “seagull.”
+นกนางนวล (nók naang nuan) is “seagull.”
 I rendered eliretas as ค่อย ๆ โผล่พ้น (“slowly peeks out”), preserving the gentle emergence of the sun.
 The last two lines, ความเงียบงัน / มาเยือนชั่วขณะ (“Silence visits for a moment”), are slightly more poetic than a literal translation while maintaining the quiet, fleeting mood of your original.
 

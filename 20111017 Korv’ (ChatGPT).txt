@@ -282,4 +282,77 @@ Rather than a literal “there is silence,” I used ca oncān moyōlcehui in tl
 
 Because Classical Nahuatl poetry often favors parallelism and evocative imagery over direct statement, this version reads as something that could plausibly have been composed in a Nahua literary register while remaining faithful to your original scene.
 
+VIK: 2026-07-10. Render my poem into Korean, in native script, then in IPA.
+
+CHATGPT:
+
+Here’s a literary rendering into Korean. As with the previous translations, I’ve aimed to preserve the quiet, contemplative atmosphere rather than translate word for word.
+
+한국어
+
+2011년 10월 17일
+
+까마귀가 난다…
+갈매기가 뒤따른다…
+
+태양이
+잿빛과 주황빛 구름 사이로
+살며시 모습을 드러낸다.
+
+나는 집 옆
+길가에 서 있다.
+
+잠시,
+고요가 찾아온다.
+
+⸻
+
+IPA
+
+2011년 10월 17일
+
+/k͈a̠ma̠ɡɥiɡa̠ na̠nda̠/
+
+까마귀가 난다.
+
+/ka̠ɭmɛ̝ɡiɡa̠ tɥid͈a̠ɾɯnda̠/
+
+갈매기가 뒤따른다.
+
+/tʰɛ̝ja̠ŋi/
+
+태양이
+
+/t͡ɕɛ̝tp͈it̚k͈wa̠ t͡ɕuɦwa̠ŋp͈it̚ kuɾɯm sa̠iɾo̞/
+
+잿빛과 주황빛 구름 사이로
+
+/sa̠ɭmjʌ̹ɕi mo̞sɯbɯɭ tɯɾʌ̹na̠nda̠/
+
+살며시 모습을 드러낸다.
+
+/na̠nɯn t͡ɕip̚ jʌp̚/
+
+나는 집 옆
+
+/kiɭɡa̠e̞ sʰʌ̹ it̚t͈a̠/
+
+길가에 서 있다.
+
+/t͡ɕa̠mɕi/
+
+잠시
+
+/ko̞jo̞ɡa̠ t͡ɕʰa̠d͡ʑa̠o̞nda̠/
+
+고요가 찾아온다.
+
+Notes
+
+까마귀 (kkamagwi) is the everyday Korean word for both crows and ravens. Korean does not normally distinguish them lexically.
+갈매기 (galmaegi) means “seagull.”
+I translated eliretas as 살며시 모습을 드러낸다 (“gently reveals itself”), which captures the sense of the sun quietly peeking out.
+The final line, 고요가 찾아온다 (“quietness comes”), is a natural poetic expression in Korean and echoes the stillness of your Esperanto original more effectively than a literal rendering such as 잠시 동안 침묵이 있다 (“there is silence for a moment”).
+
+
 

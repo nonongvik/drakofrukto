@@ -379,4 +379,46 @@ Kung gusto mo, maaari kong gawin ang isa pang bersiyon na:
 	•	 mas mahigpit na Classical Nahuatl reconstruction (linguistic style, mas “codex-like”), o
  mas poetikong modern Nahuatl na mas natural pakinggan sa mga fluent speakers ngayon.
 
+VIK: 2026-07-10. Render my poem into Korean, in native script, then in IPA.
+
+CHATGPT:
+
+Here is a literary rendering of your poem into Korean. As in the earlier translations, I have followed your clarification that “Ruĝrozaj ĝardenoj” means “gardens of red roses,” not “rose-red gardens.”
+
+한국어
+
+바닷가 저편 까마귀의 나라는
+드넓은 땅이다.
+
+비밀스러운 곳의 작은 숲들은
+바위 길 곁에 자리한다.
+
+붉은 장미의 정원들은 숨어 있으며
+오래된 금속 울타리 뒤에 있다.
+
+그곳 사람들은 참으로 돌이 되어
+잿빛 벽돌 성의 바깥에 서 있다.
+
+⸻
+
+IPA
+
+/pa̠da̠t̚k͈a̠ t͡ɕʌ̹pʰjʌ̹n k͈a̠ma̠ɡwi.e na̠ɾanɯn/
+/tɯn.nʌ̹ɭbɯn t͈a̠ŋida̠/
+
+/pi̞miɭsɯɾʌ̹un ko̞sʰe t͡ɕa̠ɡɯn sumdɯɭɯn/
+/pa̠wi kiɭ kjʌ̹t͈e t͡ɕa̠ɾiha̠nda̠/
+
+/puɭɡɯn d͡ʑa̠ŋmi.e t͡ɕʌ̹ŋwʌ̹ndɯɭɯn suɾʌ̹ i.sɯmjʌ̹/
+/o̞ɾe.dwen kɯmso̞ŋ uɭtʰa̠ɾi twi.e it̚t͈a̠/
+
+/kɯɡo̞t̚ sa̠ɾa̠mdɯɭɯn t͡ɕʰa̠mɯɾo̞ to̞ɭi toe̯ʌ̹/
+/t͡ɕɛ̝tb̚it̚ pjʌ̹k̚t͈o̞ɭ sʰʌ̹ŋe pa̠k͈a̠tʰe sʰʌ̹ it̚t͈a̠/
+
+Notes
+
+까마귀의 나라 (“Land of Crows”) translates Korvoland’ idiomatically instead of simply transliterating the name.
+붉은 장미의 정원들 explicitly means “gardens of red roses,” matching your intended meaning.
+돌이 되어 (“become stone”) conveys the literal sense of ŝtoniĝas in natural literary Korean.
+잿빛 벽돌 성 (“gray-brick castles”) preserves the imagery of castles built of gray bricks while reading naturally in Korean poetry.
 

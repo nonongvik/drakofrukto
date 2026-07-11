@@ -422,3 +422,47 @@ Notes
 돌이 되어 (“become stone”) conveys the literal sense of ŝtoniĝas in natural literary Korean.
 잿빛 벽돌 성 (“gray-brick castles”) preserves the imagery of castles built of gray bricks while reading naturally in Korean poetry.
 
+VIK: 2026-07-11. Render my poem into Arabic, in native script, then in IPA.
+
+CHATGPT:
+
+Below is a literary rendering of your poem into Modern Standard Arabic (الفصحى). As with the previous translations, I have followed your intended meaning that “Ruĝrozaj ĝardenoj” = “gardens of red roses.”
+
+العربية
+
+أرضُ الغربانِ وراءَ الشاطئِ
+هي أرضٌ واسعةٌ.
+
+بساتينُ الأشجارِ الصغيرةِ في الأماكنِ السريةِ
+تقعُ بجوارِ الطُّرُقِ الصخريةِ.
+
+حدائقُ الورودِ الحمراءِ تختبئُ
+خلفَ الأسوارِ المعدنيةِ العتيقةِ.
+
+وهناكَ يتحجَّرُ الناسُ حقًّا
+خارجَ القلاعِ المبنيَّةِ بالطوبِ الرماديِّ.
+
+⸻
+
+IPA
+
+/ʔarˤ.dˤul ɣur.baː.ni wa.raː.ʔa ʃ.ʃaː.tˤi.ʔi/
+/hi.ja ʔar.dˤun waː.si.ʕa/
+
+/ba.saː.tiː.nul ʔaʃ.d͡ʒaː.ri sˤ.sˤa.ɣiː.ra.ti fil ʔa.maː.ki.nis sir.ri.ja/
+/ta.qa.ʕu bi.d͡ʒi.waː.ri tˤ.tˤu.ru.qisˤ sˤax.ri.ja/
+
+/ħa.daː.ʔi.qul wu.ruː.dil ħam.raː.ʔi tax.ta.bi.ʔu/
+/xal.fa lʔas.waː.ril ma.ʕ.di.nij.ja.til ʕa.tiː.qa/
+
+/wa.hu.naː.ka ja.ta.ħad͡ʒ.d͡ʒa.run naː.su ħaq.qan/
+/xaː.ri.d͡ʒal qi.laː.ʕil mab.nij.ja.ti bitˤ.tˤuː.bir ra.maː.dij.ji/
+
+Notes
+
+أرض الغربان (“Land of Crows”) is an idiomatic rendering of Korvoland’.
+حدائق الورود الحمراء explicitly means “gardens of red roses,” matching your clarification.
+يتحجّر الناس literally means “the people turn to stone,” preserving the magical quality of ŝtoniĝas.
+القلاع المبنية بالطوب الرمادي renders “gray-brick castles” naturally in Modern Standard Arabic while preserving the original imagery.
+
+

@@ -41,4 +41,37 @@ Maybe being “yellow” or Chinese means being more negative, like a “pink”
 
 I’m not too sure.
 
+ChatGPT 20260712
+
+Ang siping iyan ay mula sa Kabanata 28 ng Tao Te Ching. Ang orihinal na Klasikong Tsino ay:
+
+知其雄，守其雌，為天下溪。
+為天下溪，常德不離，復歸於嬰兒。
+
+Pinyin:
+
+Zhī qí xióng, shǒu qí cí, wéi tiānxià xī.
+Wéi tiānxià xī, cháng dé bù lí, fù guī yú yīng’ér.
+
+Salita-sa-salitang paliwanag:
+
+* 知其雄 (zhī qí xióng) — “Alamin ang pagkalalaki / ang malakas / ang panlalaking katangian.”
+* 守其雌 (shǒu qí cí) — “Panatilihin ang pagkababae / ang mahina / ang pambabaeng katangian.”
+* 為天下溪 (wéi tiānxià xī) — “Maging batis o lambak na dinadaluyan ng buong daigdig.”
+* 常德不離 (cháng dé bù lí) — “Sa gayon, ang walang-hanggang Dé (德, birtud o likas na kapangyarihan) ay hindi humihiwalay.”
+* 復歸於嬰兒 (fù guī yú yīng’ér) — “At muling nagbabalik sa pagiging isang sanggol.”
+
+Ang salin ni Ursula K. Le Guin:
+
+“Knowing man and staying woman, be the riverbed of the world. Being the world’s riverbed of eternal unfailing power is to go back again to be newborn.”
+
+ay isang malayang pampanitikang salin kaysa literal. May ilang kapansin-pansing pagpili:
+
+* Isinalin niya ang 雄 (xióng) bilang “man” at 雌 (cí) bilang “woman.” Sa Klasikong Tsino, maaari rin itong mangahulugang “male” at “female”, at metaporikal na tumutukoy sa yang at yin.
+* Ang 溪 (xī) ay literal na “batis” o “sapa.” Isinalin niya itong “riverbed” upang idiin ang ideya ng mababang lugar na tinatanggap ang lahat ng dumadaloy rito.
+* Ang 常德 (cháng dé) ay ginawa niyang “eternal unfailing power.” Ang 德 (dé) ay isa sa pinakamahirap isalin sa Tsino; maaari itong mangahulugang birtud, likas na bisa, moral na kapangyarihan, o ang kapangyarihang nagmumula sa pagsunod sa Dào.
+* Ang 嬰兒 (yīng’ér) ay literal na “sanggol.” Pinili niyang sabihing “to be newborn,” na nagbibigay-diin sa pagbabalik sa orihinal na kawalang-malay at likas na kalagayan.
+
+Sa konteksto ng Dàodéjīng, ang “pag-alam sa panlalaki ngunit pananatili sa pambabae” ay hindi tungkol sa kasarian sa modernong kahulugan. Isa itong metapora para sa pagkakaroon ng lakas ngunit pagpili ng pagpapakumbaba, pagtanggap, at pagiging bukás—isang pagsasama ng yang at yin kung saan ang tila “mahina” ang siyang tunay na pinagmumulan ng matatag at pangmatagalang kapangyarihan.
+
 

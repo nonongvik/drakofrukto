@@ -465,4 +465,47 @@ Notes
 يتحجّر الناس literally means “the people turn to stone,” preserving the magical quality of ŝtoniĝas.
 القلاع المبنية بالطوب الرمادي renders “gray-brick castles” naturally in Modern Standard Arabic while preserving the original imagery.
 
+VIK: 2026-07-15. Render my poem into Inuktitut, in syllabic native script, then in IPA.
+
+CHATGPT:
+
+Ang pagsasalin sa Inuktitut ay nangangailangan ng ilang malikhaing pagpili, sapagkat maraming konsepto sa iyong tula—gaya ng crow-land, red roses, at gray-brick castles—ay hindi tradisyonal na bahagi ng Inuit na kapaligiran. Kaya ang nasa ibaba ay isang pampanitikang render sa modernong Inuktitut (Nunavut standard), na pinananatili ang diwa ng orihinal.
+
+ᐃᓄᒃᑎᑐᑦ (Inuktitut)
+
+ᑎᒥᐊᖅᓯᐅᑉ ᓄᓇ ᐃᒪᕐᒥᑦ ᐊᑭᐊᓂ,
+ᐊᖏᔪᖅ ᓄᓇᒋᔭᐅᕗᖅ.
+
+ᒥᔅᑎᖅᓯᒪᔪᓂ ᓄᓇᓂ ᒥᑭᔪᑦ ᓄᐊᑦ,
+ᐅᔭᕋᖕᓂᑦ ᐊᖅᑯᑎᓄᑦ ᓴᓂᐊᓂ ᐃᓂᖃᖅᐳᑦ.
+
+ᐊᐅᐸᓗᒃᑐᓂ ᕈᐊᓯᓂ ᓇᐱᕐᕕᓂᑦ ᐃᕐᖐᓇᖅᑐᑦ,
+ᐅᓪᓗᕐᓂᖅᓴᓂ ᓴᕕᕋᔭᖕᓂ ᐊᕙᓗᓂᑦ ᑐᓄᐊᓂ.
+
+ᑕᐃᑲᓂ ᐃᓄᐃᑦ ᓱᓕ ᐅᔭᕋᙳᖅᐳᑦ,
+ᖁᐱᕐᕈᓕᖕᓂᑦ ᑭᖕᒥᐅᑦ ᐃᒡᓗᕐᔪᐊᑦ ᓯᓚᑖᓂ.
+
+IPA
+
+/ti.mi.aq.si.up nu.na i.mar.mit a.ki.a.ni/
+/a.ŋa.juq nu.na.ɣi.ja.u.vuq/
+
+/mis.tiq.si.ma.ju.ni nu.na.ni mi.ki.jut nu.at/
+/u.ja.ʁaŋ.nit aq.qu.ti.nut sa.ni.a.ni i.ni.qaq.put/
+
+/au.pa.luk.tu.ni ʁu.a.si.ni na.pir.vi.nit iq.ŋi.naq.tut/
+/ul.lur.niq.sa.ni sa.vi.ʁa.jaŋ.ni a.va.lu.nit tu.nu.a.ni/
+
+/tai.ka.ni i.nu.it su.li u.ja.ʁaŋ.ŋuq.put/
+/qu.pir.ru.liŋ.nit kiŋ.mi.ut iɣ.lur.d͡ʒu.at si.la.taː.ni/
+
+Mga tala
+
+ᑎᒥᐊᖅᓯᐅᑉ ᓄᓇ (Timiaqsiup Nuna) — “Land of Crows” (literal na “land of the crow/raven”). Sa Arctic, mas karaniwan ang raven kaysa crow, kaya may kaunting semantic adaptation.
+ᐊᐅᐸᓗᒃᑐᓂ ᕈᐊᓯᓂ — “of red roses”; ang rose ay hiniram at inangkop sa Inuktitut phonology.
+ᐅᔭᕋᙳᖅᐳᑦ — “they become stone.”
+ᐃᒡᓗᕐᔪᐊᑦ (“great houses”) ang pinakamalapit na katutubong konsepto para sa “castles,” sapagkat walang tradisyonal na salita para sa mga kastilyong Europeo sa Inuktitut.
+
+Ang resulta ay hindi isang historikal na Inuit na tula, kundi isang pagtatagpo ng iyong pantasyang daigdig ng Korvoland’ at ng tunog at anyo ng wikang Inuktitut.
+
 

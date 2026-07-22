@@ -42,3 +42,28 @@ Sa tala mo ngayong araw, may ilang kapansin-pansing tema:
 
 Sa kabuuan, ang tala mo ay parang isang maliit na larawan ng Richmond: mga Pilipino, Punjabi, Czech, Danes-Pranses, Kantonese, Amerikano, at iba pa, na pansamantalang nagtatagpo sa isang café habang nagpapatuloy ang kani-kanilang mga lakad at buhay. Ang Iced Matcha Latte ang tila naging sentro ng araw na ito—isang bagong paborito habang mainit at maaraw ang panahon. 🍵☀️
 }
+
+Sa tanghalian ko sa balkonahe, may isdang sinigang akong may okra. Tira ng luto ni Eric na asawa ng pinsan kong si Kathy mula sa estadong Washington. Dating chef siya sa restawran. Bumalik ako sa Tim Hortons café sa maaraw na hapon. Suot ko ang aking berdeng sombrerong may itim na grill sa ibabaw. May berdeng magaang mesh jacket ako sa ibabaw ng pulang T-shirt na may letrang “Original QUICKSILVER BOARDING APPAREL.” May maitim na bughaw na shorts, itim na medyas, at mauve na garden clogs ako. Nagbati kami ni Michael na Danes-Pranses na ufologist sa daan. Sa kapihan, may Extra-Almond-Milk Iced Matcha Latte ako. Berde. Dumalaw si Jaime, yaong mula Chile. Dumalaw ang tatlong Mormon. Ang dalawang Elder ay nakita ko sa umaga: si Elder Anderson mula sa Utah na mapula ang buhok at si Elder Guthrie mula sa Idaho na maitim ang buhok. Ano raw ang gagawin ko sa hapon, tanong nila. Sabi kong mag-iinternet at magbabasa ng sci-fi sa Kastila ako. Pinabasa ako nang malakas ng isang parte ng Aklat ni Mormon, sa Kastila, mula sa ismartpon ni Elder Anderson. Iniimbita nila ako sa simbahan nila, pero sabi ko na lamang, “It’s okay. I have a different religion.” Bilingual ako sa Sekularismo at Singkretismo, pero hindi ko sinabi sa kanila. Parang nasa ibang mga uniberso kami.
+
+{
+ChatGPT:
+
+Ang tala mo ngayong hapon ay may kawili-wiling paghahalo ng pagkain, literatura, wika, at pananampalataya.
+
+Nagsimula ito sa tanghalian ng sinigang na isda na may okra, isang pagkaing napaka-Pilipino. Kapansin-pansin na ang nagluto ay si Eric, dating chef sa restawran sa Washington State. Marahil kaya kahit tira lamang ay may kalidad pa rin ng pagkaing inihanda ng isang propesyonal.
+
+Pagbalik mo sa Tim Hortons, para kang isang berdeng pigura sa tag-init: berdeng sombrero, berdeng mesh jacket, at berdeng Iced Matcha Latte na may almond milk. Kung kahapon ay tila sinusubukan mo pa lamang ang matcha, mukhang mabilis na itong nagiging bahagi ng iyong regular na ritwal sa café.
+
+Nakakatuwa rin ang usapan ninyo ng mga Mormon. Nang sabihin mong mag-iinternet at magbabasa ka ng science fiction sa Kastila, para bang nagtagpo ang dalawang magkaibang landas ng pag-iisip:
+
+* sila, nakatuon sa banal na kasulatan at misyon;
+* ikaw, nakatuon sa mga daigdig ng agham, imahinasyon, at mga wika.
+
+Gayunman, may isang maliit na tulay sa pagitan ng mga landas na iyon: ang wikang Kastila. Kahit magkaiba ang layunin, pareho kayong gumamit ng parehong wika. Ikaw para sa nobelang pang-agham; sila para sa Aklat ni Mormon. Isang halimbawa ito kung paano maaaring magtagpo ang magkaibang pananaw sa iisang kasangkapan ng komunikasyon.
+
+Nang sabihin mong, “It’s okay. I have a different religion,” mahinahon ngunit malinaw mong itinakda ang hangganan. Hindi mo na kailangang ipaliwanag ang iyong pagiging “bilingual sa Sekularismo at Singkretismo.” Sapat na ang simpleng pahayag na magkaiba kayo ng landas.
+
+Ang huli mong obserbasyon—“Parang nasa ibang mga uniberso kami”—ay bagay na bagay sa isang mambabasa ng science fiction. Hindi naman kinakailangang may alitan. Sa maraming nobelang pang-agham, may mga sibilisasyong magkaibang-magkaiba ang kosmolohiya at pinaniniwalaan, ngunit nagkikita pa rin sila sa isang istasyon, lungsod, o sasakyang pangkalawakan upang mag-usap nang magalang bago muling magpatuloy sa kani-kanilang direksiyon.
+
+Sa maliit na sukat, ang Tim Hortons mo ngayong hapon ay parang ganoong istasyon: isang lugar kung saan nagtagpo ang isang Pilipinong mahilig sa sci-fi at mga wika, isang Chileno, isang Danes-Pranses na ufologist, at tatlong Amerikanong Mormon—bawat isa ay may sariling pananaw sa sansinukob.
+}

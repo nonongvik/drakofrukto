@@ -92,3 +92,23 @@ Para sa isang taong mahilig sa astronomiya at pagmamasid sa kalikasan, ang mga s
 
 Nakakatuwa ring isipin na habang ang karamihan sa mga tao sa Richmond ay natutulog pa, naroon ka na sa tabi ng engrandeng bintana ng café, pinagmamasdan ang mga ulap at ang pagsikat ng liwanag habang humihigop ng berdeng matcha. Ang eksena ay halos parang pambungad na kabanata ng isang nobelang sci-fi: isang nag-iisang tagamasid sa isang tahimik na himpilan, naghihintay habang nagbabago ang kulay ng kalangitan at nagsisimula ang panibagong araw. 🌅🍵☁️
 }
+
+Sa hapon, naroon ako sa Dollař Boba. Mainit na maaraw. Suot ko ang berdeng sombrerong safari ko, yaong may itim na mesh sa ibabaw. Suot ko ang magaang berdeng militar na mesh vest ko. Kumuha ako ng Water Chestnut Popping Boba, Crystal Popping Boba, Lychee Popping Boba, Strawberry Popping Boba, at Lychee Green Tea. Ika-27 beses ko na sa boba shop. Humihigop ako sa labas ng tsaahan. Dumaan si Aaron, yaong guwapong pandak na Pilipino. May sunglasses. Sabi ko, “Naroon na sa Tim Hortons ang dati mong paborito sa Starbucks: Iced Matcha Latte. May Sweetened, Unsweetened, at Vanilla versions.” Natutuwa siya. “Natikman mo na ito?” turo ko sa Dollař Boba. Sabi niya, “Madalas ang dalaga ko rito.“ “Ilang taon na siya?” tanong ko. “9 na!” sagot niya. “13 pa ang dalaga. Matagal pa!” ‘ika ko. May isa siyang babae at isang lalaki. Tapos, tumuloy ako sa Kin’s Farm Market para bumili ng apat na maberdeng dayap. May nakita lamang akong maputing madilaw na langka at white currants na interesado sana ako.
+
+{
+ChatGPT:
+
+Ang tala mo ngayong 2026-07-23 ng hapon ay parang isang tipikal na araw ng tag-init sa Richmond—mainit, maaraw, at puno ng maiikling pakikipagtagpo.
+
+Sa iyong ika-27 pagbisita sa Dollař Boba, tila mayroon ka nang sariling tradisyon sa pagpili ng mga toppings. Ang kombinasyon ng Water Chestnut Popping Boba, Crystal Popping Boba, Lychee Popping Boba, Strawberry Popping Boba, at Lychee Green Tea ay nagbibigay ng iba’t ibang tekstura at lasa sa isang baso. Mukhang mahilig ka talaga sa mga prutas at floral na lasa kaysa sa mabibigat na milk tea.
+
+Nakatutuwang muli mong nakasalubong si Aaron. Ang usapan ninyo tungkol sa Iced Matcha Latte ay nagpapakita kung paano nagiging paksa ng pagkakaibigan ang mga simpleng bagay gaya ng mga bagong inumin sa café. Nang sabihin mong mayroon na sa Tim Hortons ang dati niyang paborito sa Starbucks, para kang nagdadala ng mabuting balita sa isang kapwa mahilig sa matcha.
+
+Nakakatuwa rin ang bahaging tungkol sa kanyang mga anak. Nang marinig mong siyam na taong gulang na ang anak niyang babae, agad mong naihambing ito sa sarili mong pamantayan ng pagdadalaga. Ipinapakita nito kung paano nagbabago ang pananaw natin sa edad habang tumatanda tayo; ang siyam na taon ay tila bata pa rin, samantalang para sa isang bata, malaki na iyon.
+
+Pagkatapos ng boba, dumaan ka sa Kin’s Farm Market upang bumili ng apat na berdeng dayap. Ang obserbasyon mo tungkol sa maputing madilaw na langka at white currants ay tipikal ng isang taong mahilig tumingin sa mga pagkaing hindi pangkaraniwan. Kahit hindi mo sila binili, napansin mo sila bilang mga bagay na maaaring subukan sa ibang pagkakataon.
+
+May isa ring nakatutuwang tema sa mga tala mo nitong mga nakaraang araw: berde. Ang berdeng safari hat, berdeng mesh vest, berdeng matcha latte, lychee green tea, at mga berdeng dayap. Para bang ang kulay ng tag-init mo ngayong Hulyo ay berde—kulay ng mga dahon, tsaa, at mga halamang namumunga sa kasagsagan ng init. 🍵🟢🌿🍋‍🟩
+
+At gaya ng madalas mangyari sa iyong mga lakad, ang araw ay hindi lamang tungkol sa pagkain o inumin. Ito rin ay tungkol sa mga taong nakakasalubong mo—isang maikling usapan sa bangketa, isang rekomendasyon ng inumin, isang balita tungkol sa mga anak ng kakilala—mga maliliit na sandaling bumubuo sa pang-araw-araw na buhay ng komunidad.
+}

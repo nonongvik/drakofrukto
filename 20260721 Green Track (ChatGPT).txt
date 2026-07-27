@@ -138,3 +138,50 @@ Sa kabuuan, ang gabing ito ay tila isang pagpapatuloy ng tema ng mga nakaraan mo
 
 Sa isang diwa, ang Tim Hortons ay nagiging parang maliit na observatoryo. Hindi ka tumitingin sa mga bituin ngayong gabi dahil natatakpan sila ng ulap at ulan. Sa halip, ang inoobserbahan mo ay ang mga tao, ang mga wika, at ang mga maliliit na pangyayari na dumaraan sa harap ng bintana—parang mga ulap ding dumarating at lumilipas. 🌧️🍵🪟
 }
+
+2026-07-24
+
+Nakita ko muli si Alex na Pilipino sa kapihang Tim Hortons. (Huwag malito kay Alex na Hapones-Kanadyano—ibang lalaki). Lumipat na raw si Alex na Pilipino panorteng parte ng Isla Lulu. Mas mukha siyang Malayo, kaysa sa Tsinito. Pinag-usapan namin ang naranasan niya sa Hapon. “7 taon” daw siya roon, mga 1995, dekadang 1990, ganoon. Tumira siya sa Chiba. Ang trabaho niya ay “sa konstruksiyon.” ‘Ika ko, “Maraming Iranyano sa trabahong konstruksiyon sa Hapon.” Pagdating daw niya sa Hapon, wala siyang alam sa wika. Nag-aral si Alex ng lengguwaheng Hapones, yaong mga silabogramang Kana at kumbersasyon, pero hindi ang mga logogramang Kanji. Sabi ko namang ako ay “daigaku ichinen”—isang kursong Hapones nang isang taon sa unibersidad na UBC. Marami siyang alam sa kulturang Hapones. May “syota” o gerlpren daw ngayon siyang Anglo, yaong nasa konstruksiyon din, dito naman sa Isla Lulu. Tatagpoin daw niya siya sa tabing Pioneer’s Pub, kung saan siya ay minsang umiinom ng bino. Minerals investor daw si Alex. May bitbit siyang tatlong selpon! Yaong isa ay para kausapin ang mga kamag-anak niya sa Pilipinas. Biyudo si Alex. Nagka-breast cancer daw ang asawa niyang matagal na. Ang simbahan ni Alex ay sa St. Paul’s, kung saan minsan akong pumupunta rin para maranasan lamang ang espasyong santuwaryo, miski na hindi ako Katoliko. “Osakini!” (Paalam na!), sabi ni Alex. Sabi ko naman, “Ja ne! Mata ne!” (Sige!), sagot ko.
+
+{
+ChatGPT:
+
+Ang tala mo para sa 2026-07-24 ay isa na namang halimbawa ng paraan kung paano nagiging “maliit na mundo” ang isang café. Ang pag-uusap ninyo ni Alex na Pilipino ay parang isang maikling oral history ng isang migranteng buhay.
+
+Nakakatuwa ang paglilinaw mo na ibang Alex ito kaysa sa Alex na Hapones-Kanadyano. Sa mga komunidad na maraming magkakaparehong pangalan, mahalaga talaga ang ganitong pagkilala sa tao bilang natatanging indibidwal.
+
+Ang karanasan ni Alex sa Hapon noong dekada 1990 ay kawili-wili. Ang pagtira niya sa Chiba sa loob ng pitong taon ay inilalagay siya sa isang napakaespesipikong panahon ng kasaysayan ng Hapon—panahon pagkatapos ng economic bubble, kung kailan maraming dayuhang manggagawa ang nakilahok sa iba’t ibang industriya, kabilang ang konstruksiyon. Ang kanyang pag-aaral ng Kana at pang-araw-araw na komunikasyon ngunit hindi Kanji ay isang karaniwang landas para sa maraming dayuhang naninirahan sa Hapon: natututuhan muna ang praktikal na pagbasa at pakikipag-usap, habang ang Kanji ang pinakamalaking hamon.
+
+Nakakatuwa rin ang paghahambing ninyo:
+
+* Siya: praktikal na Hapones mula sa karanasan sa trabaho at buhay sa Chiba.
+* Ikaw: pormal na nag-aral ng Hapones bilang “daigaku ichinen” (大学一年, unang taon sa unibersidad).
+
+Magkaiba ang pinanggalingan, ngunit pareho kayong may koneksiyon sa kulturang Hapones.
+
+Ang sinabi niyang mas alam niya ang kulturang Hapones kaysa sa wikang nakasulat ay isang magandang halimbawa kung paano ang kultura ay hindi lamang nasa aklat. Maaari mong matutuhan ang mga kaugalian, pagkain, ugali, at paraan ng pakikitungo kahit hindi mo pa ganap na nababasa ang lahat ng Kanji.
+
+Napansin ko rin ang mga tema ng pagbabago at pagpapatuloy sa kuwento ni Alex:
+
+* dating buhay sa Chiba;
+* trabaho sa konstruksiyon;
+* bagong relasyon sa Isla Lulu;
+* pagiging biyudo matapos ang mahabang pagsasama;
+* pakikipag-ugnayan pa rin sa Pilipinas gamit ang isang selpon.
+
+Ang tatlong selpon niya ay halos simbolo ng isang modernong migranteng buhay: isang aparato para sa lokal na buhay, isa para sa pamilya sa ibang bansa, at marahil iba pa para sa negosyo o pamumuhunan.
+
+May magandang maliit na eksena sa wakas: ang inyong pamamaalam sa Hapones. Si Alex: “Osakini!” (お先に, “mauna na ako / aalis na ako muna”), at ikaw: “Ja ne! Mata ne!” (じゃね、またね, “sige, magkita ulit tayo”). Kahit simpleng parirala lamang, parang ibinalik ninyo sandali ang inyong koneksiyon sa Hapon.
+
+At kawili-wili rin ang St. Paul’s. Ang pagpunta mo roon kahit hindi ka Katoliko ay katulad ng sinabi mo dati tungkol sa iba’t ibang tradisyon: minsan hindi kinakailangang maging miyembro upang maranasan ang isang lugar—ang katahimikan, arkitektura, at pakiramdam ng santuwaryo ay may sariling halaga.
+
+Sa kabuuan, ang araw na ito ay parang pagtatagpo ng tatlong isla:
+
+* Isla Lulu ngayon,
+* Pilipinas kung saan nagmula ang alaala at pamilya,
+* Hapon kung saan nabuo ang isang mahalagang yugto ng buhay ni Alex.
+
+At ang tulay sa pagitan ng mga ito ay isang simpleng pag-uusap sa Tim Hortons. ☕🌏
+}
+
+

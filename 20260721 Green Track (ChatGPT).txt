@@ -264,4 +264,27 @@ At si Michael naman, ang Danes-Pranses na ufologist, ay mananatili pa rin sa Lul
 May isang bagay na kapansin-pansin sa salaysay mo: nagsimula ang usapan sa Hokkaido, lumipat sa Ethiopia, South Africa, Zimbabwe, Egypt, Morocco, at Zanzibar, bago bumalik sa Steveston. Para bang ang Tim Hortons na iyon ay nagsisilbing maliit na sangandaan ng mundo, kung saan ang bawat tasa ng kape o matcha ay may kasamang kuwento mula sa ibang kontinente.
 }
 
+2026-07-30
+
+Sa likod ng ulo ko ngayon, naiisip ko pa rin ang Romboi Conlang Project ko, yaong parang rebranding ng Xoqolat. Kontrobersiyal pa sa ibang tao ang pag-iisip nitong project, ang Lojbanized Romance Language. Sa ibang tema, kagabi, naroon na naman ako sa Dollař Boba para sa isang regular na baso ng tsaang boba. Sa harap ng boba shop, nakita ko si “Mr. Sci-fi Guy” o si Jason, yaong Anglo. Nakadilaw na bucket hat. Nagsaludong Vulcan kaming LLAP. Tapos, tuloy siya sa tindahang FreshCo.
+
+{
+ChatGPT:
+
+Mukhang sabay na umiikot sa isip mo ang dalawang magkaibang mundo: ang abstraktong mundo ng mga wikang binubuo mo, at ang pang-araw-araw na mundo ng Lulu Island na puno ng mga pamilyar na mukha.
+
+Tungkol sa Romboi Conlang Project, naiintindihan ko kung bakit maaari itong maging kontrobersiyal sa ilang tao. Ang ideya ng isang “Lojbanized Romance Language” ay para bang pinagtatagpo ang dalawang magkaibang pilosopiya ng wika.
+
+Sa isang panig, ang mga wikang Romansa—Espanyol, Portuges, Italiano, Pranses, at iba pa—ay may mahabang kasaysayan, maraming idiom, at likas na kalabuan. Sa kabilang panig, ang Lojban ay idinisenyo upang bawasan ang kalabuan at gawing mas sistematiko ang gramatika. Para sa ilang taong mahilig sa mga wikang Romansa, maaaring tila “pinapakinis” o “inaalisan ng kaluluwa” ang isang tradisyong pampanitikan. Para naman sa mga mahilig sa mga planadong wika, maaaring makita ito bilang isang kawili-wiling eksperimento: ano ang mangyayari kung pagsasamahin ang estetika ng mga wikang Romansa at ang lohikal na estruktura ng Lojban?
+
+Sa totoo lang, hindi naman bago sa kasaysayan ng mga conlang ang ganitong uri ng paghahalo. Ang Esperanto ay may bokabularyong higit na Romansa ngunit may gramatikang mas regular kaysa sa mga natural na wika. Ang Interlingua naman ay sinubukang panatilihin ang anyong Romansa habang pinapasimple ang ilang bagay. Ang proyekto mo ay tila nagtutulak pa nang mas malayo sa direksiyong iyon.
+
+Samantala, sa mas konkretong bahagi ng araw mo, naroon ka muli sa Dollař Boba para sa isang regular na tsaang boba. Nakakatuwa na tila may sarili ka nang “galaxy” ng mga taong nakakasalubong sa mga paborito mong lugar. At siyempre, naroon si Jason, ang “Mr. Sci-fi Guy,” na nakadilaw na bucket hat.
+
+Ang Vulcan salute at ang pagbating “Live Long and Prosper” ay agad na lumilikha ng pakiramdam ng pagkakakilala sa pagitan ng mga tagahanga ng Star Trek. Ang kilos na iyon ay parang isang maliit na lihim na hudyat na nagsasabing, “Kasama ako sa parehong tradisyon ng science fiction.”
+
+Pagkatapos ng maikling LLAP, nagtuloy siya sa FreshCo at ikaw naman ay may boba. Isang napakaordinaryong tagpo sa ibabaw, ngunit kung susuriin, pinagdudugtong nito ang maraming bagay na mahalaga sa iyo: mga wika, science fiction, mga kakilala sa komunidad, at ang mga maliliit na ritwal ng araw-araw.
+
+Nakakatuwa rin na habang nasa likod ng isip mo ang Romboi at ang posibilidad ng isang lohikal na wikang Romansa, sa harap naman ng mga mata mo ay ang aktuwal na halo-halong kultura ng Richmond at Lulu Island—mga Persiyano, Etiopiko, Hapones, Vietnamese, Kantones, Pilipino, at mga tagahanga ng Star Trek. Sa isang paraan, parang natural na kapaligiran iyon para sa isang taong nagdidisenyo ng bagong wika: araw-araw kang nakalulubog sa isang tunay na “laboratoryo” ng mga kultura at paraan ng pag-iisip.
+}
 

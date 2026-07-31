@@ -288,3 +288,26 @@ Pagkatapos ng maikling LLAP, nagtuloy siya sa FreshCo at ikaw naman ay may boba.
 Nakakatuwa rin na habang nasa likod ng isip mo ang Romboi at ang posibilidad ng isang lohikal na wikang Romansa, sa harap naman ng mga mata mo ay ang aktuwal na halo-halong kultura ng Richmond at Lulu Island—mga Persiyano, Etiopiko, Hapones, Vietnamese, Kantones, Pilipino, at mga tagahanga ng Star Trek. Sa isang paraan, parang natural na kapaligiran iyon para sa isang taong nagdidisenyo ng bagong wika: araw-araw kang nakalulubog sa isang tunay na “laboratoryo” ng mga kultura at paraan ng pag-iisip.
 }
 
+2026-07-31
+
+Kung minsan, nakikita ko si Bruce na doktor na Byetnames na kaibigan ko sa Tim Hortons café. Noong isang araw, sa kapihan, nasa laptop siya at nakasuot ng puting T-shirt na may “FIGS” na nakasulat sa harap. Ngayong maaraw na umaga, sa café, naroon kami ni Gary na Kantones na ang hilig ay Byetnam. Nakaupo kami sa sulok na malapit sa futuristic CR, ang regular spot ko. Pinakita niya sa ismartpon ang mga naging gerlpren niya sa Byetnam. Dumalaw si Oliver mula Zambia sa linya sa café. Kinausap namin. Nakasuot siya ng pilak na kuwintas na may krus. Katoliko raw siya, pero marami raw “7th-Day Adventists” doon sa Zambia. Pinag-usapan naman ni Gary kay Oliver ang buhay niya sa Dàqìng sa Tsina, noong nagtuturo siya ng Ingles doon. "Oil Capital of China" daw. Tinanong ni Gary kung paano sa akin ang Hapon. Sabi ko, “It’s like a different planet!” Sabi kong marami at maraming klaseng pagkain. Ipinaliwanag ko sa kanya ang “onigiri” na kinakain doon. May monghang Katolikang Pilipina sa isang mesang kasama ang ibang Pilipina sa kapihan. Nakaitim na abito siya.
+
+{
+ChatGPT:
+
+Mukhang isa na namang umaga na maraming kuwento at iba’t ibang kultura ang nagsalubong sa iyong paboritong sulok ng Tim Hortons.
+
+Nakakatuwa ang detalye tungkol kay Bruce. Ang “FIGS” na nakita mo sa kanyang T-shirt ay malamang na tumutukoy sa FIGS⁠, isang kompanyang kilala sa paggawa ng modernong medical scrubs at kasuotang pangkalusugan. Maraming doktor, nars, at iba pang healthcare professionals ang gumagamit ng kanilang mga produkto.
+
+Ang usapan ninyo nina Gary at Oliver ay tila naglakbay mula Canada patungong Vietnam, Zambia, at Tsina sa loob lamang ng ilang minuto. Ang lungsod na Daqing ay talagang kilala bilang sentro ng industriya ng langis ng Tsina, kaya hindi nakapagtataka na tinawag itong “Oil Capital of China.”
+
+Natawa ako sa sagot mong, “It’s like a different planet!” tungkol sa Hapon. Maraming unang beses na bumibisita roon ang gumagamit ng kahalintulad na paglalarawan. Hindi naman dahil alien ang mga tao, kundi dahil napakaraming maliliit na detalye—mga convenience store, estasyon ng tren, vending machine, pagkain, packaging, at mga kaugaliang panlipunan—na ibang-iba sa nakasanayan sa Hilagang Amerika.
+
+At tama rin ang pagpili mong halimbawa ng Onigiri. Para sa isang tao na hindi pa nakapunta sa Hapon, maaaring mukhang simpleng bola o tatsulok na kanin lamang ito. Ngunit pagdating doon, matutuklasan mong napakaraming uri: salmon, umeboshi, tuna-mayo, kombu, mentaiko, at marami pang iba. Isang payak na pagkain na nagpapakita kung gaano kahalaga ang kanin sa kulturang Hapones.
+
+Tungkol naman kay Oliver, interesante ang sinabi niya tungkol sa Zambia. Bagama’t Katoliko siya, totoo na malaki rin ang presensya ng iba’t ibang Protestanteng denominasyon sa Zambia, kabilang ang mga Seventh-day Adventist. Ang Kristiyanismo sa Zambia ay may napakalawak na hanay ng mga simbahan at tradisyon.
+
+At sa dulo ng salaysay mo, may isa pang tanawin ng pandaigdigang paghahalo ng kultura: isang monghang Pilipinang Katoliko na nakaitim na abito, nakaupo kasama ng ibang mga Pilipina sa parehong kapihan kung saan pinag-uusapan naman ng isang Kantones ang Vietnam, ng isang taga-Zambia ang Aprika, at ng isang dating bisita sa Hapon ang onigiri.
+
+Sa maraming lungsod, ang mga kuwentong iyon ay mangangailangan ng mahabang biyahe sa iba’t ibang bansa. Sa iyong Tim Hortons, tila sapat na ang isang tasa ng iced coffee at isang upuan malapit sa “futuristic” na CR upang marinig ang kalahati ng mundo.
+}

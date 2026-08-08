@@ -1,0 +1,187 @@
+20260807 Video-Game Writing Style (ChatGPT)
+Viktor Nonong Medrano
+
+VIK: 2026-08-07. Sabi obliquely ng isang Japanoid ay parang “video game” ang pagsusulat ko. Heto na. Ang mga iniinom ko sa Tim Hortons café ay karaniwang berdeng Unsweetened Extra-Oat-Milk Iced Matcha Latte, kayumangging Extra-Oat-Milk Iced Coffee, o pink transparent na Raspberry ZERO Lime Sparkling Quencher. Dalawang beses ako sa maaraw na umaga roon. Nakita ko si Greg na puting pastor na ang asawa ay Tsina. Malimit siya sa pier sa dyke, kung minsan para manood ng sunrise. May nangingisda raw doon. Walang crabbing daw doon dahil freshwater. Masarap ang alimango! Nakita ko rin si Oliver mula Zambia. Sa “Ministry of Children” daw siya. Balak niyang pumunta sa Pilipinas nang kasama niya ang kaibigang Castillo ang apelyido. “You are jealous!” sabi niya noong isang araw kay Gary na Kantones tungkol sa pagpulaan niya ng Maynila. Inggit daw siya ayon kay Oliver. Ngayon, una, nakaasul na polo shirt si Oliver. Tapos, sa ikalawang beses kong muli siya ngayong nakita, nakaberdeng T-shirt siya. Interlingua at Esperanto yata ang sikreto namin. Sabi ni Oliver noong isang araw na Nyanja at Bemba ang mga lengguwahe niya sa Zambia. Sabi ko, “You can write poetry! Try your languages in AI chat!” Nakaahit ang ulo ni Oliver. Aprikano siya. Hindi siya masyadong matangkad. Katoliko siyang may pilak na kuwintas na may krus.
+
+CHATGPT:
+
+Ang unang impresyon ko ay parang slice-of-life journal na may halong ethnographic observation. Hindi ito karaniwang salaysay na may malinaw na simula-gitna-wakas; sa halip, tila nagtatala ka ng mga “encounters” at maliliit na detalye ng isang araw.
+
+Kaya kung may nagsabi na parang “video game” ang pagsusulat mo, naiisip ko ang ilang posibleng dahilan:
+
+* Hub world ang Tim Hortons café. Parang ito ang “base” o “town” kung saan paulit-ulit kang bumabalik at doon mo nakikita ang iba’t ibang “NPCs” (Greg, Oliver, Gary, at iba pa).
+* Character profiles. Kapag lumitaw ang isang tao, agad mong inilalarawan ang hitsura, pinagmulan, relihiyon, trabaho, at kung minsan ang mga wika niya. Parang may character database.
+* Environmental details. Hindi lamang tao ang inilalarawan mo; kasama rin ang kulay ng inumin, panahon (“maaraw na umaga”), at lugar (pier sa dyke, freshwater, walang crabbing). Ito ang mga detalyeng nagbibigay ng “worldbuilding.”
+* Dialogue snippets. Ang mga sipi tulad ng “You are jealous!” at “You can write poetry!” ay parang maiikling dialogue box sa isang RPG.
+* Quest-like topics. Mula sa usapan tungkol sa Pilipinas, hanggang sa Nyanja, Bemba, Esperanto, at AI chat—tila bawat tao ay may sariling “quest line” o paksa.
+
+May isa ring paulit-ulit na tema sa paraan ng iyong pagsulat: pag-uugnay ng mga tao sa kanilang kultura at wika. Halimbawa:
+
+* Greg → pastor, asawa mula sa Tsina, mahilig sa sunrise.
+* Oliver → Zambia, Nyanja, Bemba, Katoliko, Interlingua at Esperanto, plano sa Pilipinas.
+* Gary → Kantones.
+
+Sa halip na ikuwento ang emosyon ng mga tauhan, mas binibigyang-diin mo ang kanilang pagkakakilanlan at mga koneksiyon—wika, bansa, relihiyon, at mga sinabi nila. Para itong field notes ng isang manlalakbay o antropologo na interesado sa pagkakaiba-iba ng tao.
+
+Ang isa pang napansin ko ay ang paggamit mo ng mga kulay bilang mga palatandaan ng eksena:
+
+* berdeng matcha,
+* kayumangging iced coffee,
+* pink na sparkling quencher,
+* asul na polo,
+* berdeng T-shirt,
+* pilak na kuwintas na may krus.
+
+Nagbibigay ito ng visual na kalidad sa salaysay, na para bang madaling maisip ang eksena.
+
+Sa kabuuan, hindi ko ito babansagang “video game writing” lamang. Mas malapit ito sa travel diary, field journal, o kahit literary ethnography, ngunit may estruktura na maaaring magpaalala sa isang open-world RPG dahil sa paulit-ulit na lokasyon, magkakaugnay na mga tauhan, at pagbuo ng isang maliit ngunit buhay na “mundo” sa paligid ng Tim Hortons café.
+
+VIK: FLASHBACK 2026-07-20. Nasa Tim Hortons café kami ni Gary na Kantones. Marunong talaga siya ng archery. May bow & arrow. Gusto raw niyang tamaan ang isang “buck” sa kagubatan. Pinag-usapan namin ang tao sa Hapon. Sabi ko, as an amateur ethnographer, may karaniwang dalawang klase sa Hapon: ang Jōmon na mas mukhang Amerindiyo, at ang Yayoi na mas mukhang Intsik. Maraming Hapones ay haluhalo nitong dalawang klaseng tao. “4th-generation Canadian” daw si Gary nang mga matagal na mga Tsino sa Canada.
+
+CHATGPT:
+
+Salamat sa flashback. Ang eksenang ito ay may ilang kawili-wiling layer, kapwa sa antropolohiya at sa pagkakakilanlan.
+
+Una, ang sinabi mo tungkol sa Hapon ay tumutukoy sa isang pangkalahatang modelo sa biological anthropology. Sa loob ng maraming dekada, may pananaw na ang mga modernong Hapones ay nagmula sa paghahalo ng:
+
+* Jōmon people – ang mga sinaunang naninirahan sa kapuluan ng Hapon bago dumating ang pagsasaka. Madalas silang inilalarawan na may mas malalim na pinagmulan sa Silangang Asya, at ang kanilang mga inapo ay mas mataas ang bahagdan sa mga grupong tulad ng mga Ainu at ilang populasyon sa Ryukyu.
+* Yayoi people – mga migrante na nagdala ng wet-rice agriculture mula sa kontinente (Korea at bahagi ng mainland East Asia) noong humigit-kumulang 900 BCE–300 CE.
+
+Ang ideya na “mas mukhang Amerindiyo ang Jōmon” at “mas mukhang Intsik ang Yayoi” ay isang impormal na paglalarawan na minsan ay ginagamit ng mga tao bilang visual shorthand. Gayunman, hindi ito eksaktong klasipikasyong siyentipiko. Ang hitsura ng mga tao ay malawak ang baryasyon, at hindi maaaring matukoy ang pinagmulan ng isang indibidwal batay lamang sa mukha. Ang kasalukuyang pananaw sa antropolohiya ay mas kumplikado pa, at may ebidensiya rin ng karagdagang ambag mula sa mga populasyong dumating sa mga sumunod na panahon.
+
+Ikalawa, ang sinabi ni Gary na “4th-generation Canadian” ay interesante rin. Karaniwan, ang ibig sabihin nito ay:
+
+* ipinanganak siya sa Canada;
+* ipinanganak din sa Canada ang kanyang mga magulang;
+* gayundin ang kanyang mga lolo’t lola;
+* at ang kanyang mga ninuno ay dumating sa Canada mga apat na henerasyon na ang nakalipas.
+
+Ipinapakita nito na kahit Cantonese ang kanyang pamanang etniko, matagal nang bahagi ng lipunang Canadian ang kanilang pamilya.
+
+Ang detalye tungkol sa archery at ang hangarin niyang manghuli ng buck (lalaking usa) ay nagbibigay rin ng dagdag na dimensiyon sa kanyang karakter. Ipinapakita nitong may interes siya sa outdoor activities at hunting, na bahagi ng libangan o tradisyon ng ilang Canadian depende sa rehiyon at sa mga regulasyon.
+
+Bilang kabuuan, ang tala mo ay muling nagpapakita ng istilo ng iyong mga journal: hindi lamang ito tungkol sa mga pangyayari, kundi tungkol sa pagkakaugnay ng mga tao, kanilang pinagmulan, kultura, at mga pag-uusap. Ang Tim Hortons ay nagsisilbing tagpuan kung saan nagkakasalubong ang mga taong may iba’t ibang kasaysayan—isang Cantonese Canadian na ikaapat na henerasyon, isang pastor, isang Zambian, at ikaw na may interes sa mga wika at antropolohiya.
+
+VIK: FLASHBACK 2026-07-18. Nasa Tim Hortons café kami ni Alex na Hapones-Kanadyano. Sabi niyang tikman ko raw ang Wagyū sa kanin na may hilaw na itlog sa Tōkyō Wagyū Works sa Lonsdale Quay Market. Marami siyang malayong naaabot nang bus at tren mula rito sa Isla Lulu hanggang sa ibang lugar sa malawak na GVRD.
+
+CHATGPT:
+
+Isa na namang magandang halimbawa ito ng iyong “field journal” na estilo. Bagama’t maikli ang tala, marami itong ipinahihiwatig.
+
+May tatlong pangunahing elemento:
+
+* Ang tao: Si Alex, isang Hapones-Kanadyano.
+* Ang rekomendasyon: Tikman ang wagyū rice bowl na may hilaw na itlog sa Tokyo Wagyu Works.
+* Ang konteksto: Namamangha ka sa lawak ng kaniyang nararating mula sa Lulu Island patungo sa iba’t ibang bahagi ng Metro Vancouver.
+
+Ang rekomendasyon ni Alex ay tipikal ng mga taong mahilig mag-explore ng pagkain. Ang kombinasyon ng wagyū, kanin, at hilaw na itlog (katulad ng gyūdon o wagyū don na may onsen tamago o sariwang itlog) ay isang sikat na estilo ng pagkain sa Hapon.
+
+Ang huli mong obserbasyon ay kawili-wili rin. Hindi mo lamang sinabi na “mahilig siyang bumiyahe.” Sa halip, inilagay mo ito sa heograpikal na konteksto—mula Isla Lulu hanggang sa iba’t ibang bahagi ng Greater Vancouver Regional District. Ganiyan ang madalas na estilo ng iyong mga tala: inilalagay mo ang mga tao sa loob ng isang “mental map” ng lungsod.
+
+Kung pagsasamahin ang mga flashback na ibinahagi mo nitong mga nakaraang mensahe, makikita ang isang maliit na “cast of characters”:
+
+* Greg – pastor, mahilig sa pier at sunrise.
+* Oliver – taga-Zambia, nagsasalita ng Nyanja at Bemba, interesado sa Pilipinas.
+* Gary – ikaapat na henerasyong Cantonese Canadian, mahilig sa archery.
+* Alex – Hapones-Kanadyano na mahilig magrekomenda ng mga kainan at tila komportableng maglibot sa buong Metro Vancouver.
+
+Parang bumubuo ang iyong mga tala ng isang social atlas—isang mapa ng mga taong nakikilala mo, kasama ang kanilang mga kultura, interes, at mga lugar na iniuugnay mo sa kanila. Ang Tim Hortons café ang nagsisilbing sentrong tagpuan, at mula roon ay “lumalawak” ang kuwento patungo sa iba’t ibang bahagi ng rehiyon at maging sa iba’t ibang bansa sa pamamagitan ng mga pag-uusap.
+
+VIK: 2026-08-07. Ang mga halos araw-araw kong mga pinupuntahan ay ang Tim Hortons café at ang malapit na Dollař Boba. Nitong gabing pasado nang alas-7, naroon ako sa pareho. Sa Dollař Boba, kumuha ako ng Spicy Sausage. Kung minsan, may boba ako. Nakita kong tumawid nang kalye si Jaime mula Chile, sa bisikleta.
+
+CHATGPT:
+
+Ang tala na ito ay nagpapatuloy sa pare-parehong estilo ng iyong journal. Sa halip na magkuwento ng isang malaking pangyayari, itinatala mo ang mga maliliit na detalye ng pang-araw-araw na buhay na nagbibigay ng pakiramdam ng lugar at panahon.
+
+Mapapansin ang ilang bagay:
+
+* May mga “anchor places.” Ang Tim Hortons café at ang Dollař Boba ang tila sentro ng iyong pang-araw-araw na ruta. Dahil paulit-ulit silang lumilitaw sa iyong mga tala, nagiging pamilyar na tagpuan sila ng iyong mga obserbasyon.
+* May simpleng detalye ng gawain. Ang pagkuha mo ng Spicy Sausage at ang banggit na “kung minsan, may boba ako” ay nagbibigay ng ordinaryong ritmo ng araw.
+* May maikling social encounter. Hindi kayo nag-usap ni Jaime, ngunit sapat na ang obserbasyong nakita mo siyang tumatawid ng kalye habang nakabisikleta upang maitala ang presensiya niya sa eksena.
+
+Kung pagsasamahin ang mga nauna mong flashback, parang unti-unting nabubuo ang isang “living map” ng komunidad sa paligid mo. May mga taong regular na lumilitaw—Greg, Oliver, Gary, Alex, Jaime—at bawat isa ay may sariling bansa, wika, o interes na naiuugnay mo sa kanila. Ang resulta ay isang kronika ng pang-araw-araw na buhay kung saan ang mga lokal na café at tindahan ang nagsisilbing sentro ng mga pagkikita at pagmamasid.
+
+Hindi ito dramatikong salaysay; sa halip, ito ay kahawig ng isang urban field journal o slice-of-life diary, kung saan ang halaga ay nasa pagtitipon ng maliliit na sandali na, kapag pinagsama-sama sa paglipas ng panahon, ay bumubuo ng mas malaking larawan ng iyong kapaligiran at ng mga taong bahagi nito.
+
+VIK: FLASHBACK 2026-05-31. Ming the Hongkonger and I are at Tim Hortons café. We’re sci-fi fans, and we talk about Star Wars: The Mandalorian and Grogu. Ming talks about HK cinemas and how they’re not too Americanized. For one, they don’t serve the popcorn that North Americans associate with theatres. I tell Ming that I get dizzy from the smell of it, anyway. The topic moves to fish balls. As a kid in the Philippines, I enjoyed the fish balls, for which our school bus stopped. The secret is in the sauce, Ming and I agree. In Quezon City, my family grew peanuts and watermelon in the next vacant lot. We boiled the peanuts. We had a black pig in a pen. It got goiter, so it had to be put down. We then talk about COVID-19 inflating prices in restaurants. As an example is the Shrimp Salad Rolls in the neighbourhood Vietnamese restaurant Pho Khang. They’re a favourite of mine.
+
+CHATGPT:
+
+Ang flashback na ito ay mas mahaba at mas “conversational” kaysa sa iba mong tala. Hindi lamang ito listahan ng mga obserbasyon; may malinaw na daloy ng mga paksa habang nag-uusap kayo ni Ming.
+
+Ang pag-uusap ay natural na lumilipat mula sa isang paksa patungo sa susunod:
+
+* Science fiction – The Mandalorian at ang karakter na Grogu.
+* Kultura ng sinehan – ang pagkakaiba ng mga sinehan sa Hong Kong at sa Hilagang Amerika, kabilang ang popcorn.
+* Pagkain – fish balls, kung saan pareho kayong sumang-ayon na ang sarsa ang malaking dahilan kung bakit ito masarap.
+* Mga alaala ng pagkabata – ang fish balls sa Pilipinas, ang pagtatanim ng mani at pakwan sa Quezon City, at ang alagang itim na baboy.
+* Kasalukuyang ekonomiya – ang epekto ng COVID-19 sa presyo ng pagkain, gamit ang halimbawa ng shrimp salad rolls sa Pho Khang.
+
+Kapansin-pansin din na ang mga paglipat ng paksa ay hindi pilit. Halimbawa:
+
+* Mandalorian → sinehan sa Hong Kong.
+* Sinehan → popcorn.
+* Popcorn → pagkain.
+* Pagkain → alaala ng fish balls sa Pilipinas.
+* Fish balls → iba pang alaala ng kabataan.
+* Pagkain → pagtaas ng presyo matapos ang pandemya.
+
+Ganito talaga madalas umusad ang totoong pag-uusap sa isang café—isang paksa ang humahantong sa iba.
+
+Isa pang katangian ng iyong mga journal ay ang pagsasama ng personal memory sa kasalukuyang obserbasyon. Ang pagbanggit mo sa Quezon City—ang pagtatanim ng mani at pakwan, at ang itim na baboy—ay hindi lamang impormasyon; nagbibigay ito ng konteksto kung bakit may emosyonal na bigat ang usapan tungkol sa pagkain. Ang simpleng usapan tungkol sa fish balls ay nagiging tulay papunta sa mga alaala ng iyong pagkabata.
+
+Kung babalikan ang sinabi ng Japanoid na tila “video game” ang estilo mo, ang flashback na ito ay medyo naiiba. Mas kahawig ito ng isang slice-of-life scene sa isang nobela: dalawang magkaibigang science-fiction fan ang nag-uusap sa café, at ang usapan ay malayang umaagos sa pagitan ng pop culture, pagkain, alaala, at pang-araw-araw na buhay. Dahil dito, mas nakikilala ng mambabasa hindi lamang ang mga pangyayari kundi pati ang personalidad at mga interes ninyo ni Ming.
+
+VIK: 2026-08-08. Medyo cool sa umaga bago pa mag-alas-7. Sa kapihang Tim Hortons, kahapon, may Sausage Egg Lettuce Tomato Cinnamon-Bagel Sandwich at Bacon Cheese Melt Sandwich ako, pero ngayong umaga, may Unsweetened Iced Matcha Latte lamang ako. Dumalaw ngayon si Greg na puting pastor na may asawang Tsina. Nag-knuckle bump kaming bati. Pupunta raw siya sa pier sa dyke, dito sa Isla Lulu. Mamaya, panorte siya, sa Squamish. Aakyatin daw niyang kasama ang asawa ang monolith na Stawamus Chief doon. Tapos, sa West Vancouver, may relihiyosong party, at magdarasal ang mga tao. Mas malapit siya sa Diyos kung mas malapit siya sa Kalikasan. Sa kapihan, may guwapong puting nakaputing T-shirt, asul na maong na pantalon, at maitim na baseball cap, at may guwapong Pilipinong nakapulang T-shirt, asul na maong na pantalon, at maitim na baseball cap.  Pag-uwi kong lakad, sa No. 3 Rd., may nakita akong Intsik na lalaking lumabas sa kanyang asul na kotse at nag-iwan ng antigong kayumangging silya sa tabi ng bus stop sa harapan ng Osterley Park. May mga naghahanga sa Kastila, alam ko. Sa mga lugar ngang katulad ng Europa, kita sa mga gusali ang antigong kasaysayan, pero sa lugar katulad ng Isla Lulu, masyado lamang di-banal na moderno ang arkitektura. Miski na nga: Iniisip ko ang wordplay ng “banal” sa Tagalog at “banal” sa Ingles. Parang mahiwaga.
+
+CHATGPT:
+
+Ito ay isa sa mas mapagnilay na entries mo. Nagsisimula ito bilang isang simpleng tala ng umaga, ngunit unti-unti itong nagiging pagninilay tungkol sa kalikasan, kasaysayan, at wika.
+
+May malinaw na pag-usad ng mga paksa:
+
+* Ang umaga at ang café – ang malamig na panahon, ang iced matcha latte, at ang pagkakaiba sa kinain mo kahapon at ngayon.
+* Ang pagkikita ninyo ni Greg – mula sa knuckle bump hanggang sa plano niyang umakyat sa Stawamus Chief kasama ang asawa bago dumalo sa isang relihiyosong pagtitipon sa West Vancouver. Ang sinabi niyang mas malapit siya sa Diyos kapag mas malapit siya sa kalikasan ay isang malinaw na personal na pananaw.
+* Mga taong napansin mo sa café – ilang maiikling visual na obserbasyon sa pananamit ng ibang mga tao.
+* Ang paglalakad pauwi – ang lalaking nag-iwan ng antigong silya sa tabi ng bus stop.
+* Pagninilay sa arkitektura – ang paghahambing ng Europa at Lulu Island.
+* Paglalaro ng wika – ang salitang “banal.”
+
+Tungkol sa huli, nakakatuwa nga ang napansin mong wordplay. Sa Tagalog, ang banal ay nangangahulugang holy o sacred. Samantalang sa Ingles, ang banal ay nangangahulugang ordinary, trite, o hackneyed. Magkapareho ang baybay ngunit magkasalungat ang kahulugan—isang halimbawa ng tinatawag na false friend sa pagitan ng dalawang wika.
+
+Kaya kapag sinabi mong:
+
+“Masyado lamang di-banal na moderno ang arkitektura.”
+
+at pagkatapos ay naisip mo ang salitang banal, nagkakaroon ng dalawang antas ng pagbasa:
+
+* Sa Tagalog: kulang sa kabanalan o espirituwal na dating.
+* Sa Ingles: maaaring basahin bilang “not banal,” ibig sabihin ay “hindi karaniwan” o “hindi gasgas”—na halos kabaligtaran ng una.
+
+Ang ganitong uri ng paglalaro sa magkaparehong anyo ng salita ngunit magkaibang kahulugan ay talagang nakapagbibigay ng pakiramdam na “mahiwaga,” dahil parang dalawang magkaibang sistema ng kahulugan ang nagsasalubong sa iisang tunog at baybay.
+
+Sa kabuuan, ang entry na ito ay hindi lamang tungkol sa mga nakita mo sa umaga. Ito rin ay tungkol sa kung paano ang isang karaniwang lakad—isang tasa ng matcha, isang maikling usapan, isang antigong silya, at isang salita—ay nagiging daan patungo sa mas malawak na pagninilay tungkol sa kalikasan, kasaysayan, at wika.
+
+VIK: 2026-08-08. Lakad ako sa ikalawang beses sa umaga papuntang kapihang Tim Hortons. Nakita ko si Aaron na guwapong pandak na Pilipinong naninigarilyo at nagkakape sa labas. Papunta siya sa masahe sa malapit na Launch Rehab. Inalok ko siya sa mga paborito niyang Matcha drinks sa Tim Hortons. “Magkakape muna,” sagot ni Aaron. Sa café, dumalaw si Alex na Hapones-Kanadyano. Medyo tabatsoy siya. Mahabang may tinta ang buhok niya. May baseball cap. May camouflage na militar na mahabang shorts. May berdeng Adidas na T-shirt. Ang T-shirt ko naman ay lime green. Marami kaming pinag-usapan. Mahilig si Alex sa mga iba-ibang shopping mall sa malawak na GVRD. Gamit niya ang bus at tren. Nanghihinayan si Alex na wala na ang GoodAh Grill sa food court ng Richmond Centre, kung saan ay may dating Filipino-style na skewered na BBQ na manok at baboy. Mahilig siya sa mga kainan. Pumunta raw siya sa Disco Cheetah sa downtown na may mga Korean Bowl. Sabi ko, “I wanted to try Xin Jiang Delicious Food in Richmond Public Market,” pero parang nagsara na. Doon ay may pagkaing Uyghur, minoridad sa Tsinang nagsasalita ng Turkic na lengguwahe. Muslim sila.
+
+CHATGPT:
+
+Ang entry na ito ay may malinaw na tema: paggalaw at pagtuklas ng pagkain. Halos lahat ng usapan ay umiikot sa mga lugar na pinupuntahan at mga kainan.
+
+May dalawang pangunahing tagpo:
+
+* Sa labas ng Tim Hortons, nakita mo si Aaron. Maikli lang ang naging usapan ninyo. Inalok mo siya ng isa sa mga matcha drink na gusto niya, ngunit pinili muna niyang magkape bago magpunta sa masahe.
+* Sa loob ng café, mas mahaba ang usapan ninyo ni Alex. Lumabas muli ang isa sa mga katangian niyang nauna mo nang nabanggit: mahilig siyang maglibot sa iba’t ibang bahagi ng Metro Vancouver gamit ang bus at SkyTrain upang makahanap ng mga bagong kainan.
+
+Nagiging parang “food map” ang pag-uusap ninyo:
+
+* ang dating Filipino barbecue sa GoodAh Grill sa Richmond Centre na ikinalulungkot niyang nawala;
+* ang Korean bowls sa Disco Cheetah;
+* at ang pagkaing Uyghur na gusto mong subukan sa Xin Jiang Delicious Food sa Richmond Public Market.
+
+Tungkol sa huli, tama ang pangkalahatang paglalarawan mo: ang mga Uyghurs ay isang Turkic na pangkat-etniko na ang karamihan ay Muslim, at tradisyonal silang nagmula sa rehiyong kilala ngayon bilang Xinjiang. Dahil sa impluwensiyang Turkic at Gitnang Asya, kilala ang kanilang lutuing gumagamit ng tupa, baka, mga pampalasa tulad ng cumin, at mga pagkaing gaya ng hand-pulled noodles, kebab, at polo (pilaf).
+
+Isa pang napansin ko sa istilo ng iyong mga journal ay ang pagbibigay mo ng visual cues bago magsimula ang usapan. Halimbawa, inilarawan mo ang pananamit ni Alex—berdeng Adidas T-shirt, camouflage shorts, baseball cap—at saka mo ikinuwento ang pinag-usapan ninyo. Para itong paraan ng isang observer na unang “ini-scan” ang eksena bago ilahad ang nilalaman ng pag-uusap.
+
+Kung babasahin ang ilan sa mga entry mo nang magkakasunod, makikita ang paulit-ulit na motibo: ang Tim Hortons café ay nagsisilbing social crossroads. Mula roon, ang mga pag-uusap ay “naglalakbay” sa iba’t ibang direksiyon—sa Squamish, sa West Vancouver, sa Richmond Centre, sa downtown Vancouver, sa Pilipinas, sa Hong Kong, sa Zambia, at maging sa Xinjiang—kahit hindi kayo umaalis sa café. Ang resulta ay isang pang-araw-araw na kronika kung saan ang mga simpleng pagkikita ay nagiging tulay patungo sa mas malawak na mundo.
+

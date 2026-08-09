@@ -67,8 +67,8 @@ CHATGPT:
 
 Oo, puwede ang xazla'opre sa Lojban, lalo na bilang isang malikhaing compound/lujvo, pero kailangan nating tingnan kung anong eksaktong kahulugan ang gusto mong ibigay dito.
 Kung ang nais mong sabihin ay “Latinized Asian” / “Asyanong Latinado”, maaaring hatiin ito bilang:
-xazlo — Asia / Asian
-la'opre — Latin / Latinized?
+* xazlo — Asia / Asian
+* la'opre — Latin / Latinized?
 Ngunit may mahalagang punto: ang xazla'opre ay hindi awtomatikong nangangahulugang “Asyanong Latinado” dahil ang kahulugan ng lujvo ay kailangang maipaliwanag sa pamamagitan ng tanru at ng mga selbri na pinagmulan nito. Hindi sapat na mukhang kombinasyon ng dalawang salita.
 Kung ang gusto mo ay isang Lojbanikong termino para sa konsepto ng “Asyanong Latinado”, mas mabuting bumuo tayo ng lujvo na malinaw ang relasyon:
 “isang Asyano na naimpluwensiyahan/na-Latinize”

@@ -140,11 +140,11 @@ The recent quantum research hints at one tiny piece of what a Star Trek holodeck
 
 Here’s a comparison.
 
-Recent quantum experiment	Star Trek holodeck
-Light interacts with matter to form stable quantum states	Creates entire rooms, people, and objects you can touch
-Exists only in specialized laboratory materials	Works in open air throughout a room
-Requires highly controlled quantum conditions	Functions at room temperature for hours
-Produces microscopic quantum phenomena	Produces macroscopic tables, forests, oceans, and humans
+Recent quantum experiment | Star Trek holodeck
+Light interacts with matter to form stable quantum states | Creates entire rooms, people, and objects you can touch
+Exists only in specialized laboratory materials | Works in open air throughout a room
+Requires highly controlled quantum conditions | Functions at room temperature for hours
+Produces microscopic quantum phenomena | Produces macroscopic tables, forests, oceans, and humans
 
 The gap is enormous.
 

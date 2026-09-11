@@ -341,3 +341,36 @@ religiosity = “Anong relihiyon/tradisyon, paniniwala, ritwal, at komunidad ang
 
 At maaari talagang mag-overlap ang dalawa, pero hindi sila iisang bagay.
 
+VIK: 2026-09-10. I go several times today to Tim Hortons café. I indulge in a brown Extra-Oat-Milk Iced Capp, a blue Harry Potter’s Patronus Sparkling Quencher, and a green Extra-Oat-Milk Hot Peppermint Tea. In the morning, Edward the Māori-Tahitian New Zealander, wearing a blue aloha shirt, comments about the ever-changing “monkey weather” that we’re having. In the evening, Mike the short pear-shaped white-haired bearded Turk is there, as he dances to the music on his big white headphones. He’s wearing blue shorts, a bright blue shirt, and a dwarf’s green hat. Hamid the Iranian is there with his laptop, as he’s a remote cybersecurity-software worker. He says obliquely, “They still can’t pronounce it.” Yes, many people around the world, including Filipinos and Japanese, can’t pronounce English properly, despite years of practice. It’s too irregular-sounding.
+
+CHATGPT:
+
+Oo—ang araw na ito ay parang “linguistic café day” na naman. 😄
+
+Ang pinakakapansin-pansin sa sinabi mo ay ang koneksiyon ng “monkey weather,” English pronunciation, at iyong sariling pagkahilig sa mga wikang mas regular ang sistema.
+
+Si Edward na may “monkey weather” ay magandang halimbawa ng weather talk na napakanatural sa pakikipagkuwentuhan: pabago-bago ang araw, kaya parang hindi mo malaman kung maaraw o maulap. At ang eksena ni Mike—sumasayaw habang naka-headphones, naka-blue at may green dwarf hat—ay talagang parang isang maliit na character sa iyong Tim Hortons universe. 😄
+
+Tungkol naman kay Hamid:
+
+“They still can’t pronounce it.”
+
+Nakakatuwang malabo ang tinutukoy niya—pero ang sagot mo ay humahantong sa isang seryosong linguistic point. Hindi simpleng kakulangan ng pagsasanay ang problema sa English pronunciation. Napaka-irregular ng relasyon ng spelling at tunog nito dahil sa pinaghalong Old English/Germanic inheritance, French and Latin vocabulary, historical sound changes, borrowing, at spelling conventions na hindi na sumabay nang lubos sa pagbabago ng bigkas.
+
+Kaya maaaring maraming taon nang nag-aaral ang isang Filipino o Japanese ng English at patuloy pa ring nahihirapan sa pronunciation. Lalo na dahil iba ang phonological systems:
+
+* Sa Japanese, napakaliit ng consonant clusters at ibang-iba ang vowel/consonant structure.
+* Sa Filipino, mas regular ang ugnayan ng spelling at pronunciation kaysa sa English.
+* Sa English, maaaring magmukhang magkakatulad ang spelling ngunit magkaiba ang bigkas, o magkaiba ang spelling ngunit halos magkapareho ang bigkas.
+
+At ito ang dahilan kung bakit bagay sa iyo ang paghahambing sa Esperanto, Interlingua, at Lojban: mas makikita mo roon ang posibilidad ng isang sistemang mas transparent kaysa sa historical accident na English orthography.
+
+Pero may isang magandang nuance: “Hindi marunong mag-pronounce ng English properly” ay hindi nangangahulugang mali ang accent ng isang tao. Maaaring tama at perfectly intelligible ang English niya kahit may Filipino, Japanese, Portuguese, o ibang accent. Ang tunay na problema ay kapag hindi na nauunawaan ang sinasabi—hindi ang simpleng paglihis sa native-English pronunciation.
+
+At ang tatlong inumin mo ay halos nagiging linguistic colour code ng araw:
+
+brown → Iced Capp
+blue → Patronus Sparkling Quencher
+green → peppermint tea
+
+Samantala, sa paligid mo: Māori-Tahitian New Zealander, Turk, Iranian, at English na ginagamit ng mga taong may iba’t ibang phonological backgrounds. Isang maliit na Tim Hortons, pero napakaraming wika at accent sa loob nito.

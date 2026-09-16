@@ -1,0 +1,90 @@
+20260915 Buddhist Temples (ChatGPT)
+Viktor Nonong Medrano
+
+VIK: 2026-09-15. Write an essay in Thai about the architecture of Buddhist temples. Write in Thai inter-linearly with the IPA (with standard IPA tone and contour indicators) and then the English.
+
+CHATGPT:
+
+ได้เลย นี่คือเรียงความภาษาไทย โดยจัดเป็น ไทย → IPA → English ทีละบรรทัด และใช้เครื่องหมายวรรณยุกต์/ทำนองเสียงแบบ IPA อย่างละเอียด
+
+สถาปัตยกรรมของวัดพุทธ
+
+สถาปัตยกรรมของวัดพุทธ
+/sà.tʰǎː.pàt.tā.já.kam kʰɔ̌ːŋ wát pʰút/
+The Architecture of Buddhist Temples
+
+วัดพุทธเป็นสถานที่ที่รวมศาสนา ศิลปะ และวิถีชีวิตของผู้คนเข้าไว้ด้วยกัน
+/wát pʰút pen sà.tʰǎː.nǎː.tʰîː tʰîː ruam sàː.sà.nǎː, sǐn.lá.pàʔ, lǽ wí.tʰîː tɕʰîː.wít kʰɔ̌ːŋ pʰûː.kʰon kʰâw wái dûːai kan/
+Buddhist temples are places where religion, art, and people’s ways of life come together.
+
+สถาปัตยกรรมของวัดจึงไม่ได้มีหน้าที่เพียงสร้างอาคารสำหรับประกอบพิธีกรรมเท่านั้น
+/sà.tʰǎː.pàt.tā.já.kam kʰɔ̌ːŋ wát tɕɯŋ mâi dâːi mii nâː.tʰîː pʰîːaŋ sâːŋ ʔā.kʰāːn sǎm.ràp prà.kɔ̀ːp pʰí.tʰiː.kam tʰâo.nán/
+The architecture of a temple therefore does not merely serve to provide buildings for religious ceremonies.
+
+แต่ยังสร้างบรรยากาศที่ช่วยให้ผู้คนสงบ มีสมาธิ และใคร่ครวญถึงชีวิต
+/tɛ̀ː jàŋ sâːŋ ban.jāː.kàːt tʰîː tɕʰûːai hâi pʰûː.kʰon sàŋòp mii sà.mǎː.tʰíʔ lǽ kʰrâi.kʰruːan tʰɯ̌ŋ tɕʰîː.wít/
+It also creates an atmosphere that helps people become peaceful, concentrate, and contemplate life.
+
+ในประเทศไทย วัดมักประกอบด้วยอาคารหลายประเภท เช่น พระอุโบสถ วิหาร เจดีย์ และกุฏิ
+/nai prà.tʰêːt.tʰai wát mâk prà.kɔ̀ːp dûːai ʔā.kʰāːn lǎːi prà.pʰêːt tɕʰên pʰráʔ ʔù.boː.sòt, wí.hǎːn, tɕeː.dii, lǽ kù.tìʔ/
+In Thailand, temples commonly consist of several types of buildings, such as the ordination hall, assembly hall, stupa, and monks’ residences.
+
+พระอุโบสถเป็นพื้นที่สำคัญสำหรับกิจกรรมทางพระพุทธศาสนาและพิธีกรรมของพระสงฆ์
+/pʰráʔ ʔù.boː.sòt pen pʰɯ́ːn.tʰîː sǎm.kʰan sǎm.ràp kìt.tì.kam tʰaːŋ pʰráʔ pʰút.tʰá.sàː.sà.nǎː lǽ pʰí.tʰiː.kam kʰɔ̌ːŋ pʰráʔ.sǒŋ/
+The ordination hall is an important space for Buddhist activities and monastic rituals.
+
+วิหารมักเป็นสถานที่สำหรับประดิษฐานพระพุทธรูปและสำหรับให้พุทธศาสนิกชนเข้ามาสักการะ
+/wí.hǎːn mâk pen sà.tʰǎː.nǎː tǎm.ràp prà.dìt.tʰǎːn pʰráʔ pʰút.tʰá.rûːp lǽ sǎm.ràp hâi pʰút.tʰá.sàː.sà.nìk.kʰon kʰâw mâː sàk.kā.ráʔ/
+The assembly hall is often a place for enshrining Buddha images and for Buddhist devotees to come and pay their respects.
+
+ส่วนเจดีย์เป็นองค์ประกอบที่มีความหมายเชิงสัญลักษณ์อย่างเด่นชัด
+/sùːan tɕeː.dii pen ʔoŋ p.rà.kɔ̀ːp tʰîː mii kʰwaːm mǎːi tɕʰeːŋ sǎn.lá.lák jàːŋ dèn.tɕʰàt/
+The stupa, meanwhile, is an architectural element with a particularly strong symbolic meaning.
+
+รูปทรงของเจดีย์แตกต่างกันไปตามยุคสมัยและภูมิภาค
+/rûːp.sɔ̌ːŋ kʰɔ̌ːŋ tɕeː.dii tɛ̀ːk.tàːŋ kan pai taːm jûːk sà.mǎi lǽ pʰuum pʰâːk/
+The forms of stupas vary according to historical period and region.
+
+หลังคาซ้อนชั้นเป็นลักษณะเด่นอย่างหนึ่งของสถาปัตยกรรมไทย
+/lǎŋ.kʰaː sɔ́ːn tɕʰán pen lâk.sà.nàʔ dèn jàːŋ nɯ̀ŋ kʰɔ̌ːŋ sà.tʰǎː.pàt.tā.já.kam tʰai/
+Layered roofs are one of the distinctive features of Thai architecture.
+
+หลังคาที่ซ้อนลดหลั่นกันสร้างจังหวะทางสายตาและทำให้อาคารดูสูงสง่า
+/lǎŋ.kʰaː tʰîː sɔ́ːn lót.làn kan sâːŋ tɕàŋ.wàʔ tʰaːŋ sǎːi.taː lǽ tʰam hâi ʔā.kʰāːn duː sǔːŋ saŋ.àː/
+The successively layered roofs create a visual rhythm and give the building an elevated, majestic appearance.
+
+นอกจากนี้ยังมีช่อฟ้า ใบระกา และหางหงส์ ซึ่งเพิ่มรายละเอียดอันวิจิตรให้แก่หลังคา
+/nâː.kʰɔ̂ːn níː jàŋ mii tɕʰɔ̂ː.fáː, bai rá.kaː, lǽ hǎːŋ.hǒŋ, sɯ̂ŋ pʰɤ̂ːm ráːi.la.ìat ʔan wí.tɕìt hâi kɛ̀ː lǎŋ.kʰaː/
+There are also roof ornaments such as chofah, bai raka, and hang hong, which add intricate detail to the roof.
+
+การประดับตกแต่งภายในและภายนอกมักใช้ลวดลายพรรณพฤกษา สัตว์ในตำนาน และเรื่องราวทางพุทธศาสนา
+/kaːn prà.dàp tòŋ.tɛ̀ŋ pʰaːi.nai lǽ pʰaːi.nɔ̂ːk mâk tɕʰái lûːat.laːi pʰan.na.pʰrɯ́k.sǎː, sàt nai tam.naːn, lǽ rɯ̂aŋ.raːw tʰaːŋ pʰút.tʰá.sàː.sà.nǎː/
+Interior and exterior decoration often employs botanical patterns, mythical creatures, and stories from Buddhism.
+
+สีทองและสีสดช่วยเน้นความศักดิ์สิทธิ์และความงดงามของพื้นที่
+/sǐː tʰɔːŋ lǽ sǐː sòt tɕʰûːai nén kʰwaːm sàk.sìt lǽ kʰwaːm ŋam kʰɔ̌ːŋ pʰɯ́ːn.tʰîː/
+Gold and vivid colors emphasize the sacredness and beauty of the space.
+
+อย่างไรก็ตาม วัดพุทธไม่ได้มีเพียงความหรูหราหรือความวิจิตรเท่านั้น
+/jàːŋ.rai.kɔ̂ː.taːm wát pʰút mâi dâːi mii pʰîːaŋ kʰwaːm rǔː.rǎː hʉ̌ː kʰwaːm wí.tɕìt tʰâo.nán/
+However, Buddhist temples are not defined only by luxury or ornamentation.
+
+วัดหลายแห่งใช้พื้นที่ว่าง สวน ต้นไม้ และสระน้ำเพื่อสร้างความรู้สึกสงบและใกล้ชิดธรรมชาติ
+/wát lǎːi hɛ̀ŋ tɕʰái pʰɯ́ːn.tʰîː wâːŋ, sǔan, tôn.máːi, lǽ sàʔ.náːm pʰɯ̂a sâːŋ kʰwaːm rúː.sɯ̀k sàŋòp lǽ klâi.tɕʰít tʰam.má.tɕʰâːt/
+Many temples use open spaces, gardens, trees, and ponds to create a sense of tranquility and closeness to nature.
+
+การจัดพื้นที่เช่นนี้ทำให้สถาปัตยกรรมไม่ได้แยกออกจากภูมิทัศน์ แต่กลายเป็นส่วนหนึ่งของภูมิทัศน์
+/kaːn tɕàt pʰɯ́ːn.tʰîː tɕʰên níː tʰam hâi sà.tʰǎː.pàt.tā.já.kam mâi dâːi jɛ̂ːk ʔɔ̀ːk tɕàːk pʰuumí.tʰát, tɛ̀ː klaːi pen sùːan nɯ̀ŋ kʰɔ̌ːŋ pʰuumí.tʰát/
+Such spatial organization means that architecture is not separated from the landscape but becomes part of it.
+
+ในความหมายนี้ วัดจึงเป็นทั้งสถานที่ศักดิ์สิทธิ์ งานศิลปะ และพื้นที่สำหรับการดำเนินชีวิต
+/nai kʰwaːm mǎːi níː wát tɕɯŋ pen tʰáŋ sà.tʰǎː.nǎː.tʰîː sàk.sìt, ŋaːn sǐn.lá.pàʔ, lǽ pʰɯ́ːn.tʰîː sǎm.ràp kaːn dam.nɤːn tɕʰîː.wít/
+In this sense, a temple is simultaneously a sacred place, a work of art, and a space for living.
+
+สถาปัตยกรรมของวัดพุทธจึงสะท้อนความสัมพันธ์ระหว่างมนุษย์ ธรรมชาติ ศิลปะ และความเชื่อ
+/sà.tʰǎː.pàt.tā.já.kam kʰɔ̌ːŋ wát pʰút tɕɯŋ sà.tʰɔ́ːn kʰwaːm sǎm.pʰan rá.wàːŋ má.nút, tʰam.má.tɕʰâːt, sǐn.lá.pàʔ, lǽ kʰwaːm tɕʰɯ̂a/
+The architecture of Buddhist temples therefore reflects the relationship among human beings, nature, art, and belief.
+
+ด้วยเหตุนี้ วัดจึงสามารถเป็นสถานที่ที่ผู้คนไม่ได้เพียงเข้าไปประกอบพิธี แต่ยังเข้าไปหยุดพัก มองความงาม และพิจารณาชีวิตของตนเอง
+/dûːai hèt níː wát tɕɯŋ sǎː.mâːt pen sà.tʰǎː.nǎː.tʰîː tʰîː pʰûː.kʰon mâi dâːi pʰîːaŋ kʰâw pai prà.kɔ̀ːp pʰí.tʰiː, tɛ̀ː jàŋ kʰâw pai yùt pʰák, mɔɔŋ kʰwaːm ŋam, lǽ pʰí.tɕʰaː.rá.naː tɕʰîː.wít kʰɔ̌ːŋ ton.ʔeːŋ/
+For this reason, a temple can be a place where people do not merely perform rituals, but also pause, appreciate beauty, and contemplate their own lives.

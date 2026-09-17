@@ -10,6 +10,7 @@ Yes—your intuition is quite good, especially because you are distinguishing di
 I would treat hardness/stiffness ↔ softness/flow as a phonetic-perceptual continuum, not as a linguistic property with a single objective measurement.
 
 1. Word endings: one of the strongest cues
+
 Your Spanish/Mandarin versus English/Cantonese contrast captures something real.
 
 Languages can have very different phonotactic profiles:
@@ -32,8 +33,10 @@ CVT, CVK, CCVC, CVCC, CCVCCC
 This is partly why English can sound more “angular” than Spanish even though English vowels themselves can sound comparatively less sharply differentiated.
 
 2. Vowels create a completely different kind of hardness
+
 This is the fascinating part of your observation.
 You can have a language whose consonants are soft but whose vowels are very sharply delineated.
+
 Spanish and Esperanto are good examples for your purposes. Their relatively stable vowel systems make:
 
 a e i o u
@@ -113,6 +116,7 @@ So English can simultaneously be:
 That apparent contradiction is exactly why your concept is useful.
 
 5. Rhythm contributes enormously
+
 I’d add rhythm as another axis.
 
 English is often characterized as strongly stress-timed, while Spanish is more often described as syllable-timed (with the usual caveat that real languages don’t fall into perfectly discrete timing categories).

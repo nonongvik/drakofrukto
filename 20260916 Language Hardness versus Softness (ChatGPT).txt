@@ -176,12 +176,15 @@ Then a language doesn’t get a single score. It gets a phonetic texture.
 For example, your intuition could characterize Spanish approximately as:
 
 soft consonantal texture + hard/clear vowels + relatively low reduction + flowing syllabic rhythm
+
 and English as:
 
 hard consonantal texture + soft/variable vowels + high reduction + highly elastic stress rhythm
+
 while Cantonese might be:
 
 harder syllable closure + relatively clear vowel nuclei + substantial tonal/prosodic specification
+
 and Esperanto:
 
 smooth syllable structure + unusually explicit vowel targets + comparatively little reduction + strongly segmentable phonology.

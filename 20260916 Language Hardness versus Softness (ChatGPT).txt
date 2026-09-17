@@ -146,6 +146,7 @@ may perceive an enormous amount of consonantal hardness.
 An English speaker hearing a language with unfamiliar phonemic contrasts might instead perceive that language as harsh—even if its syllables are mostly CV.
 
 And for a learner, precision can itself feel hard.
+
 That’s particularly relevant to your experience with Esperanto and Interlingua. Esperanto’s vowels are relatively stable and its phoneme-to-letter correspondence is unusually transparent. That can make pronunciation feel rigidly well-defined:
 
 a must be /a/,
@@ -162,6 +163,7 @@ So:
 “Variable” ≠ “soft” in every sense.
 
 A multidimensional “language hardness” model
+
 If we wanted to turn your intuition into something more systematic, I’d divide hardness/softness into at least six independent axes:
 
 	1.	Coda hardness — how frequently syllables terminate in stops/clusters.

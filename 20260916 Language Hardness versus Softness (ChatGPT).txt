@@ -61,6 +61,7 @@ Esperanto	relatively smooth	clear/distinct
 Mandarin	relatively smooth	fairly distinct
 English	clustered/abrupt	variable/reduced
 Cantonese	closed/abrupt in many syllables	relatively distinct
+
  That’s why saying simply “English is harder” or “Spanish is softer” loses something important.
 
 3. Consonant quality matters too

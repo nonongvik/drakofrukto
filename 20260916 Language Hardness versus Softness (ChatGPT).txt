@@ -55,12 +55,13 @@ Vocalic/target hardness
 And they can point in opposite directions.
 You could therefore get:
 
-Language	Consonantal impression	Vowel impression
-Spanish	relatively smooth	clear/distinct
-Esperanto	relatively smooth	clear/distinct
-Mandarin	relatively smooth	fairly distinct
-English	clustered/abrupt	variable/reduced
-Cantonese	closed/abrupt in many syllables	relatively distinct
+Language | Consonantal impression | Vowel impression
+
+Spanish | relatively smooth | clear/distinct
+Esperanto | relatively smooth | clear/distinct
+Mandarin | relatively smooth | fairly distinct
+English | clustered/abrupt | variable/reduced
+Cantonese | closed/abrupt in many syllables | relatively distinct
 
  That’s why saying simply “English is harder” or “Spanish is softer” loses something important.
 

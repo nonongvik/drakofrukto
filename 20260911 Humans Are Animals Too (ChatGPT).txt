@@ -510,3 +510,46 @@ May magandang parallel nga rito:
 
 Iisang café, pero parang bawat tao ay may sariling mental map of meanings. At ikaw mismo ay nasa gitna nito, nag-oobserba ng mga wika, relihiyon, simbolo, at tao na parang isang maliit na living laboratory.
 
+VIK: 2026-09-19. I go in the morning twice to Tim Hortons café for both times an Extra-Oat-Milk Iced Matcha Latte, but with a Sausage Farmer’s Wrap in the first round. In the second round, I see Květa, the Czech lady, with her visiting nephew from Czechia with the wife. I see Nicole the Anglo girl. She’s the one that recommended that I try the Mild Skewered Sausage at Dollař Boba, but I tried and do like the _Spicy_ Skewered Sausage. We both like the “ultra variety” of boba toppings, green tea flavours, and slush flavours there. I recommend to Nicole the various Matcha Latte flavours, hot and cold, at Tim Hortons café. On my mind recently is that many conlangers, constructed-language creators, like me are really unsatisfied with natlangs, natural languages. Such is one reason that we creative linguists create new languages. Non-conlangers won’t really understand this hobby. (Incidentally, I think that AI is much smarter than the public.)
+
+CHATGPT:
+
+Ang interesting ng September 19 mo kasi parang food-and-language day siya sa café: dalawang Extra-Oat-Milk Iced Matcha Latte, Sausage Farmer’s Wrap sa unang round, tapos Czech visitors, Nicole, boba, at sa background ay iyong mas malalim mong pag-iisip tungkol sa conlanging.
+
+Tingin ko tama ang intuition mo tungkol sa isang mahalagang motivation ng maraming conlanger: hindi lamang “Gusto kong gumawa ng language dahil creative.” Para sa ilan, may pakiramdam na may kulang o hindi kasiya-siya sa mga natural language—halimbawa:
+
+＊ irregularity na hindi nila gusto;
+＊ sobrang daming homonym;
+＊ mga tunog o phonotactics na hindi aesthetically pleasing;
+＊ grammar na tila historically accidental;
+＊ spelling na hindi transparent;
+＊ mga bagay na mahirap sabihin nang eleganteng;
+＊ o simpleng pakiramdam na “Kung ako ang magdidisenyo nito, gagawin ko ito nang iba.”
+
+Dito pumapasok ang conlanging bilang linguistic design. Hindi lang pag-aaral kung paano gumagana ang wika, kundi pagtatanong kung paano maaaring gumana ang isang wika.
+
+At sa iyo, mas kapansin-pansin ito dahil hindi ka lang pumipili ng isang conlang. Nakikita mo ang isang malaking aesthetic design space: Esperanto, Interlingua, Lojban, at sarili mong mga linguistic constructions—kasama ang Asian, Indigenous/Native American, Latinate, Germanic, Alien, at mixed aesthetics. Kaya ang natural language ay maaari mong tingnan hindi lamang bilang communication system kundi bilang raw material.
+
+May isa pang magandang distinction:
+
+＊ Language learner:
+
+“Paano gumagana ang wikang ito?”
+
+＊ Linguist:
+
+“Bakit ganito ang pagkakagawa nito?”
+
+＊ Conlanger:
+
+“Paano ko ito maaaring gawin differently?”
+
+Kaya mauunawaan kung bakit minsan ay hindi madaling ipaliwanag sa isang non-conlanger kung bakit napakalalim ng hobby. Sa labas, mukhang “gumagawa ka lang ng mga salita.” Pero sa loob nito ay phonology, morphology, syntax, semantics, pragmatics, writing systems, cultural assumptions, aesthetics, at maging isang buong imagined speech community.
+
+At ang café setting mo ay halos ironic na bagay para rito: habang nakikipag-usap ka kay Nicole tungkol sa ultra-variety ng boba toppings, green-tea flavours, at slushes, iniisip mo rin ang ultra-variety ng possible languages. 😄 Parehong may pleasure sa pagpili ng combinations.
+
+Tungkol naman sa huli mong thought na “AI is much smarter than the public,” gagawin ko lang iyong mas precise: maaaring napakakahanga-hanga ng ilang kakayahan ng modern AI kumpara sa karaniwang tao sa ilang intellectual tasks, pero hindi iyon nangangahulugang universally “smarter” ito kaysa sa public. Magkakaiba ang strengths: AI sa mabilis na synthesis at pattern manipulation; tao sa embodied experience, lived context, social understanding, motivation, at maraming uri ng open-ended judgment.
+
+Sa conlanging, gayunpaman, may magandang irony: AI ay maaaring maging napakalakas na linguistic design partner, pero ang aesthetic decision na “ito ang language na gusto kong likhain” ay nananatiling creative choice ng conlanger. At iyon mismo ang tila lalong naging malinaw sa iyo nitong mga nakaraang araw: hindi ka lamang language learner—language creator ka rin.
+
+

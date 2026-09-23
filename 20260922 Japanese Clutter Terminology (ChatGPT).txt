@@ -132,3 +132,70 @@ Japanese eclectic/collector room:
 The latter doesn’t have one universally established counterpart to minimalism, but 雑多, 物が多い, ごちゃごちゃ感, and 収集 give you different pieces of the vocabulary.
 
 Given your interest in Japanese, Japandi, wabi-sabi, and those visually rich houses where books, plants, objects and personal artifacts are allowed to remain visible, I’d call the aesthetic you’re describing Japanese eclecticism / object-rich Japanese interior, rather than simply “Japanese clutter.”
+
+VIK: 2026-09-22. Use 収集癖 (shūshū-heki) in a sentence describing a room.
+
+CHATGPT:
+
+A natural sentence would be:
+
+この部屋には、彼の収集癖がよく表れている。
+Kono heya ni wa, kare no shūshū-heki ga yoku arawarete iru.
+“This room clearly reflects his tendency to collect things.”
+
+Here, 収集癖 has a slightly personal/psychological nuance: the room itself reveals that he likes collecting things, rather than merely being cluttered.
+
+VIK: 2026-09-22. Is 収集癖 (shūshū-heki) a na-adjective? How to use?
+
+CHATGPT:
+
+Not exactly. 収集癖（しゅうしゅうへき, shūshū-heki） is a noun, specifically a compound noun meaning “a collecting habit/tendency” or “a collector’s compulsion.”
+
+The key is 癖（へき）, which means a habit, tendency, or characteristic inclination.
+
+How to use it
+
+1. As a noun
+
+彼には収集癖がある。
+Kare ni wa shūshū-heki ga aru.
+“He has a tendency to collect things.”
+
+This is probably the most straightforward construction.
+
+2. Modifying another noun with の
+
+彼の収集癖はすごい。
+Kare no shūshū-heki wa sugoi.
+“His collecting habit is remarkable.”
+
+Here 彼の modifies the noun 収集癖.
+
+3. With 〜がある
+
+彼女には古い本の収集癖がある。
+Kanojo ni wa furui hon no shūshū-heki ga aru.
+“She has a tendency to collect old books.”
+
+Notice that 古い本の specifies what she collects.
+
+Is it a な-adjective?
+
+No. You wouldn’t normally say:
+
+❌ 収集癖な部屋
+❌ 収集癖な人
+
+Instead:
+
+収集癖のある人
+shūshū-heki no aru hito
+“a person who has a collecting habit”
+
+And for your room example:
+
+収集癖のある人の部屋
+shūshū-heki no aru hito no heya
+“the room of someone with a collecting habit”
+
+So grammatically, 収集癖 behaves like an ordinary noun, not like a Japanese な-adjective (形容動詞).
